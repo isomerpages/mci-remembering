@@ -1,17 +1,28 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
+  - title: Who We Are
+    url: /who-we-are/
+  - title: The Events
+    url: /the-events/
   - title: Resources
     resource_room: true
+  - title: Menu Title
+    collection: example-collection
+  - title: Life & Contributions
+    url: life-and-contributions
+    sublinks:
+      - title: Mr Lee & Singapore
+        url: mrleeandsingapore
+  - title: Media
+    url: /media
+    sublinks:
+      - title: Photographs
+        url: /photographs
+      - title: Videos
+        url: /videos
+      - title: Press Releases
+        url: /pressreleases
+      - title: Eulogies
+        url: /eulogies
+      - title: Stories From The Media
+        url: stories-from-the-media
