@@ -4,8 +4,6 @@ links:
     url: /who-we-are/
   - title: The Events
     url: /the-events/
-  - title: Resources
-    resource_room: true
   - title: Menu Title
     collection: example-collection
   - title: Life & Contributions
