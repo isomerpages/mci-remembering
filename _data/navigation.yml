@@ -17,8 +17,17 @@ links:
         url: /organisation-structure
       - title: Accolades
         url: /accolades
-  - title: Menu Title
-    collection: example-collection
+  - title: The Events
+    url: /the-events
+    sublinks:
+      - title: The Funeral
+        url: /the-funeral
+      - title: Lying inState atParliament Hse
+        url: /lying-in-state-at-parliament-house
+      - title: State Funeral Service
+        url: /state-funeral-service
+      - title: Special Parliament Sitting
+        url: /special-parliament-sitting
   - title: Life & Contributions
     url: life-and-contributions
     sublinks:
@@ -37,14 +46,16 @@ links:
         url: /eulogies
       - title: Stories From The Media
         url: stories-from-the-media
-  - title: The Events
-    url: /the-events
+  - title: National Mourning Week 2015
+    url: /snational-mourning-week-2015
     sublinks:
-      - title: The Funeral
-        url: /the-funeral
-      - title: Lying inState atParliament Hse
-        url: /lying-in-state-at-parliament-house
-      - title: State Funeral Service
-        url: /state-funeral-service
-      - title: Special Parliament Sitting
-        url: /special-parliament-sitting
+      - title: View 2015 Tributes
+        url: /view-2015-tributes
+      - title: View2015 TributesfromtheGround
+        url: /view-2015-tributes-from-the-ground
+      - title: Vi15TributesfrmForeignLeaders
+        url: /view-2015-tributes-from-foreign-leaders
+      - title: pics frm comm. sites in 2015
+        url: /pictures-from-community-sites-in-2015
+      - title: Exhibitions in 2015
+        url: /visit-the-exhibitions
