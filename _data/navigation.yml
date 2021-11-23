@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who We Are
-    url: /who-we-are/
   - title: The Events
     url: /the-events/
   - title: Menu Title
@@ -24,3 +22,20 @@ links:
         url: /eulogies
       - title: Stories From The Media
         url: stories-from-the-media
+  - title: Who We Are
+    url: /who-we-are
+    sublinks:
+      - title: Our Organisation
+        url: /our-organisation
+      - title: Vision,Mission And Core Values
+        url: /vision-mission-and-core-values
+      - title: Our Logo
+        url: /our-logo
+      - title: Political Office Holders
+        url: /political-office-holders
+      - title: Senior Management
+        url: /senior-management
+      - title: Organisation Structure
+        url: /organisation-structure
+      - title: Accolades
+        url: /accolades
