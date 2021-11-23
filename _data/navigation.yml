@@ -1,7 +1,22 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: The Events
-    url: /the-events/
+  - title: Who We Are
+    url: /who-we-are
+    sublinks:
+      - title: Our Organisation
+        url: /our-organisation
+      - title: Vision,Mission And Core Values
+        url: /vision-mission-and-core-values
+      - title: Our Logo
+        url: /our-logo
+      - title: Political Office Holders
+        url: /political-office-holders
+      - title: Senior Management
+        url: /senior-management
+      - title: Organisation Structure
+        url: /organisation-structure
+      - title: Accolades
+        url: /accolades
   - title: Menu Title
     collection: example-collection
   - title: Life & Contributions
@@ -22,20 +37,14 @@ links:
         url: /eulogies
       - title: Stories From The Media
         url: stories-from-the-media
-  - title: Who We Are
-    url: /who-we-are
+  - title: The Events
+    url: /the-events
     sublinks:
-      - title: Our Organisation
-        url: /our-organisation
-      - title: Vision,Mission And Core Values
-        url: /vision-mission-and-core-values
-      - title: Our Logo
-        url: /our-logo
-      - title: Political Office Holders
-        url: /political-office-holders
-      - title: Senior Management
-        url: /senior-management
-      - title: Organisation Structure
-        url: /organisation-structure
-      - title: Accolades
-        url: /accolades
+      - title: The Funeral
+        url: /the-funeral
+      - title: Lying inState atParliament Hse
+        url: /lying-in-state-at-parliament-house
+      - title: State Funeral Service
+        url: /state-funeral-service
+      - title: Special Parliament Sitting
+        url: /special-parliament-sitting
