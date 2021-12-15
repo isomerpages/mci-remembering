@@ -2,5 +2,6 @@ collections:
   the-event:
     output: true
     order:
+      - state funeral service.md
       - lying in state at parliament house.md
       - the funeral.md
