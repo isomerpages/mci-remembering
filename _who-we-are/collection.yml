@@ -2,5 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Logo.md
       - Our Organisation.md
       - Vision, Mission and Core Values.md
