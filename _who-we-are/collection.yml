@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - Vision, Mission and Core Values.md
       - OurOrganisation.md
+      - Vision, Mission and Core Values.md
