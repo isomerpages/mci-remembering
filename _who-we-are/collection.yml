@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Senior Management.md
       - political office holders.md
       - Our Logo.md
       - Our Organisation.md
