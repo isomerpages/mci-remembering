@@ -1,4 +1,5 @@
 collections:
   whoarewe:
     output: true
-    order: []
+    order:
+      - OurOrganisation.md
