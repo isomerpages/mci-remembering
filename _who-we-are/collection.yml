@@ -2,10 +2,10 @@ collections:
   who-we-are:
     output: true
     order:
-      - Accolades.md
-      - organisation structure.md
-      - Senior Management.md
-      - political office holders.md
       - Our Logo.md
       - Our Organisation.md
       - Vision, Mission and Core Values.md
+      - political office holders.md
+      - Senior Management.md
+      - organisation structure.md
+      - Accolades.md
