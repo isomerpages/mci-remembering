@@ -1,4 +1,5 @@
 collections:
   the-event:
     output: true
-    order: []
+    order:
+      - the funeral.md
