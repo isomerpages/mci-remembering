@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Accolades.md
       - organisation structure.md
       - Senior Management.md
       - political office holders.md
