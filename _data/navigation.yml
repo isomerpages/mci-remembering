@@ -2,17 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Who We Are
     collection: who-we-are
-  - title: The Events
-    url: /the-events
-    sublinks:
-      - title: The Funeral
-        url: /the-funeral
-      - title: Lying inState atParliament Hse
-        url: /lying-in-state-at-parliament-house
-      - title: State Funeral Service
-        url: /state-funeral-service
-      - title: Special Parliament Sitting
-        url: /special-parliament-sitting
   - title: Life & Contributions
     url: life-and-contributions
     sublinks:
