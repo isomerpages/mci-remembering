@@ -1,4 +1,5 @@
 collections:
   life-and-contributions:
     output: true
-    order: []
+    order:
+      - Mr Lee & Singapore.md
