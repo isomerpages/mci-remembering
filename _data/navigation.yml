@@ -8,15 +8,15 @@ links:
       - title: Vision,Mission And Core Values
         url: /who-we-are/vision-mission-and-core-values
       - title: Our Logo
-        url: /our-logo
+        url: /who-we-are/our-logo
       - title: Political Office Holders
-        url: /political-office-holders
+        url: /who-we-are/political-office-holders
       - title: Senior Management
-        url: /senior-management
+        url: /who-we-are/senior-management
       - title: Organisation Structure
-        url: /organisation-structure
+        url: /who-we-are/organisation-structure
       - title: Accolades
-        url: /accolades
+        url: /who-we-are/accolades
   - title: The Events
     url: /the-events
     sublinks:
@@ -70,3 +70,5 @@ links:
         url: /pictures-from-commemorative-events-and-exhibitions
   - title: E-book
     collection: example-collection
+  - title: Who We Ares
+    collection: who-we-are
