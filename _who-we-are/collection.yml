@@ -1,5 +1,5 @@
 collections:
-  whoarewe:
+  who-we-are:
     output: true
     order:
       - OurOrganisation.md
