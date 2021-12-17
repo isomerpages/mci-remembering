@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       subtitle: Remembering Lee Kuan Yew (1923-2015)
-      background: /images/hero-banner.png
+      background: /images/lky.jpg
       url: /contact-us/
       key_highlights:
         - title: Life & Events
