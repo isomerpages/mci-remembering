@@ -21,11 +21,13 @@ sections:
           description: ""
           url: https://www.remembering.sg/leekuanyew/media/eulogies
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Our Tribute
+      subtitle: Focus
+      description: Remembering.sg serves as a memorial for our founding Prime
+        Minister, Lee Kuan Yew.We aim to provide the public with insights on his
+        Life & Contributions.
+      button: learn more
+      url: /mrleeandsingapore
   - resources:
       title: Media
       subtitle: Learn more
