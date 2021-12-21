@@ -5,8 +5,6 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/Mr%20and%20Mrs%20Lee.webp)
 
                  With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
