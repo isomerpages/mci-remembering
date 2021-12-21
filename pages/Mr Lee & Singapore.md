@@ -6,6 +6,8 @@ layout: post
 description: ""
 ---
 # Mr Lee & Singapore
+<!-- blank line -->
+<br>
 
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
 
