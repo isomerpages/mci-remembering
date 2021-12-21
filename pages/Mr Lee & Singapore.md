@@ -6,9 +6,9 @@ layout: post
 description: ""
 ---
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
- 								                    ## 7 February 1948	
-																		21 June 1974 and 	
-																		7 October 2000
+*7 February 1948	
+*	21 June 1974 and 	
+* 7 October 2000
 																																					
 																																					
 																																					
