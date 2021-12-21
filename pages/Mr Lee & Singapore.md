@@ -14,7 +14,7 @@ With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from t
 																																					
 																																					
 		
-# 	A lifelong romance 
+## 	A lifelong romance 
 
 Mr Lee met Miss Kwa Geok Choo while they were at Raffles College. She was an outstanding student who outdid him in several subjects. He struck up a friendship with Miss Kwa.It was the start of an extraordinary and touching love story that spanned more than half a century.
 
