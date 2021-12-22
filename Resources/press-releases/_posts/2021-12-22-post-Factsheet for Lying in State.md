@@ -5,8 +5,6 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
-
-
 The traditional mounting of the vigil guards during the lying in state period symbolises the highest form of respect accorded to the deceased. It comprises four uniformed officers each standing at a corner of the casket with his head bowed, back turned away and ceremonial sword inverted. The vigil guards will be led by a senior officer, who will stand at the head of the casket facing inwards.
 
 The Chief of Defence Force, Lieutenant-General Ng Chee Meng; Chief of Army (COA), Major-General Perry Lim; Chief of Navy (CNV), Rear-Admiral Lai Chung Han; Chief of Air Force (CAF), Major-General Hoo Cher Mou; and Chief of Staff, Joint Staff, Brigadier-General Chia Choon Hoong will perform the first vigil guard duties in the morning of 25 Mar from 9.45 a.m. to 10.15 a.m. That same afternoon, the Commissioner of Police will lead senior officers from the Singapore Police Force in performing vigil guard duties. On subsequent days, COA, CNV and CAF will lead their respective Services in performing the vigil guard duties.
@@ -67,6 +65,4 @@ Teh Seng Lee, Bobby
 | Time   |  Vigil Group	 | Names
 | -------- | -------- | -------- |
 | 1130 – 1200	     | Close friends and personal staff	      | Ong Beng Seng , Fu Christine , Stephen Lee Ching Yen, , Irene Lee Oi Ling, Liew Mun Leong ,Peter Seah Lim Huat , Mylene Tan Siew Toh ,Cheng Wai Keong, Helen Cheng, Lim Teck Kiat, Yeong Yoon Ying, Wong Lin Hoe ,Florence Tan (Ler Chay Keng) , Linda Chia May San, Tan Lai Kheng , Jerry Tan , Lee Seow Hiang ,Raymond Pay Hock Seng ,Alan Chang Tat Seng ,Tan Chee Keong  |
-| 1400 – 1430     | Former Principal Private Secretaries and personal staff    | Andrew Tan Kok Kiong,Chee Hong Tat,Leo Yip ,Koh KiangChay,Loh Hock Teck , Moses Lee Kim  Poo, Ho Meng Kit
-Alan Chan Heng Loon Robert LimCheong Cheng Hoon,Anthony Tan Kang Uei, Lilian Ho Li Min, Keith Lee Kee Kae
-Loo Liang Chye,Soon Hong Yee, Yeo Heng Giap, Chester Lim Zhi Quan, Lee Koon San, Tan Kang Pin, Bek Hua Earng   |
+| 1400 – 1430     | Former Principal Private Secretaries and personal staff    | Andrew Tan Kok Kiong,Chee Hong Tat,Leo Yip ,Koh KiangChay,Loh Hock Teck , Moses Lee Kim  Poo, Ho Meng Kit ,Alan Chan Heng Loon Robert LimCheong Cheng Hoon,Anthony Tan Kang Uei, Lilian Ho Li Min, Keith Lee Kee Kae, Loo Liang Chye,Soon Hong Yee, Yeo Heng Giap, Chester Lim Zhi Quan, Lee Koon San, Tan Kang Pin, Bek Hua Earng   |
