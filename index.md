@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Life & Events
           description: ""
-          url: life-and-contributions/mrleeandsingapore
+          url: /mrleeandsingapore
         - title: Our Organisation
           description: ""
           url: https://www.remembering.sg/leekuanyew/who-we-are/our-organisation
