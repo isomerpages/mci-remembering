@@ -5,10 +5,11 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
-
 ### Mr Lee & Singapore
 <!-- blank line -->
 <br>
+
+![Alt text for image on Isomer site](/images/mrandmrslee.png)
 
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
 
