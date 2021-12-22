@@ -2,13 +2,10 @@ logo: /images/Rememberingsg%20icon.png
 links:
   - title: Who We Are
     collection: who-we-are
+  - title: Life & Contributions
+    collection: life-and-contributions
   - title: The Events
     collection: the-event
-  - title: Life & Contributions
-    url: /life-and-contributions/mrleeandsingapore
-    sublinks:
-      - title: Mr Lee & Singapore
-        url: mrleeandsingapore
   - title: Media
     url: /media
     sublinks:
