@@ -15,11 +15,29 @@ He developed Parkinson’s disease three years ago which severely limited his mo
 *Click here to read more.* 
 
 #### ESM Goh Chok Tong’s Eulogy
-TRANSCRIPT OF EULOGY
-BY EMERITUS SENIOR MINISTER GOH CHOK TONG
-AT THE FUNERAL OF THE LATE MR LEE KUAN YEW
-SUNDAY, 29 MARCH 2015
-UNIVERSITY CULTURAL CENTRE AUDITORIUM
+
+
+<div align="center">
+ TRANSCRIPT OF EULOGY
+</div>
+
+
+<div align="center">
+ BY EMERITUS SENIOR MINISTER GOH CHOK TONG
+</div>
+
+<div align="center">
+ AT THE FUNERAL OF THE LATE MR LEE KUAN YEW
+</div>
+
+
+<div align="center">
+ SUNDAY, 29 MARCH 2015
+</div>
+
+<div align="center">
+ UNIVERSITY CULTURAL CENTRE AUDITORIUM
+</div>
 
 HE WAS MY TEACHER
 
