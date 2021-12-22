@@ -108,86 +108,6 @@ Tan Yan Boon, Alex
 Teh Seng Lee, Bobby
 
 Time	Vigil Group	Names
-1130 – 1200	Close friends and personal staff	Ong Beng Seng
-Fu Christine
-Stephen Lee Ching Yen
-Irene Lee Oi Ling
-Liew Mun Leong
-Peter Seah Lim Huat
-Mylene Tan Siew Toh
-Cheng Wai Keong
-Helen Cheng
-Lim Teck Kiat
-Yeong Yoon Ying
-Wong Lin Hoe
-Florence Tan (Ler Chay Keng)
-Linda Chia May San
-Tan Lai Kheng
-Jerry Tan
-Lee Seow Hiang
-Raymond Pay Hock Seng
-Alan Chang Tat Seng
-Tan Chee Keong
-1400 – 1430	Former Principal Private Secretaries and personal staff	Andrew Tan Kok Kiong
-Chee Hong Tat
-Leo Yip
-Koh Kiang Chay
-Loh Hock Teck
-Moses Lee Kim Poo
-Ho Meng Kit
-Alan Chan Heng Loon
-Robert Lim
-Cheong Cheng Hoon
-Anthony Tan Kang Uei
-Lilian Ho Li Min
-Keith Lee Kee Kae
-Loo Liang Chye
-Soon Hong Yee
-Yeo Heng Giap
-Chester Lim Zhi Quan
-Lee Koon San
-Tan Kang Pin
-Bek Hua Earng
-1530 – 1600	Old Guard	Chng Jit Koon
-Ho Kah Leong
-Hwang Soo Jin
-Jek Yeun Thong
-Lau Ping Sum
-Lee Khoon Choy
-Lim Soo Peng
-Mahmud Awang
-Ng Kah Ting
-Ong Pang Boon
-P Selvadurai
-Phua Bah Lee
-S Vasoo
-Tan HH Augustine
-Tang See Chim
-Teong Eng Siong
-Yeo Toon Chia
-1700 – 1730	Tanjong Pagar grassroots	Ho Nai Chuen, PBM
-Ang Ngoh Goh Ho Freddy, PBM
-Lim Cheng Kheng, PBM
-Chow Yuet Foon Rita, PBM
-Ganesan S/O Kulandai, PBM
-Tan Eng Loke, PBM
-Kho Li Lian
-Wong Tai Ping, PBM
-Choo Wye Foo, PBM
-Gopala Krishnan, PBM
-Ho Yuet Meng Irene, PBM
-Hui Beng Hong, PBM
-Kan Yuet Yun Michael, PBM
-Kee Siew Lan Katherine, PBM
-Tan Teck Boh, Philip, PBM
-Tham Lai Kuan, PBM
-Rizayati Begal Malawad
-Lim Chien Yuen
-Ng Kim Chuan
-Chua Gim Song, BBM
-Factsheet on Pallbearers
-Sending off from Sri Temasek
-
 A group of personal staff who have served and worked closely with Mr Lee at various points in his life will send him off from Sri Temasek.
 
 The eight pallbearers are from the Istana Household and Mr Lee’s Private Office. These eight represent the many who served him loyally over the years, including in the most tumultuous of times.
@@ -230,7 +150,7 @@ The Prime Minister is deeply grieved to announce the passing of Mr Lee Kuan Yew,
 
 Arrangements for the public to pay respects and for the funeral proceedings will be announced later.
 
-Full press release here.
+**Full press release here.**
 
 Red box used by the late Mr Lee Kuan Yew displayed at National Museum of Singapore
 From today, the red box used by the late Mr Lee Kuan Yew as his briefcase will be displayed at the National Museum of Singapore, as part of the memorial exhibition In Memoriam: Lee Kuan Yew.
@@ -276,4 +196,4 @@ The public can call the 24-hour hotline at 6336 1166 with queries, or visit http
 
 The Prime Minister will be addressing the nation “live” at 8 am today.
 
-Full press releases here.
+**Full press releases here.**
