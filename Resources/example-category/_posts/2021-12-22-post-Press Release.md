@@ -1,0 +1,50 @@
+---
+layout: post
+title: Press Release
+permalink: /Resources/example-category/test
+date: 2021-12-22
+description: ""
+---
+
+Closure of Queues At Lying In State & Updates on State Funeral Procession and One Minute of Silence
+From 8.00pm on Saturday, 28 March 2015, newcomers would no longer be admitted to the queue to enter the lying in state at Parliament House. Those who are currently within the queue would still be able to do so.
+
+Since the opening of the lying in state at 10.00am on Wednesday, 25 March 2015, about 415,000 (as of 6.00pm) members of the public have paid their last respects to the late Mr Lee Kuan Yew. Additionally, more than 850,000 people (as of 6.00pm) have visited People’s Association’s (PA’s) 18 community sites located across Singapore.
+
+“Live” coverage of the State Funeral Procession from Parliament House to University Cultural Centre (UCC), and State Funeral Service at UCC on Sunday, 29 March 2015 will be available on national television and radio, as well as online at www.rememberingleekuanyew.sg and
+www.facebook.com/rememberingleekuanyew.
+
+Members of the public are encouraged to line the State Funeral Procession route from Parliament House to UCC. Public service officers from agencies located along the route will be lining the streets to pay their final respects to the late Mr Lee. This includes Singapore Police Force bagpipers who will play Auld Lang Syne as the Gun Carriage passes by Cantonment Complex.
+
+As part of the State Funeral for the late Mr Lee, the Singapore Civil Defence Force (SCDF) will sound the “All-Clear” signal twice, through its network of Public Warning System (PWS) sirens, as a rallying call for everyone to observe a minute of silence together. This is a first by the SCDF and signifies the nation’s deepest respect
+for our founding Prime Minister. Upon the first sounding of the signal, members of the public are encouraged to begin observing the one minute of silence. The second sounding will signify the end of the minute of silence.
+
+Across the island, Singaporeans can jointly observe the minute of silence at PA’s 18 Community Sites and 105 Community Centres. Singapore Armed Forces servicemen and Home Team officers will also be observing the minute of silence. At the two land checkpoints, all persons and vehicle checks will be stopped to observe the minute of silence. The Funeral Service will also be broadcast at Changi Airport, libraries and hospitals for staff and visitors to participate in the one minute of silence.
+
+In addition, prior to the minute of silence, all MRT trains will pull to a stop at stations and open their doors. Similarly, buses scheduled to depart from bus interchanges or terminals will be held back during the one minute of silence. Passenger Information Displays in the MRT network and bus interchanges will show “One minute of silence for Mr Lee Kuan Yew”. Announcements will also be made at stations and onboard trains.
+
+STATE FUNERAL ORGANISING COMMITTEE 28 MARCH 2015
+
+Condolence Boards Outside The Istana And Parliament House
+Condolence boards are available in front of the Istana by the Main Gate from 23 March (Monday) to 29 March (Sunday), for those who wish to pen their tributes to the late Mr Lee Kuan Yew. Similar condolence boards will also be set up in front of Parliament House from 12pm today till Sunday. Those who wish may lay flowers at these two locations too.
+
+Condolence books will also be opened at all Overseas Missions for overseas Singaporeans and friends.
+
+The public can express their condolences and share their memories of the late Mr Lee at the official website, http://www.rememberingleekuanyew.sg.
+
+The public can call the 24-hour hotline at 6336 1166 with queries, or visit http://www.rememberingleekuanyew.sg and
+http://www.facebook.com/rememberingleekuanyew for more details.
+
+Fact Sheet: Funeral Procession From Istana To Parliament House 25 March 2015
+At 9am, the Coffin Bearer Party will march into Sri Temasek. This will be followed by the draping of the State Flag over the casket bearing Singapore’s founding Prime Minister, the late Mr Lee Kuan Yew. It is to be noted that the draping of the State Flag over a casket is the highest State honour accorded to a leader. When
+the Singapore flag covers the casket, it is placed so that the crescent and stars lie over the head and close to the heart.
+
+The state funeral procession will then make its way past the Istana gates, moving along an estimated 2 kilometre route, at about 25 kilometres per hour. It will take about 5 minutes for the procession to travel from Orchard Road to Parliament House, passing through Bras Basah Road and North Bridge Road.
+
+The Carriage will subsequently reach the junction of Bras Basah Road and Queen Street, before turning into North Bridge Road. Passing the Supreme Court building on the left, the procession then continues towards the Parliament House.
+
+The State Vehicular Procession will then make its way into the driveway of the Parliament House, where it will be accompanied by eight pallbearers representative of the three branches of government – the legislature, the executive and the judiciary. The casket is received by the Chief of Defence Force (CDF), Lieutenant-General (LG) Ng Chee Meng, and Commissioner of Police, Hoong Wee Teck, Speaker of Parliament, as well as the Prime Minister and the rest of the family. The Coffin Bearer Party will then transfer the casket of the late Mr Lee onto the bier for the lying in state at the Parliament House.
+
+The public can pay their respects at the Parliament House between 10am and 8pm daily from 25 March to 28 March 2015. Queues will start at the riverside Promenade next to Parliament House. Condolence cards will also be available for them to pen their tributes to the late Mr Lee Kuan Yew. Those with flowers can also lay them at the condolence boards along the Promenade.
+
+Friends and former colleagues of the late Mr Lee will also hold vigil in his memory during the lying in state at Parliament House. They will be joined by representatives from various Government agencies, as a reflection of his diverse contributions to nation-building. Each vigil group, comprising about 20 persons, will hold vigil for 30 minutes.
