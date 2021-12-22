@@ -5,7 +5,6 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
-
 Condolence boards are available in front of the Istana by the Main Gate from 23 March (Monday) to 29 March (Sunday), for those who wish to pen their tributes to the late Mr Lee Kuan Yew. Similar condolence boards will also be set up in front of Parliament House from 12pm today till Sunday. Those who wish may lay flowers at these two locations too.
 
 Condolence books will also be opened at all Overseas Missions for overseas Singaporeans and friends.
