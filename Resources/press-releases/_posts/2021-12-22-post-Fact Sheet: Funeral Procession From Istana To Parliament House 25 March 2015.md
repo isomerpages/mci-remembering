@@ -5,7 +5,6 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
-
 At 9am, the Coffin Bearer Party will march into Sri Temasek. This will be followed by the draping of the State Flag over the casket bearing Singapore’s founding Prime Minister, the late Mr Lee Kuan Yew. It is to be noted that the draping of the State Flag over a casket is the highest State honour accorded to a leader. When
 the Singapore flag covers the casket, it is placed so that the crescent and stars lie over the head and close to the heart.
 
