@@ -5,8 +5,7 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
-
-Solarized dark             |  Solarized Ocean
+  Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Alt text for image on Isomer site](/images/NG__1899.jpeg) |  ![Alt text for image on Isomer site](/images/NG__1333.jpg)|
 
