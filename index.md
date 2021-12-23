@@ -16,10 +16,10 @@ sections:
           url: /mrleeandsingapore
         - title: Our Organisation
           description: ""
-          url: https://www.remembering.sg/leekuanyew/who-we-are/our-organisation
+          url: who-we-are/our-organisation
         - title: Eulogies
           description: ""
-          url: https://www.remembering.sg/leekuanyew/media/eulogies
+          url: /resources/eulogies
   - infobar:
       title: Our Tribute
       subtitle: Focus
