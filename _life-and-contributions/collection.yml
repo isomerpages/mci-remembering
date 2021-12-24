@@ -2,6 +2,7 @@ collections:
   life-and-contributions:
     output: true
     order:
+      - Mr Lee & Singapore/Keeping our taps running.md
       - Mr Lee & Singapore/Internal running of affairs.md
       - Mr Lee & Singapore/Housing the nation.md
       - Mr Lee & Singapore/Historic press conference.md
