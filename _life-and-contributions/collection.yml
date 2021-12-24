@@ -2,6 +2,7 @@ collections:
   life-and-contributions:
     output: true
     order:
+      - Mr Lee & Singapore/Historic press conference.md
       - Mr Lee & Singapore/family.md
       - Mr Lee & Singapore/Graduation and marriage.md
       - Mr Lee & Singapore/First union work.md
