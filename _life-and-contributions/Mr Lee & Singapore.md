@@ -5,9 +5,7 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
-
-
-<div align="centre"> Mr Lee & Singapore </div>
+# <div align="centre"> **Mr Lee & Singapore** </div>
 
 <!-- blank line -->
 <br>
