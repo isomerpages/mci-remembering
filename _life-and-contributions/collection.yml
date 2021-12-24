@@ -2,6 +2,7 @@ collections:
   life-and-contributions:
     output: true
     order:
+      - Mr Lee & Singapore/A remarkable statesman.md
       - Mr Lee & Singapore/A case for merger.md
       - Mr Lee & Singapore/A Lifelong Romance.md
       - Mr Lee & Singapore/.keep
