@@ -2,6 +2,7 @@ collections:
   life-and-contributions:
     output: true
     order:
+      - Mr Lee & Singapore/Lee Kuan Yew.md
       - Mr Lee & Singapore/Interview with The Straits Times.md
       - Mr Lee & Singapore/Keeping our taps running.md
       - Mr Lee & Singapore/Internal running of affairs.md
