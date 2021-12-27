@@ -4,3 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Tensions-mount
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
+That Malays in Singapore voted for the PAP in the 1963 general elections was viewed as a “betrayal” by UMNO. It was an ominous start to merger, marking the beginning of a serious rift between the central government in Kuala Lumpur and Singapore.
+
+
+The Malay ground was inflamed by the UMNO-controlled Malay media, especially the Utusan Melayu. The PAP was accused of racial discrimination and Mr Lee became the object of incessant attacks.
+
+
+Singapore exploded in communal riots in July and September 1964. Curfews had to be imposed to restore order.
