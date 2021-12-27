@@ -6,6 +6,8 @@ third_nav_title: Mr Lee & Singapore
 ---
 # A remarkable statesman #
 
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Remarkable%20Stateman.jpg)
+
 Mr Lee had an extraordinary grasp of the world’s political and economical trends. Many political and business leaders continued to seek his insights even after he stepped down as premier.
 
 
