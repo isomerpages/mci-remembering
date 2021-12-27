@@ -4,10 +4,8 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/A-case-for-merger
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-
-
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Case%20for%20Merger.jpg)
-During a broadcast of the historic "Battle for Merger" Series at Radio Singapore. Click Here to listen to the radio talks
+During a broadcast of the historic "Battle for Merger" Series at Radio Singapore.  [Click Here to listen to the radio talks](https://www.nas.gov.sg/archivesonline/public/audiovisual_records/TheBattleForMergerRadioTalks.htm)
 
 ## A case for merger
 
