@@ -3,7 +3,7 @@ title: Vision, Mission and Core Values
 permalink: /who-we-are/vision-mission-and-core-values
 description: ""
 ---
-<center><h4> Vision, Mission and Core Values</h4></center>
+#### <center> Vision, Mission and Core Values</center>
 
 
 
