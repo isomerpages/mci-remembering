@@ -3,7 +3,7 @@ title: Our Logo
 permalink: /who-we-are/our-logo
 description: ""
 ---
-<center><h3>Our Logo</h3></center>
+### <center>Our Logo</center>
 
  
  
