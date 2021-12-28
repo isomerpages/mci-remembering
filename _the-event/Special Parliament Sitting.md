@@ -27,8 +27,8 @@ One minute of silence was observed at the end of the tribute. After the special 
 
 Civil servants, members of Singapore’s Old Guard, unionists, grassroots leaders, students, a broad spectrum of society comprising Singaporeans from all walks of life, and members of the media were invited to this special sitting. Participants wore black ribbons to mark the occasion.
 
-The Order Paper is available here.
+The Order Paper is available [Here](/files/Revised-Order-Paper-for-26-March-2015.pdf).
 
-List of Old Guard at Special Parliamentary Sitting
+[List of Old Guard at Special Parliamentary Sitting](/files/List-of-Old-Guard-at-Special-Parliamentary-Sitting-26-Mar-2015.pdf)
 
-List of Permanent Secretaries at Special Parliamentary Sitting
+[List of Permanent Secretaries at Special Parliamentary Sitting](/files/List-of-Permanent-Secretaries-at-Special-Parliamentary-Sitting-26-Mar.pdf)
