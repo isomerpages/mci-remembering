@@ -20,17 +20,17 @@ The Procession covered a distance of 15.4km and pass significant landmarks, such
 
 The Master of Ceremony was Mr Peter Ong, Head of Civil Service. Ten eulogies was delivered, in the following order:
 
-* Prime Minister Lee Hsien Loong
-* President Dr Tony Tan Keng Yam
-* Emeritus Senior Minister Goh Chok Tong
-* Former Cabinet Minister Ong Pang Boon
-* Former Cabinet Minister S. Dhanabalan
-* Former Senior Minister of State Sidek Bin Saniff
-* Trade unionist G. Muthukumarasamy
-* Tanjong Pagar community leader Leong Chun Loong
-* Former journalist Cassandra Chew
-* The late Mr Lee’s second son Lee Hsien Yang
+- Prime Minister Lee Hsien Loong
+- President Dr Tony Tan Keng Yam
+- Emeritus Senior Minister Goh Chok Tong
+- Former Cabinet Minister Ong Pang Boon
+- Former Cabinet Minister S. Dhanabalan
+- Former Senior Minister of State Sidek Bin Saniff
+- Trade unionist G. Muthukumarasamy
+- Tanjong Pagar community leader Leong Chun Loong
+- Former journalist Cassandra Chew
+- The late Mr Lee’s second son Lee Hsien Yang
 
 On the conclusion of the Funeral Service, the late Mr Lee made his final journey to Mandai Crematorium.
 
-List of Foreign Dignitaries Attending State Funeral Service
+[List of Foreign Dignitaries Attending State Funeral Service](/files/LISTOFFOREIGNDIGNITARIESATTENDINGSTATEFUNERALSERVICEATTHEUNIVERSITYCULTURALCENTRENATIONALUNIVERSITYO.pdf)
