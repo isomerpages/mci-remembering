@@ -3,7 +3,7 @@ title: Lying in State at Parliament House
 permalink: /the-event/lying-in-state-at-parliament-house
 description: ""
 ---
-### <Center>Lying in State at Parliament House</center>
+### <center>Lying in State at Parliament House</center>
 
 **LATEST INFO**
 
