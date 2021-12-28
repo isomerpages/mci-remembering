@@ -3,8 +3,7 @@ title: Special Parliament Sitting
 permalink: /the-event/special-parliament-sitting
 description: ""
 ---
-
-Special Parliament Sitting
+### <center> Special Parliament Sitting</center>
 
 Parliament sat for a special sitting on Thursday, 26 March 2015 at 4 pm for Members of Parliament to pay tribute to our founding Prime Minister of Singapore.
 
@@ -23,6 +22,7 @@ The following Parliamentarians spoke:
 * Ms Chia Yong Yong (Nominated Member)
 * Mr Christopher de Souza (Holland‐Bukit Timah)
 * Ms Indranee Rajah (Tanjong Pagar), Senior Minister of State, Ministry of Law and Ministry of Education
+
 One minute of silence was observed at the end of the tribute. After the special sitting, all Parliamentarians, including Prime Minister Lee Hsien Loong, paid homage to the late Mr Lee.
 
 Civil servants, members of Singapore’s Old Guard, unionists, grassroots leaders, students, a broad spectrum of society comprising Singaporeans from all walks of life, and members of the media were invited to this special sitting. Participants wore black ribbons to mark the occasion.
