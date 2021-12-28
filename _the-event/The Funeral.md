@@ -15,7 +15,7 @@ The family respectfully requests no wreaths, flowers or condolence advertisement
 
 
 
-| Group | Address | 
+| **Group** | **Address** | 
 | -------- | -------- | 
 |Education Fund	| Cheque be made payable to “Ministry of Education” <br>((and to indicate separately that the donation be made to Lee Kuan Yew Education Fund)) <br><br> Mailing Address: <br> Education Fund <br> c/o Ministry of Education <br> 1 North Buona Vista Drive <br>MOE Building, #09-55 <br>Singapore 138675 |
 | NTUC-U Care Fund|	 Cheque be made payable to “NTUC-U Care Fund” <br> (and to indicate contact details on back of cheque) <br><br> Mailing Address:<br> NTUC-U Care Fund <br> c/o NTUC Care & Share Department <br> NTUC Centre, 1 Marina Boulevard <br> #10-01 Singapore 018989 <br><br>For more details, please visit www.ntuc.org.sg/ucare |
