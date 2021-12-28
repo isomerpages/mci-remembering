@@ -59,8 +59,7 @@ Teh Seng Lee, Bobby
 
 
 
-| Time | Vigil Group | Name |
+| **Time** | **Vigil Group** | **Names** |
 | -------- | -------- | -------- |
 | 1130 – 1200 | Close friends and personal staff |Ong Beng Seng<br>Fu Christine<br>Stephen Lee Ching Yen<br>Irene Lee Oi Ling<br>Liew Mun Leong<br>Peter Seah Lim Huat<br>Mylene Tan Siew Poh<br>Cheng Wai Keong<br>Helen Cheng<br>Lim Teck Kiat<br>Yeong Yoon Ying<br>Wong Lin Hoe<br>Florence Tan (Ler Chay Keng)<br>Linda Chia May San<br>Tan Lai Kheng<br>Jerry Tan<br>Lee Seow Hiang<br>Raymond Pay Hock Seng<br>Alan Chang Tat Seng<br>Tan Chee Keong|
-
-
+|1400 – 1430|Former Principal Private Secretaries and personal staff|Andrew Tan Kok Kiong<br>Chee Hong Tat<br>Leo Yip<br>Koh Kiang Chay<br>Loh Hock Teck<br>Moses Lee Kim Poo<br>Ho Meng Kit<br>Alan Chan Heng Loon<br>Robert Lim<br>Cheong Cheng Hoon<br>Anthony Tan Kang Uei<br>Lilian Ho Li Min<br>Keith Lee Kee Kae<br>Loo Liang Chye<br>Soon Hong Yee<br>Yeo Heng Giap<br>Chester Lim Zhi Quan<br>Lee Koon San<br>Tan Kang Pin<br>Bek Hua Earng|
