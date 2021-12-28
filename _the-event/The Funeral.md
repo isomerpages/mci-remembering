@@ -3,9 +3,7 @@ title: The Funeral
 permalink: /the-event/the-funeral
 description: ""
 ---
-
-
-**The Funeral**
+### <center>The Funeral</center>
 
 A private family wake will be held from 23 March 2015 to 24 March 2015 at Sri Temasek, Istana.
 
@@ -19,7 +17,7 @@ The family respectfully requests no wreaths, flowers or condolence advertisement
 
 | Group | Address | 
 | -------- | -------- | 
-|Education Fund	| Cheque be made payable to “Ministry of Education” <br>((and to indicate separately that the donation be made to Lee Kuan Yew Education Fund)) <br><br> Mailing Address: <br> Education Fund <br> c/o Ministry of Education <br> 1 North Buona Vista Drive <br>MOE Building, #09-55 <br>Singapore 138675 <br><br> For more details, click here. |
+|Education Fund	| Cheque be made payable to “Ministry of Education” <br>((and to indicate separately that the donation be made to Lee Kuan Yew Education Fund)) <br><br> Mailing Address: <br> Education Fund <br> c/o Ministry of Education <br> 1 North Buona Vista Drive <br>MOE Building, #09-55 <br>Singapore 138675 |
 | NTUC-U Care Fund|	 Cheque be made payable to “NTUC-U Care Fund” <br> (and to indicate contact details on back of cheque) <br><br> Mailing Address:<br> NTUC-U Care Fund <br> c/o NTUC Care & Share Department <br> NTUC Centre, 1 Marina Boulevard <br> #10-01 Singapore 018989 <br><br>For more details, please visit www.ntuc.org.sg/ucare |
 |Garden City Fund	| Cheque be made payable to “Garden City Fund” <br><br>Mailing Address:<br>Garden City Fund <br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569<br><br>For more details, please visit www.gardencityfund.org|
 |CDAC	|Cheque be made payable to “CDAC”<br><br>Mailing Address:<br>65 Tanjong Katong Road<br>Singapore 436957|
