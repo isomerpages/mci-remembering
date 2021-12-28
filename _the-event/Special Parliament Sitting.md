@@ -11,17 +11,17 @@ Speaker of Parliament, Mdm Halimah Yacob, made introductory remarks, before Parl
 
 The following Parliamentarians spoke:
 
-* Dr Ng Eng Hen (Bishan‐Toa Payoh), Minister for Defence and Leader of the House
-* Mr Seng Han Thong (Ang Mo Kio)
-* Mr Low Thia Khiang (Aljunied)
-* Mr Wong Kan Seng (Bishan‐Toa Payoh)
-* Mr Thomas Chua Kee Seng (Nominated Member)
-* Mr Masagos Zulkifli B M M (Tampines), Senior Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
-* Mr Vikram Nair (Sembawang)
-* Ms Sim Ann (Holland‐Bukit Timah), Minister of State, Ministry of Education and Ministry of Communications and Information
-* Ms Chia Yong Yong (Nominated Member)
-* Mr Christopher de Souza (Holland‐Bukit Timah)
-* Ms Indranee Rajah (Tanjong Pagar), Senior Minister of State, Ministry of Law and Ministry of Education
+- Dr Ng Eng Hen (Bishan‐Toa Payoh), Minister for Defence and Leader of the House
+- Mr Seng Han Thong (Ang Mo Kio)
+- Mr Low Thia Khiang (Aljunied)
+- Mr Wong Kan Seng (Bishan‐Toa Payoh)
+- Mr Thomas Chua Kee Seng (Nominated Member)
+- Mr Masagos Zulkifli B M M (Tampines), Senior Minister of State, Ministry of Home Affairs and Ministry of Foreign Affairs
+- Mr Vikram Nair (Sembawang)
+- Ms Sim Ann (Holland‐Bukit Timah), Minister of State, Ministry of Education and Ministry of Communications and Information
+- Ms Chia Yong Yong (Nominated Member)
+- Mr Christopher de Souza (Holland‐Bukit Timah)
+- Ms Indranee Rajah (Tanjong Pagar), Senior Minister of State, Ministry of Law and Ministry of Education
 
 One minute of silence was observed at the end of the tribute. After the special sitting, all Parliamentarians, including Prime Minister Lee Hsien Loong, paid homage to the late Mr Lee.
 
