@@ -3,7 +3,7 @@ title: Organisation Structure
 permalink: /who-we-are/organisation-structure
 description: ""
 ---
-**Organisation Structure**
+#### <center>Organisation Structure</center>
 
 
 ![Alt text for image on Isomer site](/images/OrgStructure.jpg)
