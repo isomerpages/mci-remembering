@@ -18,4 +18,4 @@ Highlights of  Procession from the Istana to Parliament House
 
 [Information about the Pallbearers](\Information-about-the-Pallbearers)
 
-Visits by foreign dignitaries 28 Mar 15
+[Visits by foreign dignitaries 28 Mar 15](/files/LIS-Visits-by-foreign-dignitaries-28-Mar-15.pdf)
