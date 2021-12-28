@@ -2,7 +2,6 @@ collections:
   the-event:
     output: true
     order:
-      - Lying in State Vigil Guards and Groups.md
       - The Funeral.md
       - Lying in State at Parliament House.md
       - State Funeral Service.md
