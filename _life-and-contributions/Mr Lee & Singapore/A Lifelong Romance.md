@@ -6,7 +6,7 @@ layout: post
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-#  <div align="centre"> Mr Lee & Singapore </div>
+# <div align="centre"> Mr Lee & Singapore </div>
 
 <!-- blank line -->
 <br>
