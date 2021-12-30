@@ -15,20 +15,7 @@ third_nav_title: Mr Lee & Singapore
 
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
 
-<div align="center">
- 7 February 1948,
-</div>
-
-<div align="center">
- 21 June 1974 and 
-</div>
-
-<div align="center">
-  7 October 2000.
-</div>
-
-
-
+<center>7 February 1948<br>21 June 1974 and<br>7 October 2000.</center>
 
 																																					
 		
