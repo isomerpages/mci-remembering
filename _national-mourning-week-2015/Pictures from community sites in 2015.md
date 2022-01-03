@@ -22,4 +22,11 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 | Aljunied	  | Kovan Hub (Block 206, Hougang Street 21)   |
 | Pasir Ris-Punggol	  | 	[Sengkang Community Hub ](https://www.google.com.sg/maps/place/Sengkang+Community+Hub/@1.3928859,103.891694,17z/data=!3m1!4b1!4m5!3m4!1s0x31da160d9d9b5493:0xc6eb27c3e4c763c0!8m2!3d1.3926771!4d103.8938165?hl=en)   |
 
+Admission is free. All community sites will also screen the State Funeral Service on 29 March 2015 “live”.
 
+<center> Visit the People’s Association’s website to find out more details.</center>
+
+
+##### ****Tributes at Condolence Boards and Community Sites set up across the island****
+
+The passing of Mr Lee Kuan Yew has seen an outpouring of condolences from Singaporeans from all walks of life, to pen their tributes and lay flowers at the various condolence boards set up at the Main Gate in front of the Istana and in front of Parliament House. Condolence books were also opened at all Overseas Missions for overseas Singaporeans and friends.
