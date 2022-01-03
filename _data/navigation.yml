@@ -6,6 +6,8 @@ links:
     collection: the-event
   - title: Life & Contributions
     collection: life-and-contributions
+  - title: National Mourning Week 2015
+    collection: national-mourning-week-2015
   - title: Media
     url: /media
     sublinks:
@@ -19,19 +21,6 @@ links:
         url: /eulogies
       - title: Stories From The Media
         url: stories-from-the-media
-  - title: National Mourning Week 2015
-    url: /snational-mourning-week-2015
-    sublinks:
-      - title: View 2015 Tributes
-        url: /view-2015-tributes
-      - title: View2015 TributesfromtheGround
-        url: /view-2015-tributes-from-the-ground
-      - title: Vi15TributesfrmForeignLeaders
-        url: /view-2015-tributes-from-foreign-leaders
-      - title: pics frm comm. sites in 2015
-        url: /pictures-from-community-sites-in-2015
-      - title: Exhibitions in 2015
-        url: /visit-the-exhibitions
   - title: In Memoriam 2016
     url: /in-memoriam-2016
     sublinks:
@@ -43,5 +32,3 @@ links:
         url: /pictures-from-commemorative-events-and-exhibitions
   - title: Media1
     url: /Resources/
-  - title: National Mourning Week 2015
-    collection: national-mourning-week-2015
