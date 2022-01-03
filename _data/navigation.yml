@@ -22,13 +22,6 @@ links:
       - title: Stories From The Media
         url: stories-from-the-media
   - title: In Memoriam 2016
-    url: /in-memoriam-2016
-    sublinks:
-      - title: Tributes to Mr Lee 1 Year On
-        url: /tributes-to-mr-lee---1-year-on
-      - title: ComCommemorative Events NExhib
-        url: /community-commemorative-events-and-exhibitions
-      - title: Pcs fr Comme Evnts &Exhi
-        url: /pictures-from-commemorative-events-and-exhibitions
+    collection: in-memoriam-2016
   - title: Media1
     url: /Resources/
