@@ -1,4 +1,5 @@
 collections:
   national-mourning-week-2015:
     output: true
-    order: []
+    order:
+      - View 2015 Tributes.md
