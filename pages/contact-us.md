@@ -8,5 +8,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: "Email: RememberingLeeKuanYew rememberingleekuanyew@mci.gov.sg"
-    title: ""
+    title: For enquiries
 ---
