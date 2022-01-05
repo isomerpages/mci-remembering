@@ -114,3 +114,9 @@ We hope you and your family will continue to be strong in this time of sorrow.
 With deepest sympathies
 
 Dato’ Haji Ismail bin Karim
+
+#### Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
+
+Chief of Staff, Joint Staff ADM Katsutoshi Kawano signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
+State Minister of Cabinet Office Yasutoshi Nishimura signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
+Secretary-General, Liberal Democratic Party Sadakazu Tanigaki signing the condolence book at the Singapore Embassy in Tokyo on 27 March 2015.
