@@ -19,5 +19,3 @@ The public can pay their respects at the Parliament House between 10am and 8pm d
 Friends and former colleagues of the late Mr Lee will also hold vigil in his memory during the lying in state at Parliament House. They will be joined by representatives from various Government agencies, as a reflection of his diverse contributions to nation-building. Each vigil group, comprising about 20 persons, will hold vigil for 30 minutes.
 
 ![Alt text for image on Isomer site](/images/IstanaMap.jpg)
-
-[Full press release here](http://www.news.gov.sg/public/sgpc/en/media_releases/agencies/mcidtd/press_release/P-20150324-2/AttachmentPar/0/file/FACT%20SHEET%20FOR%20FUNERAL%20PROCESSION%20FROM%20ISTANA%20TO%20PH%20(3).pdf)
