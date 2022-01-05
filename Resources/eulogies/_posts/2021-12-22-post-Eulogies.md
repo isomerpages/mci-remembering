@@ -54,3 +54,15 @@ When the grandchildren were very little, Ye Ye would take us on walks to feed th
 Sunday lunch with Ye Ye was an institution for our family. His voice and his hearty laugh would carry to the childrens’ table, talking about matters of state, recounting meetings with foreign leaders whose names we neither recognized nor remembered.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSIffjLy5E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Mr G Muthukumarasamy’s Eulogy
+
+<center><b>TRANSCRIPT OF EULOGY<br>
+BY MR G MUTHUKUMARASAMY, GENERAL SECRETARY FOR AMALGAMATED UNION OF PUBLIC DAILY RATED WORKERS<br>
+AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>
+SUNDAY, 29 MARCH 2015<br>
+UNIVERSITY CULTURAL CENRE AUDITORIUM</b></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmJoyJ1Q_WI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
