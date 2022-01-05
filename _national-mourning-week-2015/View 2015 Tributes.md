@@ -18,7 +18,7 @@ Lee simultaneously demonstrated that sound finance can coexist with soundly thou
 
 #### Lee Kuan Yew: Postcards from an extraordinary life
 By Jeff Bader
-Editor’s Note: On Sunday, March 22, Lee Kuan Yew, founding prime minister of Singapore passed away at 91. Jeffrey Bader recalls moments in his career where Lee had a profound impact.
+*Editor’s Note: On Sunday, March 22, Lee Kuan Yew, founding prime minister of Singapore passed away at 91. Jeffrey Bader recalls moments in his career where Lee had a profound impact.*
 
 Tough love
 
@@ -26,7 +26,7 @@ Lee Kuan Yew was the keynote speaker at the 2005 Bo’ao Forum on China’s Hain
 
 [Read More](http://www.brookings.edu/blogs/order-from-chaos/posts/2015/03/22-remembering-lee-kuan-yew-bader)
 
-Mr Lee Kuan Yew ‘one of the giants of our lifetime’: Lord Mandelson
+#### Mr Lee Kuan Yew ‘one of the giants of our lifetime’: Lord Mandelson
 SINGAPORE: Britain’s Lord Peter Mandelson has written to Prime Minister Lee Hsien Loong to express his deepest condolences over the passing of Singapore’s founding Prime Minister Mr Lee Kuan Yew.
 
 In his letter, the former EU trade commissioner and Labour minister said the late Mr Lee “was a towering figure, one of the giants of our lifetime who built a nation that is the envy of others around the world”.
