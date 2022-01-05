@@ -25,3 +25,5 @@ links:
     collection: in-memoriam-2016
   - title: Media1
     url: /Resources/
+  - title: Media2
+    resource_room: true
