@@ -52,6 +52,8 @@ Throughout his political life generations of European leaders did seek his views
 
 #### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 
+
+
 #### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
 “Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
 
@@ -116,9 +118,9 @@ With deepest sympathies
 Dato’ Haji Ismail bin Karim
 
 #### Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
+
 <p>
-  <img width="30" src="/images/Chief%20of%20Staff%20Katsutoshi%20Kawano.png">
+  <img width="30"  src="/images/Chief%20of%20Staff%20Katsutoshi%20Kawano.png">
 	<img width="30" src="/images/State%20Minister%20of%20Cabinet%20Office%20Yasutoshi%20Nishimura.png"> 
   <img width="30" src="/images/Secretary-General%20Liberal%20Democratic%20Party%20Sadakazu%20Tanigaki.png">
 </p>
-
