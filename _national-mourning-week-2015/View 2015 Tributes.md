@@ -42,7 +42,7 @@ In a phone call with the Singaporean prime minister, Sisi paid tribute to the la
 Sisi conveyed the Egyptian people’s condolences to the Singaporean people.
 
 #### EU Ambassador to Singapore, Dr Michael Pulch
-p>I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
+p&gt;I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
 
 He was an inspiring statesman whose vision of an independent and prosperous Singapore became the foundation of its lasting success.
 
@@ -116,7 +116,9 @@ With deepest sympathies
 Dato’ Haji Ismail bin Karim
 
 #### Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
+<p>
+  <img width="30" src="/images/Chief%20of%20Staff%20Katsutoshi%20Kawano.png">
+	<img width="30" src="/images/State%20Minister%20of%20Cabinet%20Office%20Yasutoshi%20Nishimura.png"> 
+  <img width="30" src="/images/Secretary-General%20Liberal%20Democratic%20Party%20Sadakazu%20Tanigaki.png">
+</p>
 
-Chief of Staff, Joint Staff ADM Katsutoshi Kawano signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
-State Minister of Cabinet Office Yasutoshi Nishimura signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
-Secretary-General, Liberal Democratic Party Sadakazu Tanigaki signing the condolence book at the Singapore Embassy in Tokyo on 27 March 2015.
