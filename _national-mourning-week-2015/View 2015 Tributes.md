@@ -209,3 +209,37 @@ Speaking to reporters outside Parliament House after the visit, Mr Najib said th
 “Mr Lee also was a man who helped shape Southeast Asia as a region of peace and prosperity. He will go down as a great man of history, whose vision and leadership helped make this world a better place.
 
 “I’d like to thank him for strengthening bilateral ties between Malaysia and Singapore.”
+
+#### Qatar Emir H H Sheikh Tamim bin Hamad Al Thani
+Emir H H Sheikh Tamim bin Hamad Al Thani sent a cable of condolences to President of the Republic of Singapore Tony Tan Keng Yam on the death of the former prime minister Lee Kuan Yew.
+
+Emir also sent his condolences to Prime Minister Lee Hsien Loong on the death of the former prime minister Lee Kuan Yew.
+
+Deputy Emir H H Sheikh Abdullah bin Hamad Al Thani sent cables of condolences to President of the Republic of Singapore Tony Tan Keng Yam and Prime Minister Lee Hsien Loong on the death of Lee Kuan Yew.
+
+Prime Minister and Interior Minister H E Sheikh Abdullah bin Nasser bin Khalifa Al Thani also sent similar cables to Singapore condoling the death of former premier.
+
+#### Queen Elizabeth II of United Kingdom
+Queen Elizabeth II of the United Kingdom sent her condolences after the passing of Singapore’s founding Prime Minister Lee Kuan Yew to both President Tony Tan and Prime Minister Lee Hsien Loong.
+
+Her letter to Dr Tan:
+
+“Prince Philip and I wish to express our sincere condolences to you and to the people of Singapore on the passing of Mr Lee Kuan Yew. Mr Lee’s achievements as Singapore’s first Prime Minister were fundamental to making Singapore what it is today, and his long and distinguished service to his country can only be admired. He had many friends around the world, and my country was foremost amongst them. Philip and I send our deepest sympathy to you and the people of Singapore.”
+
+In a separate message to Prime Minister Lee:
+
+“Prince Philip and I were saddened to hear of the death of your father, Mr Lee Kuan Yew. His vision and dedication to the service of his country helped to make Singapore the successful country it is today. As Prime Minister he welcomed us to Singapore on two occasions, and we have fond memories of our visits and meetings with him elsewhere. Philip and I send you and your family our sincere condolences at this sad time.”
+
+#### Sultan of Perak, Sultan Nazrin Muizzuddin Shah
+Sultan of Perak Sultan Nazrin Muizzuddin Shah signed the condolence book for the late Lee Kuan Yew at the Singapore High Commission in Kuala Lumpur.
+
+He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gopala Menon.
+
+“My deepest condolences to the family of Lee Kuan Yew and to the people of Singapore.
+
+“Lee Kuan Yew was a leader of vision who founded and nurtured a country.
+
+“The world had lost a great stateman,”
+
+#### Secretary-General of the United Nations, Ban Ki-Moon
+Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision will guide Singapore and all of us toward a better and brighter future for all.”
