@@ -5,7 +5,6 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
-
 #### Eulogy by Dr Lee Wei Ling at Cremation Service
 Family and friends, thank you for being here with us today.
 
@@ -18,27 +17,9 @@ He developed Parkinson’s disease three years ago which severely limited his mo
 #### ESM Goh Chok Tong’s Eulogy
 
 
-<div align="center">
- TRANSCRIPT OF EULOGY
-</div>
-
-
-<div align="center">
- BY EMERITUS SENIOR MINISTER GOH CHOK TONG
-</div>
-
-<div align="center">
- AT THE FUNERAL OF THE LATE MR LEE KUAN YEW
-</div>
-
-
-<div align="center">
- SUNDAY, 29 MARCH 2015
-</div>
-
-<div align="center">
- UNIVERSITY CULTURAL CENTRE AUDITORIUM
-</div>
+<center><b> TRANSCRIPT OF EULOGY
+<br>BY EMERITUS SENIOR MINISTER GOH CHOK TONG<br>AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>SUNDAY, 29 MARCH 2015<br>UNIVERSITY CULTURAL CENTRE AUDITORIUM
+	</b></center>
 
 HE WAS MY TEACHER
 
@@ -46,7 +27,9 @@ Mr Lee Kuan Yew gave his life to us. To truly appreciate this, you had to have m
 
 To Singaporeans, he was our first Prime Minister, our leader who fought for our Independence, the man who turned Singapore from Third World to First, our national father. For me, he would always be my teacher.
 
-[Watch here](https://safe.menlosecurity.com/https://youtu.be/LS4JzR4cMFM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LS4JzR4cMFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
 
 
 #### Eulogy by Mr Lee Hsien Yang at Cremation Service
