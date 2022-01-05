@@ -9,9 +9,8 @@ description: ""
 
 They may be on different sides in Parliament, but they share a common humanity.
 
-[Watch Video here](https://youtu.be/0MbAwvoch64)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MbAwvoch64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 PM Lee on response to Mr Lee Kuan Yew’s Passing
 
-[[Watch Video here]](https://safe.menlosecurity.com/https://youtu.be/WZAjEEWIEGI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZAjEEWIEGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
