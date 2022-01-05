@@ -23,7 +23,7 @@ The body of the late Mr Lee Kuan Yew will lie in state at Parliament House on We
 | Saint Andrew’s Road (between Parliament Place and Coleman Street) | 6.00 a.m. on 25 March 2015 to 2.00p.m. on 29 March 2015|
 | Extreme left lane of North Bridge Road (between Parliament Place and Parliament House) | 8.00 a.m. to 8.00 p.m. daily from 25 March 2015 to 29 March 2015 |
 
-Road Closure to facilitate Gun Carriage movement from the Istana to the Parliament House on Wednesday, 25 March 2015 from 8.45 a.m. to 9.30 a.m.
+**Road Closure to facilitate Gun Carriage movement from the Istana to the Parliament House on Wednesday, 25 March 2015 from 8.45 a.m. to 9.30 a.m.**
 
 The late Mr Lee Kuan Yew’s coffin will be placed on a gun carriage. The gun carriage movement will leave Istana for Parliament House on 25 March 2015 at 9.00a.m.
 
@@ -32,4 +32,3 @@ The following roads will be closed to facilitate the movement from 8.45 a.m. to 
 1. Orchard Road (between Buyong Road and Selegie Road);
 2. Bras Basah Road (between Selegie Road and North Bridge Road); and
 3. North Bridge Road (between Bras Basah Road and North Boat Quay)
-
