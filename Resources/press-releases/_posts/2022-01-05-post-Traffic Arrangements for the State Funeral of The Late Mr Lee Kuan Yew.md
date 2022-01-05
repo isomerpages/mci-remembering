@@ -54,3 +54,4 @@ Police officers and Auxiliary Police Officers will be stationed at all affected 
 
 Members of the public who have enquiries on the State Funeral Service or the State Funeral Procession can call the hotline at 6336-1166.
 
+![Alt text for image on Isomer site](/images/press-release/bus%20service.png)
