@@ -12,3 +12,5 @@ The State Funeral Procession for the late Mr Lee Kuan Yew will be held on the sa
 After the State Funeral Service, the body of the late Mr Lee Kuan Yew will be brought to Mandai Crematorium.
 
 The following roads will be closed to facilitate the procession and the funeral service during the stipulated timing:
+
+![Alt text for image on Isomer site](/images/press-release/road%20closure.jfif)
