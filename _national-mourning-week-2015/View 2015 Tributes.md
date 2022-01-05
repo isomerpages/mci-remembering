@@ -51,7 +51,7 @@ Throughout his political life generations of European leaders did seek his views
 – Dr Michael Pulch, EU Ambassador to Singapore
 
 #### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
-
+![Alt text for image on Isomer site](/images/Amb%20Ismail%20Mobarak.png)
 
 
 #### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
