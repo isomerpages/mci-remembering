@@ -3,21 +3,15 @@ title: View 2015 Tributes
 permalink: /national-mourning-week-2015/view-2015-tributes
 description: ""
 ---
-
 <p align="center">
      View 2015 Tributes
 </p>
 
+##### Lee Kuan Yew: Why Singapore’s Extraordinary Leader Will Be Missed
+By STEVE FORBES
 
-#### ASEAN Secretary-General, Le Luong Minh
+LEE KUAN YEW was one of the great statesmen of the post-WWII era. He made Singapore an economic powerhouse, demonstrating that so-called natural resources aren’t necessary for prosperity, that the key is creating an environment in which human ingenuity can thrive. He didn’t tolerate corruption; to eliminate the temptation and attract capable people, Lee paid government officials high salaries. He kept a tight grip on spending and pushed down taxes; the top rate on personal incomes is all of 20%. He knew the folly of weak money; the Singapore dollar looks like the Rock of Gibraltar compared with most currencies—including the U.S. dollar, most of the time.
 
-ASEAN Secretary-General Le Luong Minh joined other world leaders in mourning the loss of Lee Kuan Yew, the first Prime Minister of Singapore, who passed away yesterday at 91. In a letter addressed to Lee Hsien Loong, Prime Minister of Singapore and son of Lee Kuan Yew, Secretary-General Minh conveyed his “deepest condolences” on the passing of the late Prime Minister.
+Lee simultaneously demonstrated that sound finance can coexist with soundly thought out social programs. He pursued a vigorous housing program that enabled people who didn’t earn high incomes to buy their homes; his was a model for how subsidies need not lead to the housing-related disasters that have plagued the U.S. Singapore’s health care system has provided comprehensive coverage to its people without the rationing, high costs and dicey care that characterize so many others. Singapore’s pension system avoided the pay-as-you-go trap that is hurtling those in other countries toward insolvency.
 
-In his letter, Minh described Lee Kuan Yew as “a great statesman who had built Singapore with his vision, wisdom and courage.” The ASEAN Secretary-General also acknowledged the late Prime Minister as one of those “instrumental in the establishment of the Association of Southeast Asian Nations” in 1967. Singapore is one of ASEAN’s five founding members and together with the other leaders, he has provided guidance to ASEAN in its formative years.
-For three decades, Lee Kuan Yew dedicated his life to the success of his country and is widely recognised as the architect of Singapore’s transformation from a small port town 50 years ago to one of the world’s wealthiest countries. Secretary-General Minh noted that the late Prime Minister “has left a lasting legacy not only for Singapore but also for ASEAN and he will be greatly missed.”
-
-
-
-ASEAN Secretary-General Le Luong Minh paying his last respects
-ASEAN Secretary-General Le Luong Minh paying his last respects
-ASEAN Secretary-General Le Luong Minh's condolence message at the late Mr Lee Kuan Yew's lying in state
+[Read More](https://www.forbes.com/sites/steveforbes/2015/03/23/lee-kuan-yew-why-this-extraordinary-leader-will-be-missed/?sh=7cd2a42d1112)
