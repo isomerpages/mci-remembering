@@ -34,14 +34,14 @@ In his letter, the former EU trade commissioner and Labour minister said the lat
 
 [Read More](http://www.channelnewsasia.com/news/singapore/mr-lee-kuan-yew-one-of/1738842.html)
 
-Egypt President, Abdel Fattah El-Sisi
+#### Egypt President, Abdel Fattah El-Sisi
 President Abdel Fattah El Sisi on Friday offered condolences to Singaporean Prime Minister Lee Hsien Loong over the death of his father and former premier Lee Kuan Yew, the founder of modern-day Singapore.
 
 In a phone call with the Singaporean prime minister, Sisi paid tribute to the late premier as the “architect of Singapore’s economy”, who enriched during his rule the political and economic life of his country.
 
 Sisi conveyed the Egyptian people’s condolences to the Singaporean people.
 
-EU Ambassador to Singapore, Dr Michael Pulch
+#### EU Ambassador to Singapore, Dr Michael Pulch
 p>I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
 
 He was an inspiring statesman whose vision of an independent and prosperous Singapore became the foundation of its lasting success.
@@ -51,3 +51,4 @@ Throughout his political life generations of European leaders did seek his views
 – Dr Michael Pulch, EU Ambassador to Singapore
 
 EU dignitaries signing the condolence book in Singapore Embassy in Cairo
+
