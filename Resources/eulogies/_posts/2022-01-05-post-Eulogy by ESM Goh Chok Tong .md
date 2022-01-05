@@ -5,8 +5,7 @@ date: 2022-01-05
 layout: post
 description: ""
 ---
-
-#### ESM Goh Chok Tong’s Eulogy
+#### Eulogy by ESM Goh Chok Tong
 <center><b>TRANSCRIPT OF EULOGY<br>
 BY EMERITUS SENIOR MINISTER GOH CHOK TONG<br>
 AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>
