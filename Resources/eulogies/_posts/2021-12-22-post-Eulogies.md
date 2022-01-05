@@ -20,7 +20,7 @@ To Singaporeans, he was our first Prime Minister, our leader who fought for our 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS4JzR4cMFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Emeritus-Senior-Minister-Goh-Chok-Tong-29-March-2015.pdf)
 
 #### Eulogy by Dr Lee Wei Ling at Cremation Service
 Family and friends, thank you for being here with us today.
@@ -65,7 +65,7 @@ UNIVERSITY CULTURAL CENRE AUDITORIUM</b></center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmJoyJ1Q_WI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Speech-Mr-Kumar-Tamil.pdf)
 
 #### Mr Lee Hsien Yang’s Eulogy
 
@@ -89,7 +89,7 @@ I was born in 1957, and for as long as I can remember, Papa was a public figure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5F7mourfT9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Lee-Hsien-Yang-29-March-2015.pdf)
 
 #### Mr Leong Chun Loong’s Eulogy
 
@@ -111,7 +111,7 @@ I have been a grassroots leader in Tanjong Pagar Constituency for 39 years. I am
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/955YT46Ugwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Leong-Chun-Loong-29-March-2015.pdf)
 
 #### Mr Ong Pang Boon Eulogy
 
@@ -127,7 +127,7 @@ UNIVERSITY CULTURAL CENTRE AUDITORIUM</b></center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jeZFlOl4nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Ong-Pang-Boon-29-March-2015.pdf)
 
 #### Mr S Dhanabalan Eulogy
 <center><b>TRANSCRIPT OF EULOGY<br>
@@ -142,7 +142,7 @@ First, he had an absolute obsession to ensure an honest, corruption free politic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JYv_9_u0Bek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-S-Dhanabalan-29-March-2015.pdf)
 
 #### Ms Cassandra Chew’s Eulogy
 <center><b>TRANSCRIPT OF EULOGY<br>
@@ -159,7 +159,7 @@ After all, this was the man who had led Singapore to independence, triumphed ove
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aF-DOVJ2HYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Cassandra-Chew-29-March-2015.pdf)
 
 #### Mr Sidek Saniff’s Eulogy
 <center><b>TRANSCRIPT OF EULOGY<br>
@@ -180,7 +180,7 @@ Beliau adalah seorang ketua yang tegas tetapi banyak memberi nasihat. Beliau men
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQ5ZGu9z5X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-Sidek-bin-Saniff-29-March-2015.pdf)
 
 #### President Tony Tan’s Eulogy
 <center><b>TRANSCRIPT OF EULOGY<br>
@@ -205,7 +205,7 @@ Today, Singapore bids farewell to our country’s first Prime Minister — the f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qQzR-MUd_dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
+[Click here to read more](/files/eulogies/Transcript-of-Eulogy-by-President-Dr-Tony-Tan-Keng-Yam-29-March-2015.pdf)
 
 #### Prime Minister’s Eulogy
 <center><b>TRANSCRIPT OF EULOGY<br>
@@ -224,16 +224,11 @@ The light that has guided us all these years has been extinguished. We have lost
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7cfq87OWlS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click here to read more
-
 #### Prime Minister’s Eulogy at Cremation Service
 Family and Friends
 
 We are gathered here to say our final farewells to Papa – Mr Lee Kuan Yew. After the formalities of the Lying in State and the State Funeral Service, in this final hour Papa is with his family, his friends of a lifetime, his immediate staff who served him loyally and well, his security team who kept him safe and sound, and his medical team who took such good care of him.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYDeF6KSjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Click here to read more
-
 So much has been said about Papa’s public life in the past few days. His public life is something we share with all of Singaporeans, with the world. But we were privileged to know him as a father, a grandfather, an elder brother, a friend, a strict but compassionate boss, the head of the family.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYDeF6KSjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
