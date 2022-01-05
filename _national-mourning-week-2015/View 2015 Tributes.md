@@ -52,7 +52,7 @@ Throughout his political life generations of European leaders did seek his views
 
 #### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 ![Alt text for image on Isomer site](/images/Amb%20Ismail%20Mobarak.png)
-
+![Alt text for image on Isomer site](/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg)
 
 #### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
 “Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
