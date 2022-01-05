@@ -128,3 +128,35 @@ UNIVERSITY CULTURAL CENTRE AUDITORIUM</b></center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jeZFlOl4nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Click here to read more
+
+#### Mr S Dhanabalan Eulogy
+<center><b>TRANSCRIPT OF EULOGY<br>
+BY S. DHANABALAN<br>
+AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>
+SUNDAY, 29 MARCH 2015<br>
+UNIVERSITY CULTURAL CENTRE AUDITORIUM</b></center>
+
+As one who worked closely with Mr Lee Kuan Yew for a period I just want to focus on just four aspects of his leadership that remain with me.
+
+First, he had an absolute obsession to ensure an honest, corruption free political process and public administration system. He had seen the damage a nation and society suffer when well-meaning leaders allow those close to them to take advantage of their position. Mr. Lee demanded and expected honesty and probity from political colleagues, from his equivalent of “Long March” comrades, public servants and from all members of his family.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYv_9_u0Bek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
+
+#### Ms Cassandra Chew’s Eulogy
+<center><b>TRANSCRIPT OF EULOGY<br>
+BY CASSANDRA CHEW<br>
+AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>
+SUNDAY, 29 MARCH 2015<br>
+	UNIVERSITY CULTURAL CENTRE AUDITORIUM</b></center>
+
+I did not know Mr Lee Kuan Yew personally for most of my life. We met while I was on two assignments as a journalist – documenting his life at home and collecting photographs for a picture book for his 90th birthday.
+
+I met him up close six times, for meetings and interviews, from July 2011. Most were large, formal meetings at the Istana. Naturally I was on my best behaviour.
+
+After all, this was the man who had led Singapore to independence, triumphed over his opponents in a storied political career spanning over 60 years, and transformed a sleepy colonial outpost into a bustling metropolis. And there he was, in person.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aF-DOVJ2HYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
