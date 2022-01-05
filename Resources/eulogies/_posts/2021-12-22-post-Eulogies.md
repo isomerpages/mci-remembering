@@ -206,3 +206,34 @@ Today, Singapore bids farewell to our country’s first Prime Minister — the f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qQzR-MUd_dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Click here to read more
+
+#### Prime Minister’s Eulogy
+<center><b>TRANSCRIPT OF EULOGY<br>
+BY PRIME MINISTER LEE HSIEN LOONG<br>
+AT THE FUNERAL OF THE LATE MR LEE KUAN YEW<br>
+SUNDAY, 29 MARCH 2015<br>
+UNIVERSITY CULTURAL CENTRE AUDITORIUM</b></center>
+
+President Tony Tan
+
+Friends, Family and Fellow Singaporeans
+
+This has been a dark week for Singapore.
+
+The light that has guided us all these years has been extinguished. We have lost our founding father Mr Lee Kuan Yew, who lived and breathed Singapore all his life. He and his team led our pioneer generation to create this island nation, Singapore.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cfq87OWlS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
+
+#### Prime Minister’s Eulogy at Cremation Service
+Family and Friends
+
+We are gathered here to say our final farewells to Papa – Mr Lee Kuan Yew. After the formalities of the Lying in State and the State Funeral Service, in this final hour Papa is with his family, his friends of a lifetime, his immediate staff who served him loyally and well, his security team who kept him safe and sound, and his medical team who took such good care of him.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYDeF6KSjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click here to read more
+
+So much has been said about Papa’s public life in the past few days. His public life is something we share with all of Singaporeans, with the world. But we were privileged to know him as a father, a grandfather, an elder brother, a friend, a strict but compassionate boss, the head of the family.
+
