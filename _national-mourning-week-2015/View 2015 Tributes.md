@@ -50,5 +50,67 @@ Throughout his political life generations of European leaders did seek his views
 
 – Dr Michael Pulch, EU Ambassador to Singapore
 
-EU dignitaries signing the condolence book in Singapore Embassy in Cairo
+#### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 
+#### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
+“Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
+
+#### Former Military General of Indonesia, Prabowo Subianto
+“Mr Lee Kuan Yew was a towering figure in the history of Southeast Asia. For me personally and for younger generation Indonesians, we must learn from exemplary figures wherever they are from – more so if they come from our vicinity,”
+
+“He was instrumental in finding ways of adapting and adjusting the regional situation and equation to whatever challenges were before us, Mr Lee was pragmatic and able to see the bigger picture.”
+
+#### Former President of Indonesia, Megawati Sukarnoputri
+Former Indonesian president Megawati Sukarnoputri paid her last respects to Mr Lee Kuan Yew at the Parliament House at 1.15pm on Friday.
+
+“He is my mentor,” the daughter of Indonesia’s first president Sukarno said of Mr Lee in Bahasa Indonesia.
+
+She added that she was in Singapore as the head of her party, Indonesian Democratic Party-Struggle (PDI-P) as well as the Sukarno family.
+
+‘Personally I have a good relationship with him, and also his family.”
+
+#### Former President of Indonesia, Susilo Bambang Yudhoyono
+Saya turut berduka cita atas wafatnya Bapak Lee Kuan Yew. Dengan ini saya menyampaikan ucapan belasungkawa terhadap keluarga, pemerintah dan rakyat Singapura.
+
+Bapak Lee Kuan Yew telah mengabdikan hidupnya dalam mewujudkan kemajuan yang menakjubkan bagi Singapura, serta beliau telah sungguh-sungguh membangun hubungan erat dengan Indonesia.
+
+Saya menganggap Bapak Lee Kuan Yew sebagai sahabat dekat dan saya tahu bahwa beliau adalah sahabat sejati Indonesia.
+
+Setiap pertemuan saya dengan Bapak Lee Kuan Yew selalu memberikan pelajaran berharga bagi saya. Ia adalah sosok yang bijaksana dan wawasannya mengenai hubungan internasional sangat luas.
+
+Semenjak saya menjabat sebagai Presiden Republik Indonesia, saya telah bertemu beberapa kali dengan Bapak Lee Kuan Yew. Di setiap pertemuan tersebut Ia selalu memberikan motivasi dan nasihat yang tak ternilai bagi kemajuan Indonesia.
+
+Bapak Lee Kuan Yew dikenal sebagai salah satu Kepala Negara yang sangat dihormati di Asia.
+
+Sebagai salah satu pendiri ASEAN, Bapak Lee Kuan Yew telah menjadi tokoh penting dalam transformasi Asia Tenggara menuju komunitas dinamis yang damai seperti saat ini.
+
+Bapak Lee Kuan Yew akan selalu dikenang tidak hanya oleh masyarakat Singapura, namun juga masyarakat Indonesia dan Asia Tenggara.
+
+Semoga Almarhum dapat beristirahat dengan tenang.
+
+#### Former Prime Minister of United Kingdon, Mr Tony Blair
+In an interview with Channel NewsAsia, former British Prime Minister Tony Blair recounted his past meetings with Singapore’s founding Prime Minister Lee Kuan Yew, and described Mr Lee as one of the most significant leaders of the late 20th century. 
+
+#### Former Prime Minister of Malaysia, Mahathir Mohamad
+Former Malaysia Prime Minister Mahathir Mohamad said he was “saddened” by the demise of Singapore’s founding Prime Minister Lee Kuan Yew
+
+He wrote on his blog: “I cannot say I was a close friend of Kuan Yew. But still I feel sad at his demise. We crossed swords many times … but there was no enmity, only differences in our views of what was good for the newborn nation.”
+
+#### Former Thai Prime Minister and Thailand's Privy Council President Prem Tinsulanonda at the Singapore Mission in Bangkok
+“He was one of my very good friends while we worked together. We were both Prime Minister at the same time. We were very close and helped each other often. If there was no Lee Kuan Yew, I believe there would be no Singapore,” said Mr Prem.
+
+“The Singaporean people must never forget him. They must remember that he built Singapore. Also, the things he wanted to do for Singapore but was not able to complete, the Singaporean people must come together to finish them.”
+
+#### India Government declares National Mourning on March 29, 2015
+The Government has decided to observe National Mourning on Sunday, March 29, 2015 as mark of respect to the Former Prime Minister of Singapore, Lee Kuan Yew. The National Flag will be flown at half-mast throughout India and there will be no official entertainment on the day. For the full message, click here.
+
+Johor State Secretary, Dato' Haji Ismail Bin Karim
+On behalf of the Johor State Government and the people of Johor. I would like to convey our deepest condolences to you and your family on the passing of Mr. Lee Kuan Yew on 23 March 2015.
+
+We will always remember Mr Lee legacy as the visionary leader who led Singapore through its challenging times and establishing it to be the globally recognised nation.
+
+We hope you and your family will continue to be strong in this time of sorrow.
+
+With deepest sympathies
+
+Dato’ Haji Ismail bin Karim
