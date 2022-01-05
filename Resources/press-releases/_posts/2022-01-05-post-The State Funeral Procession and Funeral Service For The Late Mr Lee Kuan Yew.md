@@ -18,3 +18,4 @@ On 29 March 2015, Sunday:
 3.The SCDF Public Warning System siren will be sounded twice island wide at about 4pm to signal the start and end of a minute of silence for the late Mr Lee;
 4.Live telecast of the State Funeral Procession and State Funeral Service will be available on national television and radio, as well as online at rememberingleekuanyew.sg and www.facebook.com/rememberingleekuanyew; and
 5.The State Funeral Service will also be shown live at all 18 of People’s Association community tribute sites, and all community centres.
+![Alt text for image on Isomer site](/images/press-release/The%20State%20Funeral%20Procession.png)
