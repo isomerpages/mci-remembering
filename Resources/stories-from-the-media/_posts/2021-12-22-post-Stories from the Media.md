@@ -24,7 +24,7 @@ Lee simultaneously demonstrated that sound finance can coexist with soundly thou
 
 Read more.
 
-###### Mr Lee Kuan Yew ‘one of the giants of our lifetime’: Lord Mandelson
+##### Mr Lee Kuan Yew ‘one of the giants of our lifetime’: Lord Mandelson
 SINGAPORE: Britain’s Lord Peter Mandelson has written to Prime Minister Lee Hsien Loong to express his deepest condolences over the passing of Singapore’s founding Prime Minister Mr Lee Kuan Yew.
 
 In his letter, the former EU trade commissioner and Labour minister said the late Mr Lee “was a towering figure, one of the giants of our lifetime who built a nation that is the envy of others around the world”.
