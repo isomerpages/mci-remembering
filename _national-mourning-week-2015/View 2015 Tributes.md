@@ -195,3 +195,17 @@ Yesterday evening President Obama spoke with Singapore Prime Minister Lee Hsien 
 
 #### Prime Minister of Australia,Tony Abbott
 Tony Abbott – Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
+
+#### Prime Minister of Lao PDR, Thongsing Thammavog
+The demise of Mr Lee Kuan Yew caused the loss of an outstanding leader, a founder of modern prosperous Singapore who significantly contributed to the development of the country as well as the development of friendly ties and cooperation between Laos and Singapore, and among Asean countries.
+
+On behalf of the government and Lao people and on my own behalf, I would like to share this moment of sadness and sympathy with the government and people of Singapore as well as with your family and friends of the late leader Lee Kuan Yew.
+
+#### Prime Minister of Malaysia, Najib Razak
+Speaking to reporters outside Parliament House after the visit, Mr Najib said that the late Mr Lee was a “great man whose leadership, vision, fortitude and perseverance helped shaped Singapore to what it is today: An advanced economy and finding its own place in the world”.
+
+“All Singaporeans owe him a huge debt of gratitude,” he said.
+
+“Mr Lee also was a man who helped shape Southeast Asia as a region of peace and prosperity. He will go down as a great man of history, whose vision and leadership helped make this world a better place.
+
+“I’d like to thank him for strengthening bilateral ties between Malaysia and Singapore.”
