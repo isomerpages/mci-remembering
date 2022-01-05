@@ -23,3 +23,5 @@ Editor’s Note: On Sunday, March 22, Lee Kuan Yew, founding prime minister of S
 Tough love
 
 Lee Kuan Yew was the keynote speaker at the 2005 Bo’ao Forum on China’s Hainan island. Bo’ao is a Chinese-sponsored version of Davos, and in inviting Lee the Chinese hosts were honoring a figure revered in China for years of support of China’s economic modernization and public advocacy of acceptance of China’s rise. To an audience of smiling senior Chinese officials, Lee spoke of his long friendship and admiration for China’s “second generation” of leaders, notably Deng Xiaoping and the founder of the Chinese navy Liu Huaqing. He noted that they understood what China needed to do to achieve modernization, and how it should conduct itself towards it neighbors to reassure them as China rose.
+
+[Read More](http://www.brookings.edu/blogs/order-from-chaos/posts/2015/03/22-remembering-lee-kuan-yew-bader)
