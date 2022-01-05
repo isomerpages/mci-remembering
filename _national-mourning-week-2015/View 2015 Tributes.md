@@ -18,6 +18,7 @@ Lee simultaneously demonstrated that sound finance can coexist with soundly thou
 
 #### Lee Kuan Yew: Postcards from an extraordinary life
 By Jeff Bader
+
 *Editor’s Note: On Sunday, March 22, Lee Kuan Yew, founding prime minister of Singapore passed away at 91. Jeffrey Bader recalls moments in his career where Lee had a profound impact.*
 
 Tough love
@@ -32,3 +33,21 @@ SINGAPORE: Britain’s Lord Peter Mandelson has written to Prime Minister Lee Hs
 In his letter, the former EU trade commissioner and Labour minister said the late Mr Lee “was a towering figure, one of the giants of our lifetime who built a nation that is the envy of others around the world”.
 
 [Read More](http://www.channelnewsasia.com/news/singapore/mr-lee-kuan-yew-one-of/1738842.html)
+
+Egypt President, Abdel Fattah El-Sisi
+President Abdel Fattah El Sisi on Friday offered condolences to Singaporean Prime Minister Lee Hsien Loong over the death of his father and former premier Lee Kuan Yew, the founder of modern-day Singapore.
+
+In a phone call with the Singaporean prime minister, Sisi paid tribute to the late premier as the “architect of Singapore’s economy”, who enriched during his rule the political and economic life of his country.
+
+Sisi conveyed the Egyptian people’s condolences to the Singaporean people.
+
+EU Ambassador to Singapore, Dr Michael Pulch
+p>I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
+
+He was an inspiring statesman whose vision of an independent and prosperous Singapore became the foundation of its lasting success.
+
+Throughout his political life generations of European leaders did seek his views and advice to better understand dynamics in this part of the world. He will be deeply missed.
+
+– Dr Michael Pulch, EU Ambassador to Singapore
+
+EU dignitaries signing the condolence book in Singapore Embassy in Cairo
