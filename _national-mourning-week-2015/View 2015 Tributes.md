@@ -137,17 +137,17 @@ President Sirleaf added that former Prime Minister Lee Kuan Yew will be remember
 ##### New Zealand DPM and MPs paid special tributes to Mr Lee Kuan Yew during a parliamentary session
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TouD4zCTjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
+#### New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
 Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. Read more.
 
-President of France, Francois Hollande
+#### President of France, Francois Hollande
 “The President of the French Republic has learnt with great sadness of the demise of Mr Lee Kuan Yew, first Head of Government of Singapore. He honors the memory of this visionary statesman, who was able to guide the remarkable development of Singapore since its independence in 1965,” he said.
 
 “As Singapore and France mark the 50th anniversary of the establishment of their diplomatic relations this year, France has lost a friend who had strived to draw our two nations closer and deepen our cooperation in all fields.
 
 “In these moments of mourning of the entire nation, the Head of State addresses his sincere condolences to the loved ones of Mr Lee Kuan Yew and to the people of Singapore.”
 
-President of Indonesia, Joko Widodo
+#### President of Indonesia, Joko Widodo
 “The government and people of Indonesia wish to convey their deep sorrow over the passing of former PM Lee Kuan Yew on Monday, 3.18am.
 
 “The late former prime minister is a close friend of Indonesia, and known as the founding father of modern Singapore. As a leader and a great statesman who loved his people, he was also one of the most influential politicians in Asia.
@@ -158,7 +158,7 @@ President of Indonesia, Joko Widodo
 
 “The Government and people of Indonesia believe that Singapore would be able to pull through this difficult time and develop according to the aspirations of the people.”
 
-President of the European Council, Mr Donald Tusk
+#### President of the European Council, Mr Donald Tusk
 Dear Mr Prime Minister,
 Please accept my condolences on the sad occasion of the passing of Mr. Lee Kuan Yew.
 Lee Kuan Yew will be remembered for having inspired the astonishing growth and transformation of Singapore into the successful metropolis it is today. He helped to build strong relations between Singapore and the European Union so that today Singapore is the European Union’s largest trading partner in ASEAN.
@@ -168,17 +168,17 @@ With my sincerest condolences,
 Donald Tusk
 H.E.
 
-President of Russia, Vladimir Putin
+#### President of Russia, Vladimir Putin
 Vladimir Putin sent his condolences to President of Singapore Tony Tan Keng Yam following the death Lee Kuan Yew, Singapore’s longstanding former prime minister and one of the patriarchs of international politics.
 
 Mr Putin expressed high praise for the socioeconomic advances and science and technology progress that Singapore achieved under Lee Kuan Yew. “Over his decades of work as Prime Minister and in other high government posts, he earned his compatriots’ sincere love and respect and won the highest international influence,” the President noted.
 
 Mr Putin also said in his message that Russia will remember Lee Kuan Yew as a consistent supporter of developing friendly relations between Russia and Singapore and a leader who made a great personal contribution to strengthening the two countries’ mutually advantageous bilateral cooperation.
 
-President of the United States, Barack Obama
+#### President of the United States, Barack Obama
 Yesterday evening President Obama spoke with Singapore Prime Minister Lee Hsien Loong to express his and the First Lady’s condolences and the condolences of the American people on the death of founding Prime Minister Lee Kuan Yew. The President recognized founding Prime Minister Lee’s remarkable leadership and lasting contributions, not just to Singapore’s development, but also to the region’s dynamism. The President also conveyed his appreciation for founding Prime Minister Lee’s wise counsel and strong support for U.S.-Singapore relations.
 
-李克强总理就李光耀逝世向新加坡总理李显龙致唁电
+#### 李克强总理就李光耀逝世向新加坡总理李显龙致唁电
 2015年3月23日，国务院总理李克强就新加坡前总理李光耀不幸逝世向新加坡总理李显龙致唁电。李克强代表中国政府和人民并以个人的名义，向新加坡政府和人民表示沉痛哀悼，向李显龙及家人致以深切慰问。
 
 李克强在唁电中表示，李光耀先生和中国老一辈领导人共同推开了中新友好合作大门，他为中新关系和中国改革开放作出的贡献必将载入史册。李光耀先生是世界公认的战略家和政治家，是新加坡的开国之父和发展之父，也是东盟的创建者之一，他为本地区的和平与发展作出了重要贡献。
@@ -193,5 +193,5 @@ Yesterday evening President Obama spoke with Singapore Prime Minister Lee Hsien 
 
 习近平强调，中方高度重视发展中新友好合作关系，愿同新方一道，坚持和发展两国传统友谊，以今年中新建交25周年为契机，巩固睦邻友好，深化互利合作，更好造福两国和两国人民。
 
-Prime Minister of Australia,Tony Abbott
+#### Prime Minister of Australia,Tony Abbott
 Tony Abbott – Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
