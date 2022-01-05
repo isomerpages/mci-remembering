@@ -15,3 +15,11 @@ LEE KUAN YEW was one of the great statesmen of the post-WWII era. He made Singap
 Lee simultaneously demonstrated that sound finance can coexist with soundly thought out social programs. He pursued a vigorous housing program that enabled people who didn’t earn high incomes to buy their homes; his was a model for how subsidies need not lead to the housing-related disasters that have plagued the U.S. Singapore’s health care system has provided comprehensive coverage to its people without the rationing, high costs and dicey care that characterize so many others. Singapore’s pension system avoided the pay-as-you-go trap that is hurtling those in other countries toward insolvency.
 
 [Read More](https://www.forbes.com/sites/steveforbes/2015/03/23/lee-kuan-yew-why-this-extraordinary-leader-will-be-missed/?sh=7cd2a42d1112)
+
+#### Lee Kuan Yew: Postcards from an extraordinary life
+By Jeff Bader
+Editor’s Note: On Sunday, March 22, Lee Kuan Yew, founding prime minister of Singapore passed away at 91. Jeffrey Bader recalls moments in his career where Lee had a profound impact.
+
+Tough love
+
+Lee Kuan Yew was the keynote speaker at the 2005 Bo’ao Forum on China’s Hainan island. Bo’ao is a Chinese-sponsored version of Davos, and in inviting Lee the Chinese hosts were honoring a figure revered in China for years of support of China’s economic modernization and public advocacy of acceptance of China’s rise. To an audience of smiling senior Chinese officials, Lee spoke of his long friendship and admiration for China’s “second generation” of leaders, notably Deng Xiaoping and the founder of the Chinese navy Liu Huaqing. He noted that they understood what China needed to do to achieve modernization, and how it should conduct itself towards it neighbors to reassure them as China rose.
