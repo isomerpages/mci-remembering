@@ -84,10 +84,10 @@ NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key mil
 	
 
 <table></table><table><tbody><tr>
-<td> <img src="/images/IM%20NLB1.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/IM%20NLB2.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/IM%20NLB3.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/IM%20NLB4.jpg" alt="Drawing" style="width: 250px;">
+<td> <img src="/images/IM%20NLB1.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/IM%20NLB2.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/IM%20NLB3.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/IM%20NLB4.jpg" alt="Drawing" style="width: 450px;">
 </td></tr></tbody></table>
 
 
@@ -97,5 +97,7 @@ NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key mil
 <td> <img src="/images/IM%20NLB5.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/IM%20NLB6.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/IM%20NLB7.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/IM%20NLB8.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/IM%20NLB8.png" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/IM%20NLB9.jpg" alt="Drawing" style="width: 250px;"> </td>
+	
 </tr></tbody></table>
