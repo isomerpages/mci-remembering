@@ -37,28 +37,11 @@ A commemorative exhibition in honour of the late Mr Lee will be held at the Glas
 | Toa Payoh Public Library      | 	6 Toa Payoh Centra,l S(319191)       |
 | Woodlands Regional Library   | 900 South Woodlands Drive, #01-03 Woodlands Civic Centre, S(730900)        |
 | Yishun Public Library      | 930 Yishun Ave 2, Level 4 Northpoint Shopping Centre, S(769098) |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 
-
-
-
-The libraries will be open from 10.00am to 9.00pm except for those located in the shopping malls which will be open from 11.00am to 9.00pm.
-
-In Memoriam – Lee Kuan Yew (National Museum of Singapore)
+The libraries will be open from 10.00am to 9.00pm except for those located in the shopping malls which will be open from 11.00am to 9.00 
+pm.
+**In Memoriam – Lee Kuan Yew (National Museum of Singapore)**
 
 25 March – 26 April 2015 daily, 10am – 8pm
 The National Museum of Singapore’s exhibition chronicles the life and political career of Singapore’s first Prime Minister from his formative years as a law student, to leaving his legacy as the nation’s founding father.
