@@ -82,7 +82,7 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key milestones in his life. You can find inspiring quotes and a special book gallery featuring a collection of books, publications and a multimedia display of old photos and transcripts of Mr Lee’s speeches. The public can also pen their memories of Mr Lee at memory collection booths at 25 public libraries.
 	
-	![Alt text for image on Isomer site](/images/IM%20NLB3.jpg)
+	
 
 <table></table><table><tbody><tr>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB1.jpg"> </td>
