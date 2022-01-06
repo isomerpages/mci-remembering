@@ -70,5 +70,22 @@ You are deeply missed Mr Lee. If only you can celebrate the SG50 with us last ye
 
 **Zhi Wei Chew**
 
+I went down to pen my tribute at your Tanjong Pagar constituency. Still cannot believe that you have left us. Rest in peace Mr Lee. We will uphold that values that you championed during your lifetime for our children and their childens' children
+
+**Hiro Chung**
 
 
+Hi Sir! Tomorrow marks the first death anniversary of our beloved Mr Lee Kuan Yew. He is deeply missed by every Singaporean including myself. Although I am not that talented to do anything special in tribute of Mr Lee, I am very proud of the fellow Singaporeans who were creative and sincere in doing so! One of them who caught my eyes is Reuby, who composed and wrote this song as a tribute to Mr Lee, for all his contributions and love for Singapore and Singaporeans.
+
+Last year this time, when Mr Lee left us, Reuby and his team were in Hong Kong taking part in a singing competition. He dedicated his award to Mr Lee as he wasn’t able to make it back in time to bade farewell. 前人种樹，後人乘涼; my generation including people like Reuby benefited so much from the hard work of Mr Lee and his team and all our forefathers.
+
+On this day, I wished that younger Singaporeans will learn to appreciate what we have, to continue building our country with love and hard work just like what Mr Lee had done all his life. Please feel free to share this song [Legendary] with all fellow Singaporeans!
+
+https://www.facebook.com/reubyofficial/videos/534178980120175/
+
+**Jeanette Jung**
+
+
+Dear Sir. We will always remember you dedication and sacrifice to build singapore to what it is today. Thank You and Rest in Peace dear Sir! Forever in our hearts
+
+**Alex Lim**
