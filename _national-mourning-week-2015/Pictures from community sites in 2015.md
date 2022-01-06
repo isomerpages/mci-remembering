@@ -58,9 +58,10 @@ Various community sites were also set up at various parts of Singapore for Singa
 
 *Minister of Health Gan Kim Yong assisting a PCF student with his flower tribute.*
 
+![Alt text for image on Isomer site](/images/VisitComm5.jpg)
 
 
-At the East Coast community tribute site – father, mother and daughter privately collecting their thoughts in memory of Mr Lee.
+*At the East Coast community tribute site – father, mother and daughter privately collecting their thoughts in memory of Mr Lee.*
 
 A resident paying her final respects to the Republic’s first Prime Minister, Lee Kuan Yew, at a tribute site at Choa Chu Kang. Mr Lee has touched the lives of many Singaporeans.
 
