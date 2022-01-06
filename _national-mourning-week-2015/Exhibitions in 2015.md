@@ -55,25 +55,25 @@ pm.
 The National Museum of Singapore’s exhibition chronicles the life and political career of Singapore’s first Prime Minister from his formative years as a law student, to leaving his legacy as the nation’s founding father.
 
 
-<table><tr>
-<td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam1.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam2.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam3.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam4.jpg"> </td>
+</tr></tbody></table>
 
 
-<table><tr>
-<td> <img src="/images/In%20memoriam5.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam%206.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam%207.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam5.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%206.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%207.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam8.jpg"> </td>
+</tr></tbody></table>
 
-<table><tr>
-<td> <img src="/images/In%20memoriam9.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam10.jpg" alt="Drawing" style="width: 250px;"/> </td>
-	</tr><table>
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam9.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam10.jpg"> </td>
+	</tr></tbody></table>
 
 
 **Tribute to Lee Kuan Yew at National Library Building**
@@ -82,19 +82,19 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key milestones in his life. You can find inspiring quotes and a special book gallery featuring a collection of books, publications and a multimedia display of old photos and transcripts of Mr Lee’s speeches. The public can also pen their memories of Mr Lee at memory collection booths at 25 public libraries.
 	
-	![Alt text for image on Isomer site](/images/IM%20NLB2.jpg)
+	![Alt text for image on Isomer site](/images/IM%20NLB3.jpg)
 
-<table><tr>
-<td> <img src="/images/IM%20NLB1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/IM%20NLB2.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+<table></table><table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB1.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB2.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB3.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing"> </td>
+</tr></tbody></table>
 
 
-<table><tr>
-<td> <img src="/images/In%20memoriam5.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam%206.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam%207.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam5.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%206.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%207.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam8.jpg"> </td>
+</tr></tbody></table>
