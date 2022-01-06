@@ -44,7 +44,8 @@ Admission is free. All community sites will also screen the State Funeral Servic
 
 The passing of Mr Lee Kuan Yew has seen an outpouring of condolences from Singaporeans from all walks of life, to pen their tributes and lay flowers at the various condolence boards set up at the Main Gate in front of the Istana and in front of Parliament House. Condolence books were also opened at all Overseas Missions for overseas Singaporeans and friends.
 
-PM Lee reading one of the many messages left by the public for the late Mr Lee.
+![Alt text for image on Isomer site](/images/VisitComm1.jpeg)
+*<center>PM Lee reading one of the many messages left by the public for the late Mr Lee.</center>*
 
 Various community sites were also set up at various parts of Singapore for Singaporeans to leave their notes of condolence for Singapore’s founding Prime Minister.
 
