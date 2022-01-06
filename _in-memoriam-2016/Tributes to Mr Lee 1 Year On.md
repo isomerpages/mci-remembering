@@ -89,3 +89,18 @@ https://www.facebook.com/reubyofficial/videos/534178980120175/
 Dear Sir. We will always remember you dedication and sacrifice to build singapore to what it is today. Thank You and Rest in Peace dear Sir! Forever in our hearts
 
 **Alex Lim**
+
+轉眼一年，就像離開不久，心仍是痛，回想一年前23号我人在國外，未能參加那7夭，遺憾至今，今日只可參加悼念晚會，以表心意，希望星加坡继续安定繁榮，多謝你一生的貢獻，是星加坡之福，你的精神，將永長全! 永遠懷念你!
+
+**Kammy**
+
+
+Forever in loving memory. Rest in Peace. We will continue to preserve you ideals
+
+**John Peh**
+
+
+A year has gone by since your passing, yet there are times when we wonder if this is a reality. The constant questions on my mind were: Have we moved on and taken his dream to future heights? Have we done our part to contribute back to the very Singapore he built with his blood, sweat and tears? Only we ourselves and our future generations can answer that.
+I am truly grateful for the many opportunities in my life that were a result of his hard work. Thank you once again Mr Lee, rest in peace.
+
+**Michael Choy**
