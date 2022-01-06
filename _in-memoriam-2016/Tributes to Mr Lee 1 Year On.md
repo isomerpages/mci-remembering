@@ -104,3 +104,18 @@ A year has gone by since your passing, yet there are times when we wonder if thi
 I am truly grateful for the many opportunities in my life that were a result of his hard work. Thank you once again Mr Lee, rest in peace.
 
 **Michael Choy**
+
+
+https://www.facebook.com/big3productions/videos/1310479202312668/
+
+**Big 3 Media**
+
+
+One year ago, the whole nation mourns for your departure. We are still being and will always be strong and successful in your LKY spirit, which will always remains as a part of Singapore. Thank you Mr Lee, we will be missing you always with a strong heart.
+
+**Ann Png**
+
+
+You are great not only to all Singaporeans but also to the world
+
+**Anonymous**
