@@ -27,7 +27,7 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 |Nee Soon	|[Hardcourt beside Block 749, Yishun Street 72](https://goo.gl/maps/xU1OK)|
 |Holland-Bukit Timah|[Senja-Cashew Community Club](https://www.google.com.sg/maps/place/Senja-Cashew+Community+Club/@1.381403,103.7624623,17z/data=!3m1!4b1!4m5!3m4!1s0x31da11bd6e5b8eb3:0xac5a1d51f7911cc0!8m2!3d1.381403!4d103.764651?hl=en)|
 |Sembawang|[Woodlands Civic Centre](https://www.google.com.sg/maps/search/woodlands+civic+centre/@1.4347416,103.7844813,17z/data=!3m1!4b1) <br>(Woodlands Square)|
-|Choa Chu Kang| [Hardcourt opposite Choa Chu Kang MRT](ttps://www.google.com.sg/maps/place/Singapore+680355/@1.3830489,103.7262733,14z/data=!3m1!4b1!4m5!3m4!1s0x31da11c27ba233c3:0xd5e9f30d101ef8cd!8m2!3d1.383049!4d103.7437829?hl=en)|
+|Choa Chu Kang| [Hardcourt opposite Choa Chu Kang MRT](https://www.google.com.sg/maps/place/749+Yishun+Street+72,+Singapore+760749/@1.4284343,103.831527,17z/data=!3m1!4b1!4m5!3m4!1s0x31da146fdcee50cb:0xa2fbfee08bd7d3c4!8m2!3d1.4284343!4d103.8337157)|
 |West Coast	|[Blk 442 and Blk 449 Clementi Ave 3](https://www.google.com.sg/maps/place/449+Clementi+Ave+3,+Singapore+120449/@1.3134143,103.7627087,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a8e0d635907:0x68447442495cac46!8m2!3d1.3134143!4d103.7648974?hl=en)|
 |Jurong| [Canopy @ J Link](https://goo.gl/maps/5gvjb) <br>Next to JCube Shopping Centre and Jurong Regional Library|
 | - | [People’s Association Headquarters, 9 King George’s Avenue](https://goo.gl/maps/xJOR0)|
