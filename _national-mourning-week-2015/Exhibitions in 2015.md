@@ -59,7 +59,7 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 <table><tr>
 <td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
 
