@@ -21,6 +21,11 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 |Tanjong Pagar	 | 	[Tanjong Pagar Community Club](https://www.google.com.sg/maps/place/Singapore+089774/@1.2760789,103.8240904,14z/data=!3m1!4b1!4m5!3m4!1s0x31da196c642128a1:0x496da7cd0fa29f41!8m2!3d1.276079!4d103.8416?hl=en)      |
 | Aljunied	  | Kovan Hub (Block 206, Hougang Street 21)   |
 | Pasir Ris-Punggol	  | 	[Sengkang Community Hub ](https://www.google.com.sg/maps/place/Sengkang+Community+Hub/@1.3928859,103.891694,17z/data=!3m1!4b1!4m5!3m4!1s0x31da160d9d9b5493:0xc6eb27c3e4c763c0!8m2!3d1.3926771!4d103.8938165?hl=en)   |
+| Tampines | 	[Tampines Community Plaza](https://goo.gl/maps/13DmJ)<br>(in front of Tampines One Mall)  |
+|East Coast| [Open Space @ Bedok Town Centre](https://www.google.com.sg/maps/place/Singapore+460209/@1.3246719,103.9133694,14z/data=!3m1!4b1!4m5!3m4!1s0x31da22b36551e749:0x1300f7ac70f016c2!8m2!3d1.324672!4d103.930879?hl=en)<br>(In front of 209 New Upper Changi Road Singapore 460209, outside Sheng Siong Supermarket)|
+|Marine Parade| [Kampong Kembangan Community Club](https://www.google.com.sg/maps/place/5+Lengkong+Tiga,+Singapore+417408/@1.323277,103.912753,17z/data=!3m1!4b1!4m2!3m1!1s0x31da1800f263da29:0xf64ea894a7581593?hl=en|
+|Nee Soon	|[Hardcourt beside Block 749, Yishun Street 72](https://goo.gl/maps/xU1OK)
+
 
 Admission is free. All community sites will also screen the State Funeral Service on 29 March 2015 “live”.
 
