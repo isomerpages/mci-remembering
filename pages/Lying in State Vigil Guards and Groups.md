@@ -16,46 +16,48 @@ Friends and former colleagues of the late Mr Lee will also hold vigil in his mem
 Each vigil group, comprising about 20 persons, will hold vigil for 30 minutes. There will be a break of either 30 minutes or an hour between the vigil groups. The schedule of vigil groups for 25 Mar is below.
 
 
-1830 – 1900National Trades Union Congress
-Diana Chia
-Lim Swee Say
-Lim Kuang Beng
-Nora Kang
-K Karthikeyan
-Edwin Lye
-Chan Chun Sing
-Heng Chee How
-Joanne Cham Hui Fong
-Tan Hock Soon
-Lim Boon Heng
-John De Payva
-Mahmud Awang
-Oscar Oliveiro
-Tan Soon Yam
-Edwin Netto
-Varukatty Mohd
-Teo Yock Ngee
-Cyrille Tan
-Thomas Tay1930 – 2000People’s Action PartyTan Lee Jee
-Victor Lye
-Tay Bok Hock, Louis
-Ong Say Kiat, Jason
-Ng Ai Lee, Janica
-Chua Eng Leong
-Lee Chay Eng, Victor
-Mun Kok Hong, Steven
-Tan Siang Hui
-Foo Doon Chin, Michael
-Chua Chong Meng, Vincent
-Lim Moh Tin, Rosemary
-Shaw Kar Seng, Bob
-Tong Chwee Chong, Jeffrey
-Tan Poh Hua
-Yeong Wai Teck
-Goh Peng Tong
-Chia Chong Peow
-Tan Yan Boon, Alex
-Teh Seng Lee, Bobby
+1830 – 1900National Trades Union Congress<br>
+Diana Chia<br>
+Lim Swee Say<br>
+Lim Kuang Beng<br>
+Nora Kang<br>
+K Karthikeyan<br>
+Edwin Lye<br>
+Chan Chun Sing<br>
+Heng Chee How<br>
+Joanne Cham Hui Fong<br>
+Tan Hock Soon<br>
+Lim Boon Heng<br>
+John De Payva<br>
+Mahmud Awang<br>
+Oscar Oliveiro<br>
+Tan Soon Yam<br>
+Edwin Netto<br>
+Varukatty Mohd<br>
+Teo Yock Ngee<br>
+Cyrille Tan<br>
+Thomas Tay<br>
+1930 – 2000People’s Action Party<br>
+Tan Lee Jee<br>
+Victor Lye<br>
+Tay Bok Hock, Louis<br>
+Ong Say Kiat, Jason<br>
+Ng Ai Lee, Janica<br>
+Chua Eng Leong<br>
+Lee Chay Eng, Victor<br>
+Mun Kok Hong, Steven<br>
+Tan Siang Hui<br>
+Foo Doon Chin, Michael<br>
+Chua Chong Meng, Vincent<br>
+Lim Moh Tin, Rosemary<br>
+Shaw Kar Seng, Bob<br>
+Tong Chwee Chong, Jeffrey<br>
+Tan Poh Hua<br>
+Yeong Wai Teck<br>
+Goh Peng Tong<br>
+Chia Chong Peow<br>
+Tan Yan Boon, Alex<br>
+Teh Seng Lee, Bobby<br>
 
 
 
