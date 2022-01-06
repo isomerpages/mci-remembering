@@ -63,7 +63,9 @@ Various community sites were also set up at various parts of Singapore for Singa
 
 *At the East Coast community tribute site – father, mother and daughter privately collecting their thoughts in memory of Mr Lee.*
 
-A resident paying her final respects to the Republic’s first Prime Minister, Lee Kuan Yew, at a tribute site at Choa Chu Kang. Mr Lee has touched the lives of many Singaporeans.
+![Alt text for image on Isomer site](/images/VisitComm6.jpg)
+
+*A resident paying her final respects to the Republic’s first Prime Minister, Lee Kuan Yew, at a tribute site at Choa Chu Kang. Mr Lee has touched the lives of many Singaporeans.*
 
 NYP students paying their last respects to Mr Lee Kuan Yew at the People’s Association Headquarters. The students made a video to pay tribute to Singapore’s first Prime Minister: http://goo.gl/oewfNP
 
