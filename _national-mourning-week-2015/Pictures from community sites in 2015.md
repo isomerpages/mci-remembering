@@ -71,14 +71,15 @@ Various community sites were also set up at various parts of Singapore for Singa
 
 *NYP students paying their last respects to Mr Lee Kuan Yew at the People’s Association Headquarters. The students made a video to pay tribute to Singapore’s first Prime Minister: http://goo.gl/oewfNP*
 
+![Alt text for image on Isomer site](/images/VisitComm8.jpg)
 
-Your passing saddens many Singaporeans, including my family, immensely. The ultimate tribute to you, I believe is to inherit the very values of tenacity and grit that you exhibited, and to keep our core strong, in defending the legacy that you have left behind – Singapore. It is now time for us to build our dreams and bring your life’s work to new heights, in establishing our own legacy for this land.”
+*Your passing saddens many Singaporeans, including my family, immensely. The ultimate tribute to you, I believe is to inherit the very values of tenacity and grit that you exhibited, and to keep our core strong, in defending the legacy that you have left behind – Singapore. It is now time for us to build our dreams and bring your life’s work to new heights, in establishing our own legacy for this land.”*
 
 *Charlie Liew*
 
-Read more tributes at our Tributes page.
+*Read more tributes at our Tributes page.*
 
-Condolence boards will be available at Istana and Parliament House from 23 March to 29 March 2015.
+<center>Condolence boards will be available at Istana and Parliament House from 23 March to 29 March 2015.</center>
 
 #### Volunteers at Tampines Community Plaza
 
