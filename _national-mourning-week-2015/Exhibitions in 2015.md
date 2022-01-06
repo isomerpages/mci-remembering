@@ -41,6 +41,7 @@ A commemorative exhibition in honour of the late Mr Lee will be held at the Glas
 
 The libraries will be open from 10.00am to 9.00pm except for those located in the shopping malls which will be open from 11.00am to 9.00 
 pm.
+
 **In Memoriam – Lee Kuan Yew (National Museum of Singapore)**
 
 25 March – 26 April 2015 daily, 10am – 8pm
