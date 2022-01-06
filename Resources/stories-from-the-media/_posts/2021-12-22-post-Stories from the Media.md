@@ -36,6 +36,8 @@ Saying that Mr Lee was “an extraordinary human being”, Mr Shultz added that 
 ##### Mr Lee's Red Box
 By Minister Heng Swee Keat, former Principal Private Secretary to Mr Lee
 
+![Alt text for image on Isomer site](/images/stories-from-media/red%20box-1024x682.jpg)
+
 Mr Lee Kuan Yew had a red box. When I worked as Mr Lee’s Principal Private Secretary, or PPS, a good part of my daily life revolved around the red box. Before Mr Lee came in to work each day, the locked red box would arrive first, at about 9 am.
 As far as the various officers who have worked with Mr Lee can remember, he had it for many, many years. It is a large, boxy briefcase, about fourteen centimetres wide. Red boxes came from the British government, whose Ministers used them for transporting documents between government offices. Our early Ministers had red boxes, but Mr Lee is the only one I know who used his consistently through the years. When I started working for Mr Lee in 1997, it was the first time I saw a red box in use. It is called the red box but is more a deep wine colour, like the seats in the chamber in Parliament House.
 This red box held what Mr Lee was working on at any one time. Through the years, it held his papers, speech drafts, letters, readings, and a whole range of questions, reflections, and observations. For example, in the years that Mr Lee was working on his memoirs, the red box carried the multiple early drafts back and forth between his home and the office, scribbled over with his and Mrs Lee’s notes.
@@ -89,6 +91,8 @@ Under Lee’s leadership as Prime Minister, and with the determination and hard 
 Lee Kuan Yew was elected to an Honorary Fellowship of Fitzwilliam in 1969, and for many years was the most senior of the College’s Honorary Fellows. Two years later, he gave the Foundation Lecture: East and West – the twain have met.
 
 The connection between Fitzwilliam College and Singapore has continued to be strong over several generations. A substantial and significant body of Singaporean leaders in the professions and the nation have studied at Fitzwilliam, including Lee’s younger brothers who read Law and Medicine. Currently, there are 16 Singaporean undergraduates and 12 graduate students in the College.
+
+![Alt text for image on Isomer site](/images/stories-from-media/matriculationphoto.jpg)![Alt text for image on Isomer site](/images/stories-from-media/grad.jpg)![Alt text for image on Isomer site](/images/stories-from-media/flag.jpg)
 
 ##### What I Learned From Singapore’s Lee Kuan Yew
 By JON M. HUNTSMAN JR. March 23, 2015
