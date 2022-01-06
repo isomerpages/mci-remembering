@@ -39,20 +39,19 @@ With loving kindness
 "I don't think you should die until you're ready. Until you've wrung out every last bit of living you can."
 You Sir. have done your best for Singapore. Thank you. RIP
 
-Nicola Huay
+**Nicola Huay**
 
 
 Terima Kasih Mr Lee. Rakyat Singapura amat terhutang budi kepada anda.
 
-Rahim Abdul
+**Rahim Abdul**
 
 
 Thank you Mr Lee. My family and I were given opportunities by the government to improve ourselves and make a better living. My mum may be a dishwasher (and I am terribly proud of her), but today I am a senior nurse with a degree in hospital care. My daughter is currently pursuing her masters in aeronautical science. Everything happens for a reason and i thank the Allah s.w.t for all HIS blessings. Mr Lee, your policies to a large extend helped be where i am today. Thank you and may our future leaders always keep your values and ideals in their mind and hearts.
 
-Sulaiha Adam
+**Sulaiha Adam**
 
 
 Sir, one year has passed in a flash and we are ever grateful for your sacrifices and devotion to our nation. May we always remember your sacrifices and continue the legacy that you have left. Gone but not forgotten.
 
-Benson Kong
-
+**Benson Kong**
