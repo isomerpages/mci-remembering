@@ -31,7 +31,7 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 |West Coast	|[Blk 442 and Blk 449 Clementi Ave 3](https://www.google.com.sg/maps/place/449+Clementi+Ave+3,+Singapore+120449/@1.3134143,103.7627087,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a8e0d635907:0x68447442495cac46!8m2!3d1.3134143!4d103.7648974?hl=en)|
 |Jurong| [Canopy @ J Link](https://goo.gl/maps/5gvjb) <br>Next to JCube Shopping Centre and Jurong Regional Library|
 | - | [People’s Association Headquarters, 9 King George’s Avenue](https://goo.gl/maps/xJOR0)|
-|-| [https://goo.gl/maps/xJOR0](https://goo.gl/maps/VtnBv)|
+|-| [Botany Centre, Botanic Gardens](https://goo.gl/maps/VtnBv)|
 |-| [Marina Barrage](https://www.google.com.sg/maps/place/Marina+Barrage/@1.280681,103.8689326,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ad31884be7:0xdd66daf2e5edc4d1!8m2!3d1.280681!4d103.8711213|
 
 
