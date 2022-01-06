@@ -119,3 +119,14 @@ One year ago, the whole nation mourns for your departure. We are still being and
 You are great not only to all Singaporeans but also to the world
 
 **Anonymous**
+
+
+Mr Lee Kwan Yew, I love you. Thank you for everything that you had done for Singapore. Once again, I will miss you!
+
+**Javier Leung**
+
+
+You're great not only to the country but also to the world
+
+**Tan Yeang Soon**
+
