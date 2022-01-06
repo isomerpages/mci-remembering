@@ -99,6 +99,7 @@ Another volunteer, Siva Gami Subramaniam, is an athletic coach who has been volu
 ![Alt text for image on Isomer site](/images/VisitComm11.jpg)
 “Because I’m Singaporean, and I feel I’m a part of it,” Mdm Miriam Mohd proudly declared when asked why she decided to volunteer at the Tampines Community Plaza tribute site. “Look at the number of people coming in. I’m very proud that deep down inside, people really care for [Mr Lee Kuan Yew]. If he can see us now, I hope he feels satisfied that whatever he did for us didn’t go to waste.”
 
+![Alt text for image on Isomer site](/images/VisitComm12.jpg)
 
 Despite being wheelchair-bound, Uncle Chan, as he wishes to be called, has been visiting the Tampines Community Plaza tribute site every day at 10am. The 69-year-old Pioneer travels 15 minutes from his Tampines home to the site on his wheelchair for one reason only – to pay his respects to Mr Lee Kuan Yew.
 
