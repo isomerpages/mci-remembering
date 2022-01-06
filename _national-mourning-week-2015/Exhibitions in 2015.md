@@ -70,10 +70,10 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 
 <table><tr>
-<td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam5.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam%206.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam%207.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
 
