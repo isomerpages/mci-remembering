@@ -172,4 +172,13 @@ Rest in Peace Mr Lee.
 
 **Alroy**
 
+Mr Lee, thank you for giving your all to Singapore. I will have a son in two months time and i will definitely be sharing with him that Singapore should never be taken for granted.
+Thank you for everything again Mr Lee. Rest in Peace.
 
+**Marcus Ley**
+
+
+Mr Lee. Of all your contributions to Singapore. The best you did was to strive for a multiracial harmony and a meritocratic society. As a result, i have married a malay lady (i am a chinese) and i now work as a senior engineer even though i entered as an apprentice.
+You values for Singapore has changed lives and i (and the rest of singapore) am forever greatful. Rest in peace Mr Lee.
+
+**Tosh Lee**
