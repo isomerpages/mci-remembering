@@ -86,7 +86,7 @@ NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key mil
 
 <table><tr>
 <td> <img src="/images/IM%20NLB1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/IM%20NLB2.jpg" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
