@@ -130,3 +130,46 @@ You're great not only to the country but also to the world
 
 **Tan Yeang Soon**
 
+*My personal tribute to a Giant of a Man one year on:
+
+our Loss, Eternal and Empty...
+our Kudos, Unconditional, Abundant and Noble...
+our Yearning, Exceptional and Woebegone...
+
+your Legacy, Enduring and Everlasting.
+your Kindred, United, Assured and Nurtured.
+your Yen, Exemplary and Worthy.
+
+Singapore's a Lighthouse, Effulgent and Everglowing!
+Singapore's a Kaleidoscope, Unique, Astounding and Noteworthy!
+Singapore's a Yardstick, Exceptional and World-class!*
+
+**Victor Tay**
+
+A year has passed... we have all moved on, carried on with our daily lives and even made some progress over the past one year. But one thing is for sure - you will always be fondly remembered by us, and we will all continue to uphold the legacy you left behind, for us.
+
+**Elizabeth**
+
+
+Dear Sir, It's almost 1 year past your passing, you were still well remembered for your great contributions. Thank you very much once again and shall try to live to the ideal you had for Singapore. May God bless you, and that your soul is resting in peace.
+
+With greatest respect,
+**Hubert Tan**
+
+Our memory still lives on but we cannot forget what Mr Lee has done for Singapore. Singaporeans should be proud and fly our flag high. We must stand united as one people to build a prosperous nation.
+Thank You Mr Lee we miss you.
+
+**Denson Joseph**
+
+
+Dear Sir, Time really flies, it is already 1 year since you have passed on. Greatly missed your presence in Parliament and your powerful speeches that never failed to hit home the message you want to send : ) I hope that the ministers that you have hand picked will carry on the values and teachings to ensure Singapore continues to shine and be sustainable in this chaotic and uncertain world. May you and Mrs Lee watch over Singapore from the other world. Thank you very much : )
+
+**CHEW**
+
+
+Mr Lee. You were gone too soon. We have accomplished so much within this 50 years that it is now more important than ever to defend it for the future generations.
+Rest in Peace Mr Lee.
+
+**Alroy**
+
+
