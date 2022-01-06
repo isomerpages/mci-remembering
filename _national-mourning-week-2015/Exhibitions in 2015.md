@@ -58,7 +58,7 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 ![Alt text for image on Isomer site](/images/In%20memoriam3.jpg)
 
 <table><tr>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
