@@ -72,6 +72,11 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 <td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
+<table><tr>
+<td> <img src="/images/In%20memoriam9.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/images/In%20memoriam10.jpg" alt="Drawing" style="width: 250px;"/> </td>
+	</tr><table>
+
 
 **Tribute to Lee Kuan Yew at National Library Building**
 
