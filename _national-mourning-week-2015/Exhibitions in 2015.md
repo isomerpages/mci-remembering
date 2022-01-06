@@ -28,15 +28,15 @@ A commemorative exhibition in honour of the late Mr Lee will be held at the Glas
 | library@Chinatown      | 133 New Bridge Road, #04-12 Chinatown Point, S(059413)       |
 | library@Esplanade   | 8 Raffles Ave, #03-01, S(039802)        |
 | library@Orchard      | 277 Orchard Road, #03-12 / #04-11 Orchard Gateway, S(238858)       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
+| Marine Parade Public Library   | 278 Marine Parade Road, #01-02 Marine Parade Community Building, S(449282)        |
+| Queenstown Public Library      | 52 Margaret Drive, S(149297)       |
+| Sembawang Public Library   | 30 Sembawang Drive, #03-01 Sun Plaza, S(757713)        |
+| Sengkang Public Library      | 1 Sengkang Square Compass Point #04-26/27, S(545078)       |
+| Serangoon Public Library   | 23 Serangoon Central, #04-82/83 Nex (Level 4R), S(556083)        |
+| Tampines Regional Library   | 31 Tampines Ave 7, S(529620)        |
+| Toa Payoh Public Library      | 	6 Toa Payoh Centra,l S(319191)       |
+| Woodlands Regional Library   | 900 South Woodlands Drive, #01-03 Woodlands Civic Centre, S(730900)        |
+| Yishun Public Library      | 930 Yishun Ave 2, Level 4 Northpoint Shopping Centre, S(769098) |
 | Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
