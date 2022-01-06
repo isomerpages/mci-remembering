@@ -32,7 +32,7 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 |Jurong| [Canopy @ J Link](https://goo.gl/maps/5gvjb) <br>Next to JCube Shopping Centre and Jurong Regional Library|
 | - | [People’s Association Headquarters, 9 King George’s Avenue](https://goo.gl/maps/xJOR0)|
 |-| [Botany Centre, Botanic Gardens](https://goo.gl/maps/VtnBv)|
-|-| [Marina Barrage](https://www.google.com.sg/maps/place/Marina+Barrage/@1.280681,103.8689326,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ad31884be7:0xdd66daf2e5edc4d1!8m2!3d1.280681!4d103.8711213|
+|-| [Marina Barrage](https://goo.gl/maps/b9NuX)
 
 
 Admission is free. All community sites will also screen the State Funeral Service on 29 March 2015 “live”.
