@@ -40,7 +40,7 @@ Admission is free. All community sites will also screen the State Funeral Servic
 <center> Visit the People’s Association’s website to find out more details.</center>
 
 
-##### ****Tributes at Condolence Boards and Community Sites set up across the island****
+##### Tributes at Condolence Boards and Community Sites set up across the island
 
 The passing of Mr Lee Kuan Yew has seen an outpouring of condolences from Singaporeans from all walks of life, to pen their tributes and lay flowers at the various condolence boards set up at the Main Gate in front of the Istana and in front of Parliament House. Condolence books were also opened at all Overseas Missions for overseas Singaporeans and friends.
 
