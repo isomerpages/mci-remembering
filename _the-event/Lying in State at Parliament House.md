@@ -17,6 +17,6 @@ Thank you for paying your last respects. Approximately 454,700 people had queued
 
 [Information about the Vigil Guards and Vigil Groups](\Information-about-the-Vigil-Guards-and-Vigil-Groups)
 
-[Information about the Pallbearers](\Information-about-the-Pallbearers)
+[Information about the Pallbearers](\Pallbearers)
 
 [Visits by foreign dignitaries 28 Mar 15](/files/LIS-Visits-by-foreign-dignitaries-28-Mar-15.pdf)
