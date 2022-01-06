@@ -56,7 +56,7 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 ![Alt text for image on Isomer site](/images/In%20memoriam5.jpg)
 ![Alt text for image on Isomer site](/images/In%20memoriam%206.jpg)
-
+![Alt text for image on Isomer site](/images/In%20memoriam%207.jpg)
 <table><tr>
 <td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"/> </td>
