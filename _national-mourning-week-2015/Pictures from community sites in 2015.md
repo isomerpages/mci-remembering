@@ -48,6 +48,7 @@ The passing of Mr Lee Kuan Yew has seen an outpouring of condolences from Singap
 *<center>PM Lee reading one of the many messages left by the public for the late Mr Lee.</center>*
 
 Various community sites were also set up at various parts of Singapore for Singaporeans to leave their notes of condolence for Singapore’s founding Prime Minister.
+![Alt text for image on Isomer site](/images/VisitComm2.png)
 
 Singaporeans young and old alike took the time to pen their thoughts and memories of the late Mr Lee, detailing how Mr Lee had influenced their lives in different ways.
 
