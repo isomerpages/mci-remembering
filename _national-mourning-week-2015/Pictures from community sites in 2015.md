@@ -13,7 +13,7 @@ The community sites will until 6pm 29 March 2015.
 Residents may visit the sites for a live telecast of the State Funeral on 29 March 2015.
 
 
-| Area   | Location |
+| **Area**   | **Location** |
 |-------------|-------------|
 | Ang Mo Kio   | 	[Ang Mo Kio Central Stage @ Ang Mo Kio Town Centre](https://www.google.com.sg/maps/place/Ang+Mo+Kio+Central+Stage+@+Ang+Mo+Kio+Town+Centre/@1.3703123,103.8434745,17z/data=!3m1!4b1!4m5!3m4!1s0x31da16e7aa294e8b:0x13586f00638352bb!8m2!3d1.3703123!4d103.8456632?hl=en)         |
 | Bishan-Toa Payoh	   | 	[Toa Payoh Central CC Multipurpose Hall](https://www.google.com.sg/maps/place/93+Toa+Payoh+Central,+Singapore+319194/@1.334687,103.850407,17z/data=!3m1!4b1!4m2!3m1!1s0x31da176674d3f89f:0x941638a1903dad56?hl=en) |
