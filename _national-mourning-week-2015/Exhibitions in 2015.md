@@ -54,13 +54,8 @@ pm.
 25 March – 26 April 2015 daily, 10am – 8pm
 The National Museum of Singapore’s exhibition chronicles the life and political career of Singapore’s first Prime Minister from his formative years as a law student, to leaving his legacy as the nation’s founding father.
 
-These artefacts will be retained and curated in the soon-to-be revamped Permanent Galleries of the Museum as well. This will open in Aug/Sept 2015.
-
-For exhibition highlights and other details, please visit the National Museum’s website.
-
-At your nearest library
-Members of the public may wish to pay tribute and pen their fond memories of the late Mr Lee Kuan Yew at the 25 public libraries listed below. A memory collection booth will be set up at each of these libraries. A selection of books on and by the late Mr Lee will also be on display.
-
+![Alt text for image on Isomer site](/images/In%20memoriam1.jpg) ![Alt text for image on Isomer site](/images/In%20memoriam2.jpg)
+![Alt text for image on Isomer site](/images/In%20memoriam3.jpg)
 
 
 **Tribute to Lee Kuan Yew at National Library Building**
