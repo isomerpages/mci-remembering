@@ -54,8 +54,6 @@ pm.
 25 March – 26 April 2015 daily, 10am – 8pm
 The National Museum of Singapore’s exhibition chronicles the life and political career of Singapore’s first Prime Minister from his formative years as a law student, to leaving his legacy as the nation’s founding father.
 
-![Alt text for image on Isomer site](/images/In%20memoriam1.jpg) ![Alt text for image on Isomer site](/images/In%20memoriam2.jpg)
-![Alt text for image on Isomer site](/images/In%20memoriam3.jpg)
 
 <table><tr>
 <td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"/> </td>
