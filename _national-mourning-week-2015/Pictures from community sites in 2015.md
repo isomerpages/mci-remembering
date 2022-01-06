@@ -24,7 +24,11 @@ Residents may visit the sites for a live telecast of the State Funeral on 29 Mar
 | Tampines | 	[Tampines Community Plaza](https://goo.gl/maps/13DmJ)<br>(in front of Tampines One Mall)  |
 |East Coast| [Open Space @ Bedok Town Centre](https://www.google.com.sg/maps/place/Singapore+460209/@1.3246719,103.9133694,14z/data=!3m1!4b1!4m5!3m4!1s0x31da22b36551e749:0x1300f7ac70f016c2!8m2!3d1.324672!4d103.930879?hl=en)<br>(In front of 209 New Upper Changi Road Singapore 460209, outside Sheng Siong Supermarket)|
 |Marine Parade| [Kampong Kembangan Community Club](https://www.google.com.sg/maps/place/5+Lengkong+Tiga,+Singapore+417408/@1.323277,103.912753,17z/data=!3m1!4b1!4m2!3m1!1s0x31da1800f263da29:0xf64ea894a7581593?hl=en|
-|Nee Soon	|[Hardcourt beside Block 749, Yishun Street 72](https://goo.gl/maps/xU1OK)
+|Nee Soon	|[Hardcourt beside Block 749, Yishun Street 72](https://goo.gl/maps/xU1OK)|
+|Holland-Bukit Timah|[Senja-Cashew Community Club](https://www.google.com.sg/maps/place/Senja-Cashew+Community+Club/@1.381403,103.7624623,17z/data=!3m1!4b1!4m5!3m4!1s0x31da11bd6e5b8eb3:0xac5a1d51f7911cc0!8m2!3d1.381403!4d103.764651?hl=en)|
+|Sembawang|[Woodlands Civic Centre](https://www.google.com.sg/maps/search/woodlands+civic+centre/@1.4347416,103.7844813,17z/data=!3m1!4b1) <br>(Woodlands Square)|
+|Choa Chu Kang| [Hardcourt opposite Choa Chu Kang MRT](ttps://www.google.com.sg/maps/place/Singapore+680355/@1.3830489,103.7262733,14z/data=!3m1!4b1!4m5!3m4!1s0x31da11c27ba233c3:0xd5e9f30d101ef8cd!8m2!3d1.383049!4d103.7437829?hl=en)|
+|
 
 
 Admission is free. All community sites will also screen the State Funeral Service on 29 March 2015 “live”.
