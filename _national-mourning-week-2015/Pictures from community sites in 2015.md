@@ -88,9 +88,11 @@ Residents have been arriving at the community site at Tampines Community Plaza t
 Folks young and old have come bearing flowers to lay at the tribute site and written notes of sincere thanks to Mr Lee for his contributions to Singapore.
 
 But behind the scenes is a group of volunteers who have worked tirelessly to ensure that everything runs smoothly at the tribute sites.
+![Alt text for image on Isomer site](/images/VisitComm9.jpg)
 
 “I thought I should contribute in any small way,” said Sindee Yap, a finance manager who took time off work to volunteer at the Tampines Community Plaza tribute site. A grassroots leader, Ms Yap feels heartened to see how united Singaporeans are, and to witness the kind of respect that many people have for Mr Lee.
 
+![Alt text for image on Isomer site](/images/VisitComm10.jpg)
 
 “Because I’m Singaporean, and I feel I’m a part of it,” Mdm Miriam Mohd proudly declared when asked why she decided to volunteer at the Tampines Community Plaza tribute site. “Look at the number of people coming in. I’m very proud that deep down inside, people really care for [Mr Lee Kuan Yew]. If he can see us now, I hope he feels satisfied that whatever he did for us didn’t go to waste.”
 
