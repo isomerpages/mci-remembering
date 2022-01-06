@@ -30,3 +30,54 @@ Admission is free. All community sites will also screen the State Funeral Servic
 ##### ****Tributes at Condolence Boards and Community Sites set up across the island****
 
 The passing of Mr Lee Kuan Yew has seen an outpouring of condolences from Singaporeans from all walks of life, to pen their tributes and lay flowers at the various condolence boards set up at the Main Gate in front of the Istana and in front of Parliament House. Condolence books were also opened at all Overseas Missions for overseas Singaporeans and friends.
+
+PM Lee reading one of the many messages left by the public for the late Mr Lee.
+
+Various community sites were also set up at various parts of Singapore for Singaporeans to leave their notes of condolence for Singapore’s founding Prime Minister.
+
+Singaporeans young and old alike took the time to pen their thoughts and memories of the late Mr Lee, detailing how Mr Lee had influenced their lives in different ways.
+
+
+Mr Lee Kuan Yew has impacted the lives of all Singaporeans, regardless of age. Many families, young and old, have been arriving at the different community sites across Singapore to pay their last respects to the Republic’s first Prime Minister, Lee Kuan Yew.
+
+
+Minister of Health Gan Kim Yong assisting a PCF student with his flower tribute.
+
+
+
+At the East Coast community tribute site – father, mother and daughter privately collecting their thoughts in memory of Mr Lee.
+
+A resident paying her final respects to the Republic’s first Prime Minister, Lee Kuan Yew, at a tribute site at Choa Chu Kang. Mr Lee has touched the lives of many Singaporeans.
+
+NYP students paying their last respects to Mr Lee Kuan Yew at the People’s Association Headquarters. The students made a video to pay tribute to Singapore’s first Prime Minister: http://goo.gl/oewfNP
+
+
+Your passing saddens many Singaporeans, including my family, immensely. The ultimate tribute to you, I believe is to inherit the very values of tenacity and grit that you exhibited, and to keep our core strong, in defending the legacy that you have left behind – Singapore. It is now time for us to build our dreams and bring your life’s work to new heights, in establishing our own legacy for this land.”
+
+*Charlie Liew*
+
+Read more tributes at our Tributes page.
+
+Condolence boards will be available at Istana and Parliament House from 23 March to 29 March 2015.
+
+#### Volunteers at Tampines Community Plaza
+
+Residents have been arriving at the community site at Tampines Community Plaza to pay their respects to Mr Lee Kuan Yew.
+
+Folks young and old have come bearing flowers to lay at the tribute site and written notes of sincere thanks to Mr Lee for his contributions to Singapore.
+
+But behind the scenes is a group of volunteers who have worked tirelessly to ensure that everything runs smoothly at the tribute sites.
+
+“I thought I should contribute in any small way,” said Sindee Yap, a finance manager who took time off work to volunteer at the Tampines Community Plaza tribute site. A grassroots leader, Ms Yap feels heartened to see how united Singaporeans are, and to witness the kind of respect that many people have for Mr Lee.
+
+
+“Because I’m Singaporean, and I feel I’m a part of it,” Mdm Miriam Mohd proudly declared when asked why she decided to volunteer at the Tampines Community Plaza tribute site. “Look at the number of people coming in. I’m very proud that deep down inside, people really care for [Mr Lee Kuan Yew]. If he can see us now, I hope he feels satisfied that whatever he did for us didn’t go to waste.”
+
+
+Despite being wheelchair-bound, Uncle Chan, as he wishes to be called, has been visiting the Tampines Community Plaza tribute site every day at 10am. The 69-year-old Pioneer travels 15 minutes from his Tampines home to the site on his wheelchair for one reason only – to pay his respects to Mr Lee Kuan Yew.
+
+“I come here because when we were young we would follow his footsteps and everything. We attended all his rallies. So it’s very emotional,” he says, pausing at some parts to hold back his tears. “I just want to be here, be with the crowd. So many people came. A lot of people were crying… because we love him.”
+
+ 
+
+For those who would like to leave messages at the community sites, the People’s Association has also set up eighteen community sites for the public to pay their respects. These sites will be open daily from 10.00am to 8.00pm, until 29 March 2015. More details found here
