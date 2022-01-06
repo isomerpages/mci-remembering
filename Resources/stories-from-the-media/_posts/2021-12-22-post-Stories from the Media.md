@@ -92,7 +92,10 @@ Lee Kuan Yew was elected to an Honorary Fellowship of Fitzwilliam in 1969, and f
 
 The connection between Fitzwilliam College and Singapore has continued to be strong over several generations. A substantial and significant body of Singaporean leaders in the professions and the nation have studied at Fitzwilliam, including Lee’s younger brothers who read Law and Medicine. Currently, there are 16 Singaporean undergraduates and 12 graduate students in the College.
 
-![Alt text for image on Isomer site](/images/stories-from-media/matriculationphoto.jpg)![Alt text for image on Isomer site](/images/stories-from-media/grad.jpg)![Alt text for image on Isomer site](/images/stories-from-media/flag.jpg)
+| | | |
+|---|---|---|
+|![Alt text for image on Isomer site](/images/stories-from-media/matriculationphoto.jpg)|![Alt text for image on Isomer site](/images/stories-from-media/grad.jpg)|![Alt text for image on Isomer site](/images/stories-from-media/flag.jpg)|
+
 
 ##### What I Learned From Singapore’s Lee Kuan Yew
 By JON M. HUNTSMAN JR. March 23, 2015
