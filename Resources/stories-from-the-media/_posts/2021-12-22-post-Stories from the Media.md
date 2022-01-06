@@ -89,3 +89,8 @@ Under Lee’s leadership as Prime Minister, and with the determination and hard 
 Lee Kuan Yew was elected to an Honorary Fellowship of Fitzwilliam in 1969, and for many years was the most senior of the College’s Honorary Fellows. Two years later, he gave the Foundation Lecture: East and West – the twain have met.
 
 The connection between Fitzwilliam College and Singapore has continued to be strong over several generations. A substantial and significant body of Singaporean leaders in the professions and the nation have studied at Fitzwilliam, including Lee’s younger brothers who read Law and Medicine. Currently, there are 16 Singaporean undergraduates and 12 graduate students in the College.
+
+##### What I Learned From Singapore’s Lee Kuan Yew
+By JON M. HUNTSMAN JR. March 23, 2015
+
+The statesman and nation-builder Lee Kuan Yew died this week. I had the great privilege of getting to know him during my time as ambassador to Singapore 25 years ago. Since that time, I consulted him regularly across my service as Governor of Utah, trade ambassador, and as ambassador to China. Along with generations of other American policy-makers, I always benefited from his keen insight—insight which the world has now lost.
