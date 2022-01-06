@@ -94,6 +94,9 @@ But behind the scenes is a group of volunteers who have worked tirelessly to ens
 
 ![Alt text for image on Isomer site](/images/VisitComm10.jpg)
 
+Another volunteer, Siva Gami Subramaniam, is an athletic coach who has been volunteering at the Tampines Community Plaza tribute site since it opened, selflessly dedicating her time to ensure that everything runs smoothly. “[I want to do] whatever I can for Mr Lee Kuan Yew,” she said. “I want to contribute whatever I can to the country.”
+
+![Alt text for image on Isomer site](/images/VisitComm11.jpg)
 “Because I’m Singaporean, and I feel I’m a part of it,” Mdm Miriam Mohd proudly declared when asked why she decided to volunteer at the Tampines Community Plaza tribute site. “Look at the number of people coming in. I’m very proud that deep down inside, people really care for [Mr Lee Kuan Yew]. If he can see us now, I hope he feels satisfied that whatever he did for us didn’t go to waste.”
 
 
