@@ -56,23 +56,23 @@ The National Museum of Singapore’s exhibition chronicles the life and politica
 
 
 <table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam1.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam2.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam3.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam4.jpg"> </td>
+<td> <img src="/images/In%20memoriam1.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 
 <table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam5.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%206.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%207.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam8.jpg"> </td>
+<td> <img src="/images/In%20memoriam5.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam%206.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam%207.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam9.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam10.jpg"> </td>
+<td> <img src="/images/In%20memoriam9.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam10.jpg" alt="Drawing" style="width: 250px;"> </td>
 	</tr></tbody></table>
 
 
@@ -85,16 +85,16 @@ NLB’s tribute to Mr Lee Kuan Yew includes an exhibition showcasing the key mil
 	![Alt text for image on Isomer site](/images/IM%20NLB4.jpg)
 
 <table></table><table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB1.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB2.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/IM%20NLB3.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing"> src ="/images/IM%20NLB4.jpg" </td>
-</tr></tbody></table>
+<td> <img src="/images/IM%20NLB1.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/IM%20NLB2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/IM%20NLB3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/IM%20NLB4.jpg" alt="Drawing" style="width: 250px;">
+</td></tr></tbody></table>
 
 
 <table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam5.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%206.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam%207.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/In%20memoriam8.jpg"> </td>
+<td> <img src="/images/In%20memoriam5.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam%206.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam%207.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam8.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
