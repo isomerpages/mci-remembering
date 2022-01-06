@@ -67,7 +67,9 @@ Various community sites were also set up at various parts of Singapore for Singa
 
 *A resident paying her final respects to the Republic’s first Prime Minister, Lee Kuan Yew, at a tribute site at Choa Chu Kang. Mr Lee has touched the lives of many Singaporeans.*
 
-NYP students paying their last respects to Mr Lee Kuan Yew at the People’s Association Headquarters. The students made a video to pay tribute to Singapore’s first Prime Minister: http://goo.gl/oewfNP
+![Alt text for image on Isomer site](/images/VisitComm7.jpg)
+
+*NYP students paying their last respects to Mr Lee Kuan Yew at the People’s Association Headquarters. The students made a video to pay tribute to Singapore’s first Prime Minister: http://goo.gl/oewfNP*
 
 
 Your passing saddens many Singaporeans, including my family, immensely. The ultimate tribute to you, I believe is to inherit the very values of tenacity and grit that you exhibited, and to keep our core strong, in defending the legacy that you have left behind – Singapore. It is now time for us to build our dreams and bring your life’s work to new heights, in establishing our own legacy for this land.”
