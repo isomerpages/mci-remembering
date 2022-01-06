@@ -51,6 +51,7 @@ Various community sites were also set up at various parts of Singapore for Singa
 ![Alt text for image on Isomer site](/images/VisitComm2.png) 
 <center>Singaporeans young and old alike took the time to pen their thoughts and memories of the late Mr Lee, detailing how Mr Lee had influenced their lives in different ways.</center>
 
+![Alt text for image on Isomer site](/images/VisitComm3.jpg)
 
 Mr Lee Kuan Yew has impacted the lives of all Singaporeans, regardless of age. Many families, young and old, have been arriving at the different community sites across Singapore to pay their last respects to the Republic’s first Prime Minister, Lee Kuan Yew.
 
