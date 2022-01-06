@@ -10,24 +10,24 @@ In Memoriam: Lee Kuan Yew
 A commemorative exhibition in honour of the late Mr Lee will be held at the Glass Atrium at level 2 of the National Museum (93 Stamford Road). Running from 25 March 2015 to 24 May 2015, revisit Singapore’s formative years and his pivotal role in our nation-building journey through stirring photographs, audio-visual recordings and artefacts.
 
 
-| Syntax      | Description |
+| **Library**      | **Address** |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
+| Ang Mo Kio Public Library      | 4300 Ang Mo Kio, Avenue 6, S(569842)       |
+| Bedok Public Library   | 	21 Bedok North, Street 1, S(469659)        |
+| Bishan Public Library      | 5 Bishan Place, #01-01, S(579841)       |
+| Bukit Batok Public Library   | 1 Bukit Batok Central Link, #03-01 West Mall, S(658713)        |
+| Bukit Merah Public Library      | 3779 Jalan Bukit Merah, S(159462)       |
+| Bukit Panjang Public Library   | 1 Jelebu Road, #04-16/17 Bukit Panjang Plaza, S(677743)        |
+| Central Public Library     | 100 Victoria Street, #B1-01 National Library Building, S(188064)       |
+| Cheng San Public Library   | 90 Hougang Ave 10, #03-11 Hougang Mall, S(538766)        |
+| Choa Chu Kang Public Library      | 21 Choa Chu Kang Ave 4, #04-01/02 Lot 1 Shoppers’ Mall, S(689812)       |
+| Clementi Public Library   | 155 Commonwealth Ave West, #05-13/14/15 The Clementi Mall, S(129588)        |
+| Geylang East Public Library      | 50 Geylang East Ave 1, S(389777)       |
+| Jurong Regional Library   | 21 Jurong East Central 1, S(609732)        |
+| Jurong West Public Library   | 	60 Jurong West Central 3, #01-03, S(648346)        |
+| library@Chinatown      | 133 New Bridge Road, #04-12 Chinatown Point, S(059413)       |
+| library@Esplanade   | 8 Raffles Ave, #03-01, S(039802)        |
+| library@Orchard      | 277 Orchard Road, #03-12 / #04-11 Orchard Gateway, S(238858)       |
 | Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
