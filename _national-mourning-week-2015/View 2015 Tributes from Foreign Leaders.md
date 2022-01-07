@@ -11,11 +11,10 @@ ASEAN Secretary-General Le Luong Minh joined other world leaders in mourning the
 In his letter, Minh described Lee Kuan Yew as “a great statesman who had built Singapore with his vision, wisdom and courage.” The ASEAN Secretary-General also acknowledged the late Prime Minister as one of those “instrumental in the establishment of the Association of Southeast Asian Nations” in 1967. Singapore is one of ASEAN’s five founding members and together with the other leaders, he has provided guidance to ASEAN in its formative years.
 For three decades, Lee Kuan Yew dedicated his life to the success of his country and is widely recognised as the architect of Singapore’s transformation from a small port town 50 years ago to one of the world’s wealthiest countries. Secretary-General Minh noted that the late Prime Minister “has left a lasting legacy not only for Singapore but also for ASEAN and he will be greatly missed.”
 
-
 <table><tbody><tr>
 <td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh2.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh3.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 ASEAN Secretary-General Le Luong Minh paying his last respects
