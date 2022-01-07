@@ -12,6 +12,11 @@ In his letter, Minh described Lee Kuan Yew as “a great statesman who had built
 For three decades, Lee Kuan Yew dedicated his life to the success of his country and is widely recognised as the architect of Singapore’s transformation from a small port town 50 years ago to one of the world’s wealthiest countries. Secretary-General Minh noted that the late Prime Minister “has left a lasting legacy not only for Singapore but also for ASEAN and he will be greatly missed.”
 
 
+<table><tbody><tr>
+<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh2.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh3.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
 
 ASEAN Secretary-General Le Luong Minh paying his last respects
 ASEAN Secretary-General Le Luong Minh paying his last respects
