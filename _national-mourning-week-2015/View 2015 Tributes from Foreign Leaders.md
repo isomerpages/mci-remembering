@@ -64,15 +64,13 @@ Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Ch
 eygpt2
 
 
-HE Berik Aryan Ambassador of the Republic of Kazakhstan
-HE Berik Aryan Ambassador of the Republic of Kazakhstan
-HE Archol Dzuliashvili Ambassador of Georgia
-HE Archol Dzuliashvili Ambassador of Georgia
 
-HE Cornel Alecse Ambassador of Romania
-HE Cornel Alecse Ambassador of Romania
-HE Geiman Espinoza Ambassador of the Republic of Ecuador
-HE Geiman Espinoza Ambassador of the Republic of Ecuador
+<table><tbody><tr>
+<td> <img src="/images/Amb%20Ismail%20Mobarak.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
 
 #### Former Military General of Indonesia, Prabowo Subianto
 “Mr Lee Kuan Yew was a towering figure in the history of Southeast Asia. For me personally and for younger generation Indonesians, we must learn from exemplary figures wherever they are from – more so if they come from our vicinity,”
