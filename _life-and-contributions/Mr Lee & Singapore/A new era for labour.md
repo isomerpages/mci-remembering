@@ -4,7 +4,9 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/A-new-era-for-labour
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-## A new era for labour ##
+
+
+### A new era for labour ###
 
 Trade unions, where he himself had his beginnings in politics, remained an abiding concern for Mr Lee. The unions he was convinced were key to giving every working person a sense of co-ownership in society.
 
