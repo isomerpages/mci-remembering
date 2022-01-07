@@ -4,6 +4,12 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Tunkus-merger-announceme
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Tunku%20merger%20announcement.jpg)
+
+<center>Drawing a capacity crowd on 28 August 1962 as he spoke about the upcoming referendum during one of his well-known lunchtime rallies at Fullerton Square.</center>
+
+### Tunku’s merger announcement ###
+
 Mr Lee spent little time celebrating. His new government faced many problems, including high unemployment. The most pressing was the challenge posed by the pro-communists, including those ensconced in the PAP.
 
 
