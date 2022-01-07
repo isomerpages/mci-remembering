@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Lee-Kuan-Yew-1923-2015
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Lee Kuan Yew, 1923 - 2015 #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Lee%20Kuan%20Yew.jpg)
+<center>Still a crowd favourite at the National Day Parade in 2012. His appearance at the annual celebration to mark Singapore’s independence always drew the loudest cheers from the sea of red and white.</center>
+
+### Lee Kuan Yew, 1923 - 2015 ###
 
 Mr Lee’s legacy is modern Singapore. For millions within and without Singapore, his name is synonymous with the modern city republic.
 
