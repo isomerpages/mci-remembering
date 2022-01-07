@@ -63,6 +63,7 @@ Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Ch
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 eygpt2
 
+
 HE Berik Aryan Ambassador of the Republic of Kazakhstan
 HE Berik Aryan Ambassador of the Republic of Kazakhstan
 HE Archol Dzuliashvili Ambassador of Georgia
@@ -73,7 +74,7 @@ HE Cornel Alecse Ambassador of Romania
 HE Geiman Espinoza Ambassador of the Republic of Ecuador
 HE Geiman Espinoza Ambassador of the Republic of Ecuador
 
-Former Military General of Indonesia, Prabowo Subianto
+#### Former Military General of Indonesia, Prabowo Subianto
 “Mr Lee Kuan Yew was a towering figure in the history of Southeast Asia. For me personally and for younger generation Indonesians, we must learn from exemplary figures wherever they are from – more so if they come from our vicinity,”
 
 “He was instrumental in finding ways of adapting and adjusting the regional situation and equation to whatever challenges were before us, Mr Lee was pragmatic and able to see the bigger picture.”
