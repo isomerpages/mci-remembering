@@ -11,6 +11,8 @@ ASEAN Secretary-General Le Luong Minh joined other world leaders in mourning the
 In his letter, Minh described Lee Kuan Yew as “a great statesman who had built Singapore with his vision, wisdom and courage.” The ASEAN Secretary-General also acknowledged the late Prime Minister as one of those “instrumental in the establishment of the Association of Southeast Asian Nations” in 1967. Singapore is one of ASEAN’s five founding members and together with the other leaders, he has provided guidance to ASEAN in its formative years.
 For three decades, Lee Kuan Yew dedicated his life to the success of his country and is widely recognised as the architect of Singapore’s transformation from a small port town 50 years ago to one of the world’s wealthiest countries. Secretary-General Minh noted that the late Prime Minister “has left a lasting legacy not only for Singapore but also for ASEAN and he will be greatly missed.”
 
+
+
 ASEAN Secretary-General Le Luong Minh paying his last respects
 ASEAN Secretary-General Le Luong Minh paying his last respects
 ASEAN Secretary-General Le Luong Minh's condolence message at the late Mr Lee Kuan Yew's lying in state
@@ -43,7 +45,7 @@ Read more.
 Mr Lee's Red Box
 By Minister Heng Swee Keat, former Principal Private Secretary to Mr Lee
 
-red-box
+![Alt text for image on Isomer site](/images/stories-from-media/red%20box-1024x682.jpg)
 
 Mr Lee Kuan Yew had a red box. When I worked as Mr Lee’s Principal Private Secretary, or PPS, a good part of my daily life revolved around the red box. Before Mr Lee came in to work each day, the locked red box would arrive first, at about 9 am.
 As far as the various officers who have worked with Mr Lee can remember, he had it for many, many years. It is a large, boxy briefcase, about fourteen centimetres wide. Red boxes came from the British government, whose Ministers used them for transporting documents between government offices. Our early Ministers had red boxes, but Mr Lee is the only one I know who used his consistently through the years. When I started working for Mr Lee in 1997, it was the first time I saw a red box in use. It is called the red box but is more a deep wine colour, like the seats in the chamber in Parliament House.
