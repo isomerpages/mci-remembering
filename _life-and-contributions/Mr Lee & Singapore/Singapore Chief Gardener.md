@@ -4,6 +4,12 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Singapore-Chief-Gardener
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Singapore%20Chief%20Gardener.jpg)
+<center>Planting a mempat tree at Farrer Circus on 16 June 1963 to launch the tree-planting campaign (top), and continuing the unbroken annual tradition on 16 June 2013 at Holland Village Park (bottom).    
+</center>
+
+### Singapore Chief Gardener ###
+
 Singapore’s distinctive appearance as a “City in a Garden” is due to Mr Lee’s bold vision of greening Singapore.
 
 
