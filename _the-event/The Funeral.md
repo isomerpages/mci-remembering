@@ -3,7 +3,7 @@ title: The Funeral
 permalink: /the-event/the-funeral
 description: ""
 ---
-### <center>The Funeral</center>
+#### <center>The Funeral</center>
 
 A private family wake will be held from 23 March 2015 to 24 March 2015 at Sri Temasek, Istana.
 
