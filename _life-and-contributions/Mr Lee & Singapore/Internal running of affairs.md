@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Internal-running-of-affa
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Internal running of affairs #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Internal%20running%20of%20affairs.jpg)
+<center>Embarking on the first Merdeka Talks for independence on 15 April 1956 with a multi-party delegation that included (from left) Seah Peng Chuan from the Labour Front. Lim Choon Meng from the Liberal Socialist Party and Lim Chin Siong from the PAP.</center>
+
+### Internal running of affairs ###
 
 Constitutional talks with Britain on Singapore’s future began in April 1955. Among the All-Party delegates at the talks was Mr Lee.
 
