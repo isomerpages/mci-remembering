@@ -4,7 +4,7 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Lee-Kuan-Yew-1923-2015
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Lee Kuan Yew, 1923 - 2015 #
+### Lee Kuan Yew, 1923 - 2015 ###
 
 Mr Lee Kuan Yew fought for self-Government from our British colonial masters and later led Singapore into merger with Malaysia believing that this was the best option for Singapore’s future. When merger did not work out, he took Singapore out of Malaysia and built a nation from nothing during our most difficult years.
 
