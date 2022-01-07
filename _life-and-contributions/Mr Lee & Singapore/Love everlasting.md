@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Love-everlasting
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Love everlasting #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Everlasting%20love.jpg)
+<center>With his family through the years. (Clockwise from top left) The Lee family relaxing at the veranda of their Oxley Road home in May 1965; three generations of Lees at a family gathering on 4 February 2000; posing happily for a photo with his wife on 14 February 2008 at Sentosa; and Grandpa and Grandma Lee with their grandchildren (from left) Haoyi, Shengwu, Huanwu and Hongyi.</center>
+
+### Love everlasting ###
 
 Mr Lee may have been the architect of modern Singapore, but he was also a loving and devoted husband, father, grandfather, brother and son.
 
