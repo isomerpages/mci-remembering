@@ -26,9 +26,12 @@ For three decades, Lee Kuan Yew dedicated his life to the success of his country
 #### Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
 <table><tbody><tr>
 <td> <img src="/images/Cambodian%20dignitaries1.png)" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Cambodian%20dignitaries2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Cambodian%20dignitaries3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Cambodian%20dignitaries4.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Cambodian%20dignitaries5.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
 
 #### Defence Minister of Indonesia, General (Retired) Ryamizard Ryacudu
 “Every time I came for a meeting with the Singapore Army, he would definitely invite me for talks. I was shocked the first time. I was only the Army Chief. He was more senior than the prime minister. But he wanted to speak to me – not once but five times,” said General (Retired) Ryamizard.
