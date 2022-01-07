@@ -63,13 +63,16 @@ Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Ch
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 eygpt2
 
-
-
 <table><tbody><tr>
 <td> <img src="/images/Amb%20Ismail%20Mobarak.png" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
+![Alt text for image on Isomer site](/images/HE%20Berik%20Aryan%20Ambassador%20of%20the%20Republic%20of%20Kazakhstan.jpg)
+
+![Alt text for image on Isomer site](/images/HE%20Archol%20Dzuliashvili%20Ambassador%20of%20Georgia.png)
+![Alt text for image on Isomer site](/images/HE%20Cornet%20Alecse%20Ambassador%20%20of%20Romania.png)
+![Alt text for image on Isomer site](/images/HE%20Geiman%20Espinoza%20Ambassador%20of%20the%20Republic%20of%20Ecuador.png)
 
 
 #### Former Military General of Indonesia, Prabowo Subianto
