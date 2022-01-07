@@ -3,7 +3,7 @@ title: State Funeral Service
 permalink: /the-event/state-funeral-service
 description: ""
 ---
-#### **State Funeral Service**
+#### <center>State Funeral Service</center>
 
 The Funeral Service for the late Mr Lee Kuan Yew was held at the University Cultural Centre (UCC), National University of Singapore on 29 Mar 2015, Sunday, from 2pm to 5.15pm. It was preceded by the State Funeral Procession from Parliament House to UCC.
 
