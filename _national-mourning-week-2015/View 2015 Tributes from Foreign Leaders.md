@@ -47,7 +47,7 @@ Throughout his political life generations of European leaders did seek his views
 
 – Dr Michael Pulch, EU Ambassador to Singapore
 
-EU dignitaries signing the condolence book in Singapore Embassy in Cairo
+#### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 eygpt2
@@ -62,10 +62,10 @@ HE Cornel Alecse Ambassador of Romania
 HE Geiman Espinoza Ambassador of the Republic of Ecuador
 HE Geiman Espinoza Ambassador of the Republic of Ecuador
 
-Former Foreign Minister of Indonesia, Dr Marty Natalegawa
+#### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
 “Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
 
-Former Military General of Indonesia, Prabowo Subianto
+#### Former Military General of Indonesia, Prabowo Subianto
 “Mr Lee Kuan Yew was a towering figure in the history of Southeast Asia. For me personally and for younger generation Indonesians, we must learn from exemplary figures wherever they are from – more so if they come from our vicinity,”
 
 “He was instrumental in finding ways of adapting and adjusting the regional situation and equation to whatever challenges were before us, Mr Lee was pragmatic and able to see the bigger picture.”
@@ -79,7 +79,7 @@ She added that she was in Singapore as the head of her party, Indonesian Democra
 
 ‘Personally I have a good relationship with him, and also his family.”
 
-Former President of Indonesia, Susilo Bambang Yudhoyono
+#### Former President of Indonesia, Susilo Bambang Yudhoyono
 Saya turut berduka cita atas wafatnya Bapak Lee Kuan Yew. Dengan ini saya menyampaikan ucapan belasungkawa terhadap keluarga, pemerintah dan rakyat Singapura.
 
 Bapak Lee Kuan Yew telah mengabdikan hidupnya dalam mewujudkan kemajuan yang menakjubkan bagi Singapura, serta beliau telah sungguh-sungguh membangun hubungan erat dengan Indonesia.
