@@ -4,6 +4,12 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Singapore-is-out
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Singapore%20is%20out.jpg)
+
+<center> Meeting the media at Radio & Television Singapore on the morning of 9 August 1965 after the Proclamation of Singapore’s independence was issued.</center>
+
+### Singapore is out ###
+
 In the face of irreconcilable differences, Singapore was expelled from Malaysia on 9 August 1965.
 
 
