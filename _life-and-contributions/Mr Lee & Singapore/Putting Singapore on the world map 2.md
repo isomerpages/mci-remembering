@@ -4,13 +4,14 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Putting-Singapore-on-the
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Putting%20Singapore%20on%20world%20map.jpg)
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Putting%20Singapore%20on%20World%20Map%202.jpg)
 
 <center>
 (Clockwise, from top left)<br>
-Mr Lee had the rare honour of addressing a joint session of the United States Senate and House of Representatives on 9 October 1985. Behind Mr Lee are (left) Vice-President George H. W. Bush and Speaker of the House of Representatives, Tip O’Neill.<br>
-Mr Lee exchanging gifts with Chinese President Jiang Zemin during a visit to China on 8 June 2001.<br>
- Mr Lee exchanging a warm greeting with Indonesian President Suharto upon his arrival in Jakarta on 7 September 1982.<br>
+Mr Lee met with every single US President since 1967, including then-Vice-President H. W. Bush, pictured here at a dinner in October 1985 with (from left) Mrs Lee, Mrs Barbara Bush, Mrs Helena Schultz and then-Secretary of State, George Schultz.<br>
+Dr Henry Kissinger giving Mr Lee a hug just before Mr Lee received a lifetime achievement award from the US-ASEAN Business Council on 27 October 2009.<br>
+Former Chancellor of West Germany Helmut Schmidt travelled to Singapore to meet Mr Lee on 7 May 2012.<br>
+(From left) Mr Lee, Mr Schmidt and former US Secretary of State Henry Kissinger in their prime, discussing world economic problems on Japanese television in 1983.
 </center>
 
 Between 1959 and 2012, Mr Lee made at least 304 official trips to 83 countries. A world-class strategic thinker whose insights were sought by world leaders, he was instrumental in forging a place for Singapore in the international arena.
