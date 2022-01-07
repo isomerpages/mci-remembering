@@ -112,23 +112,23 @@ Bapak Lee Kuan Yew akan selalu dikenang tidak hanya oleh masyarakat Singapura, n
 
 Semoga Almarhum dapat beristirahat dengan tenang.
 
-Former Prime Minister of Malaysia, Mahathir Mohamad
+#### Former Prime Minister of Malaysia, Mahathir Mohamad
 Former Malaysia Prime Minister Mahathir Mohamad said he was “saddened” by the demise of Singapore’s founding Prime Minister Lee Kuan Yew
 
 He wrote on his blog: “I cannot say I was a close friend of Kuan Yew. But still I feel sad at his demise. We crossed swords many times … but there was no enmity, only differences in our views of what was good for the newborn nation.”
 
-Former Prime Minister of United Kingdon, Mr Tony Blair
+#### Former Prime Minister of United Kingdon, Mr Tony Blair
 In an interview with Channel NewsAsia, former British Prime Minister Tony Blair recounted his past meetings with Singapore’s founding Prime Minister Lee Kuan Yew, and described Mr Lee as one of the most significant leaders of the late 20th century. More on the interview here
 
-Former Thai Prime Minister and Thailand's Privy Council President Prem Tinsulanonda at the Singapore Mission in Bangkok
+#### Former Thai Prime Minister and Thailand's Privy Council President Prem Tinsulanonda at the Singapore Mission in Bangkok
 “He was one of my very good friends while we worked together. We were both Prime Minister at the same time. We were very close and helped each other often. If there was no Lee Kuan Yew, I believe there would be no Singapore,” said Mr Prem.
 
 “The Singaporean people must never forget him. They must remember that he built Singapore. Also, the things he wanted to do for Singapore but was not able to complete, the Singaporean people must come together to finish them.”
 
-India Government declares National Mourning on March 29, 2015
+#### India Government declares National Mourning on March 29, 2015
 The Government has decided to observe National Mourning on Sunday, March 29, 2015 as mark of respect to the Former Prime Minister of Singapore, Lee Kuan Yew. The National Flag will be flown at half-mast throughout India and there will be no official entertainment on the day. For the full message, click here.
 
-Johor State Secretary, Dato' Haji Ismail Bin Karim
+##### Johor State Secretary, Dato' Haji Ismail Bin Karim
 On behalf of the Johor State Government and the people of Johor. I would like to convey our deepest condolences to you and your family on the passing of Mr. Lee Kuan Yew on 23 March 2015.
 
 We will always remember Mr Lee legacy as the visionary leader who led Singapore through its challenging times and establishing it to be the globally recognised nation.
