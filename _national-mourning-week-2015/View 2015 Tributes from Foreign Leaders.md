@@ -4,7 +4,8 @@ permalink: /national-mourning-week-2015/view-2015-tributes-from-foreign-leaders
 description: ""
 ---
 ## View 2015 Tributes from Foreign Leaders
-ASEAN Secretary-General, Le Luong Minh
+
+#### ASEAN Secretary-General, Le Luong Minh
 ASEAN Secretary-General Le Luong Minh joined other world leaders in mourning the loss of Lee Kuan Yew, the first Prime Minister of Singapore, who passed away yesterday at 91. In a letter addressed to Lee Hsien Loong, Prime Minister of Singapore and son of Lee Kuan Yew, Secretary-General Minh conveyed his “deepest condolences” on the passing of the late Prime Minister.
 
 In his letter, Minh described Lee Kuan Yew as “a great statesman who had built Singapore with his vision, wisdom and courage.” The ASEAN Secretary-General also acknowledged the late Prime Minister as one of those “instrumental in the establishment of the Association of Southeast Asian Nations” in 1967. Singapore is one of ASEAN’s five founding members and together with the other leaders, he has provided guidance to ASEAN in its formative years.
