@@ -18,7 +18,9 @@ For three decades, Lee Kuan Yew dedicated his life to the success of his country
 </tr></tbody></table>
 
 ![Alt text for image on Isomer site](/images/Cambodian%20dignitaries1.png)
-
+![Alt text for image on Isomer site](/images/Cambodian%20dignitaries2.jpg)
+![Alt text for image on Isomer site](/images/Cambodian%20dignitaries3.jpg)
+![Alt text for image on Isomer site](/images/Cambodian%20dignitaries4.jpg)
 
 #### Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
 <table><tbody><tr>
