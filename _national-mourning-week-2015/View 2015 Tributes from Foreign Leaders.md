@@ -139,12 +139,12 @@ With deepest sympathies
 
 Dato’ Haji Ismail bin Karim
 
-Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
+#### Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
 Chief of Staff, Joint Staff ADM Katsutoshi Kawano signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
 State Minister of Cabinet Office Yasutoshi Nishimura signing the condolence book at the Singapore Embassy in Tokyo on 26 March 2015.
 Secretary-General, Liberal Democratic Party Sadakazu Tanigaki signing the condolence book at the Singapore Embassy in Tokyo on 27 March 2015.
 
-Liberia President, Ellen Johnson Sirleaf
+#### Liberia President, Ellen Johnson Sirleaf
 President Sirleaf has sent a condolence message to the Government and People of the Republic of Singapore following the death of its former Prime Minister Lee Kuan Yew.In her message to His Excellency Dr. Tony Tan Keng Yam, President of the Republic of Singapore, President Sirleaf extended heartfelt condolences to the Government and People of Singapore, especially the bereaved family for the irreparable loss sustained on behalf of the Government and People of Liberia.
 
 President Sirleaf added that former Prime Minister Lee Kuan Yew will be remembered for his numerous contributions and achievements especially as founding father of Singapore whose guidance led to its development into a modern state. The Liberian President recalled with satisfaction the visionary leadership of the Former Prime Minister whom she said led his country from its independence in 1965 and build it as one of the most prosperous nations in the world. President Sirleaf noted that the former Prime Minister was a devoted and exemplary public servant and a notable leader in the world; she prayed that God grants President courage and strength as the people of Singapore go through this period of national mourning.
