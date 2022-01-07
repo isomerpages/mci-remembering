@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Enter-the-PAP
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Enter the PAP #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Entering%20PAP.jpg)
+<center>The first PAP central executive committee in November 1954, comprising (back row, from left) Tan Wee Keng, Devan Nair, S. Sockalingam, Lee, Ong Eng Guan, Fong Swee Suan, (front row, from left) Lee Gek Seng, Mofrandi bin Haji Mohd Noor, Toh Chin Chye, Ismail Rahim and Chan Chiaw Thor.</center>
+
+### Enter the PAP ###
 
 Mr Lee and a small group of friends – Goh Keng Swee, Toh Chin Chye, S. Rajaratnam, Kenneth Byrne and later Devan Nair and Samad Ismail – started meeting on Saturday afternoons, in the basement dining room of Mr Lee’s home at 38 Oxley Road, to discuss the formation of a political party.
 
