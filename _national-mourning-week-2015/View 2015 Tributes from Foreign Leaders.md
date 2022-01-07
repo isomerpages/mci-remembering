@@ -38,14 +38,8 @@ General (Retired) Ryamizard likened his discussions with Mr Lee to those between
 
 “From earlier on, Indonesia and Singapore conducted joint military exercises annually. The two armies took turns to host. Similarly, for the air force and navy. It has been going on well. That’s a result of the foundations laid from the top. That’s how it was between Mr Lee and President Suharto,” he added.
 
-Mr Lee Kuan Yew was ‘an extraordinary human being': George Shultz
-SINGAPORE: Former US Secretary of State George Shultz expressed his condolences at Mr Lee Kuan Yew’s passing. In a letter addressed to Prime Minister Lee Hsien Loong on Monday (Mar 23), he said: “I grieve, as do so many all over the world, at the passing of your father and my friend of a half century… Lee Kuan Yew.”
 
-Saying that Mr Lee was “an extraordinary human being”, Mr Shultz added that he had always considered Mr Lee one of the wisest and most intelligent people he had ever known.
-
-Read more.
-
-EU Ambassador to Singapore, Dr Michael Pulch
+#### EU Ambassador to Singapore, Dr Michael Pulch
 p>I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
 
 He was an inspiring statesman whose vision of an independent and prosperous Singapore became the foundation of its lasting success.
@@ -54,7 +48,7 @@ Throughout his political life generations of European leaders did seek his views
 
 – Dr Michael Pulch, EU Ambassador to Singapore
 
-Egypt President, Abdel Fattah El-Sisi
+#### Egypt President, Abdel Fattah El-Sisi
 President Abdel Fattah El Sisi on Friday offered condolences to Singaporean Prime Minister Lee Hsien Loong over the death of his father and former premier Lee Kuan Yew, the founder of modern-day Singapore.
 
 In a phone call with the Singaporean prime minister, Sisi paid tribute to the late premier as the “architect of Singapore’s economy”, who enriched during his rule the political and economic life of his country.
@@ -64,7 +58,7 @@ Sisi conveyed the Egyptian people’s condolences to the Singaporean people.
 Former Foreign Minister of Indonesia, Dr Marty Natalegawa
 “Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
 
-EU dignitaries signing the condolence book in Singapore Embassy in Cairo
+##### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
 eygpt2
