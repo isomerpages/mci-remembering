@@ -55,7 +55,7 @@ In a phone call with the Singaporean prime minister, Sisi paid tribute to the la
 
 Sisi conveyed the Egyptian people’s condolences to the Singaporean people.
 
-Former Foreign Minister of Indonesia, Dr Marty Natalegawa
+#### Former Foreign Minister of Indonesia, Dr Marty Natalegawa
 “Mr Lee not only promoted Singapore’s national interests but also kept them in line with that of the region. By backing regional integration, Mr Lee contributed a great deal to the conducive climate of the Association of South East Asian Nations (ASEAN), where member states engage and work towards their regional goals without interfering with each other”
 
 ##### EU dignitaries signing the condolence book in Singapore Embassy in Cairo
