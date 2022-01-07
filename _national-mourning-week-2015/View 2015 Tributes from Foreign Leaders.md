@@ -67,7 +67,7 @@ eygpt2
 
 <table><tbody><tr>
 <td> <img src="/images/Amb%20Ismail%20Mobarak.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/In%20memoriam2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
