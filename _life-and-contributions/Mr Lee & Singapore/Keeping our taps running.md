@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Mr Lee & Singapore
 ---
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/keeping%20our%20taps%20running.jpg)
-<center>Top photo: Mr Lee at Marina Barrage’s Groundbreaking Ceremony in March 2005.</center>
+<center>Top photo: Mr Lee at Marina Barrage’s Groundbreaking Ceremony in March 2005.  <br>
+Bottom photo: Presenting the inaugural Lee Kuan Yew Water Prize to Canadian researcher Andrew Benedek in June 2008. The prestigious international award was established to honour outstanding contributions to solving the world’s water problems. It was named after Mr Lee in recognition of his leadership in attaining water sustainability for Singapore.</center>
 														
 ### Keeping our taps running ###
 
