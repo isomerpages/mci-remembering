@@ -17,18 +17,11 @@ For three decades, Lee Kuan Yew dedicated his life to the success of his country
 <td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
-ASEAN Secretary-General Le Luong Minh paying his last respects
-ASEAN Secretary-General Le Luong Minh paying his last respects
-ASEAN Secretary-General Le Luong Minh's condolence message at the late Mr Lee Kuan Yew's lying in state
 
-Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
-Cambodian Member of Parliament for Kampong Speu province, and the youngest child of PM Hun Sen, Hun Many, signs the Condolence Book at the Singapore Embassy in Phnom Penh on 26 March 2015.
-Hun Manith, Deputy Chief of Directorate of Military Research and Intelligence of the Royal Cambodian Armed Forces (RCAF) and fourth child of Prime Minister Hun Sen, signing the Condolence Book at the Singapore Embassy in Phnom Penh on 27 March 2015.
-Gen. Kun Kim, Deputy Commander-In-Chief of the Royal Cambodian Armed Forces (RCAF), signing the Condolence Book at the Singapore Embassy in Phnom Penh on 27 March 2015
-Pech Bunthin, Minister of Civil Service, signing the Condolence Book at the Singapore Embassy in Phnom Penh on 27 March 2015.
-HRH Princess Samdech Preah Ream Norodom Buppha Devi, Supreme Advisor to HM the King, Royal Palace, came with her family to pay respects to the late Mr Lee Kuan Yew at the Singapore Embassy in Phnom Penh, 27 March 2015.
+#### Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
 
-Defence Minister of Indonesia, General (Retired) Ryamizard Ryacudu
+
+#### Defence Minister of Indonesia, General (Retired) Ryamizard Ryacudu
 “Every time I came for a meeting with the Singapore Army, he would definitely invite me for talks. I was shocked the first time. I was only the Army Chief. He was more senior than the prime minister. But he wanted to speak to me – not once but five times,” said General (Retired) Ryamizard.
 
 “I regard him as a true statesman. He did not discriminate against anyone. He spoke from the heart and I responded likewise. He was sincere in his views. And I responded with sincerity. We understood each other,” he added.
