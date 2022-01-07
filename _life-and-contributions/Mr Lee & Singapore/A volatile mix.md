@@ -4,7 +4,9 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/A-volatile-mix
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# A volatile mix #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/A%20volatile%20mix.jpg)
+
+### A volatile mix ###
 
 Mr Lee came face to face with the Chinese-educated world when he was approached to represent Chinese middle school students who had rioted against the National Service Ordinance, on 13 May 1954.
 
