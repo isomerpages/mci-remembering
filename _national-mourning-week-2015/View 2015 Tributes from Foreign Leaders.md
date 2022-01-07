@@ -73,10 +73,10 @@ eygpt2
 <td> <img src="/images/HE%20Archol%20Dzuliashvili%20Ambassador%20of%20Georgia.png" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
-
-
-![Alt text for image on Isomer site](/images/HE%20Cornet%20Alecse%20Ambassador%20%20of%20Romania.png)
-![Alt text for image on Isomer site](/images/HE%20Geiman%20Espinoza%20Ambassador%20of%20the%20Republic%20of%20Ecuador.png)
+<table><tbody><tr>
+<td> <img src="/images/HE%20Cornet%20Alecse%20Ambassador%20%20of%20Romania.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/HE%20Geiman%20Espinoza%20Ambassador%20of%20the%20Republic%20of%20Ecuador.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
 
 
 #### Former Military General of Indonesia, Prabowo Subianto
