@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Mr Lee & Singapore
 ---
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Educating%20for%20the%20future.jpg)
+<center>Engaging some of the recipients of the inaugural Prime Minister's Book Prize, on 29 May 1974, at a reception at the Regional English Language Centre Building. The Prize, which became an annual award for bilingualism, was instituted in 1973, after Mr Lee gave the Ministry of Education the lecture fees he received on an overseas tour. </center>
 
 ### Educating for the future ###
 
