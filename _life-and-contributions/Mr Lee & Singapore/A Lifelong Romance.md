@@ -6,11 +6,6 @@ layout: post
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-## <center> Mr Lee &amp; Singapore  </center>
-
-<!-- blank line -->
-<br>
-
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/mrandmrslee.png)
 
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
