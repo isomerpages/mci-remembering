@@ -84,7 +84,7 @@ eygpt2
 
 “He was instrumental in finding ways of adapting and adjusting the regional situation and equation to whatever challenges were before us, Mr Lee was pragmatic and able to see the bigger picture.”
 
-Former President of Indonesia, Megawati Sukarnoputri
+#### Former President of Indonesia, Megawati Sukarnoputri
 Former Indonesian president Megawati Sukarnoputri paid her last respects to Mr Lee Kuan Yew at the Parliament House at 1.15pm on Friday.
 
 “He is my mentor,” the daughter of Indonesia’s first president Sukarno said of Mr Lee in Bahasa Indonesia.
@@ -93,7 +93,7 @@ She added that she was in Singapore as the head of her party, Indonesian Democra
 
 ‘Personally I have a good relationship with him, and also his family.”
 
-Former President of Indonesia, Susilo Bambang Yudhoyono
+#### Former President of Indonesia, Susilo Bambang Yudhoyono
 Saya turut berduka cita atas wafatnya Bapak Lee Kuan Yew. Dengan ini saya menyampaikan ucapan belasungkawa terhadap keluarga, pemerintah dan rakyat Singapura.
 
 Bapak Lee Kuan Yew telah mengabdikan hidupnya dalam mewujudkan kemajuan yang menakjubkan bagi Singapura, serta beliau telah sungguh-sungguh membangun hubungan erat dengan Indonesia.
