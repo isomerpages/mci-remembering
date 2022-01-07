@@ -3,7 +3,7 @@ title: Special Parliament Sitting
 permalink: /the-event/special-parliament-sitting
 description: ""
 ---
-### <center> Special Parliament Sitting</center>
+#### <center> Special Parliament Sitting</center>
 
 Parliament sat for a special sitting on Thursday, 26 March 2015 at 4 pm for Members of Parliament to pay tribute to our founding Prime Minister of Singapore.
 
