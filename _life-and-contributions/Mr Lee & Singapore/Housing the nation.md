@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Housing-the-nation
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Housing the nation #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Housing%20the%20nation.jpg)
+<center>Visiting house-proud residents at the unveiling of Everton Park housing estate on 8 November 1965.</center>
+
+### Housing the nation ###
 
 In the 1950s and 1960s, Singapore faced an acute housing shortage. The majority of Singaporeans lived in crowded, racially-segregated squatter settlements or slums, with poor sanitation.
 
