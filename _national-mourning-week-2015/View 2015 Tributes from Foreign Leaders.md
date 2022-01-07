@@ -83,7 +83,7 @@ But it takes private moments like these to bring home just how entirely Mr Lee d
 In fact, I think the best description comes from the security officer who was with Mr Lee both of those times. He was on Mr Lee’s team for almost 30 years. He said of Mr Lee: “Mr Lee is always country, country, country. And country.”
 This year, Singapore turns 50. Mr Lee would have turned 92 this September. Mr Lee entered the hospital on 5 February 2015. He continued to use his red box every day until 4 February 2015.
 
-Obituary from Fitzwilliam College University of Cambridge
+#### Obituary from Fitzwilliam College University of Cambridge
 Lee Kuan Yew, who died on 23 March 2015, was the most significant statesman to be a member of Fitzwilliam College. He was Prime Minister of Singapore for the first three decades of its independence, and led its transformation to a flourishing first-world nation.
 
 Lee Kuan Yew was born in 1923 and was educated at Raffles Institution, where in 1940 he came first amongst all pupils in Singapore and Malaya and won a scholarship to Raffles College. His university education was ended by the Japanese invasion in 1941; he was at considerable personal risk, as many young Chinese men were massacred.
@@ -100,9 +100,7 @@ Lee Kuan Yew was elected to an Honorary Fellowship of Fitzwilliam in 1969, and f
 
 The connection between Fitzwilliam College and Singapore has continued to be strong over several generations. A substantial and significant body of Singaporean leaders in the professions and the nation have studied at Fitzwilliam, including Lee’s younger brothers who read Law and Medicine. Currently, there are 16 Singaporean undergraduates and 12 graduate students in the College.
 
-(Back row, third from right) Harry Lee, as he was known by his Anglophone family and during his time in Cambridge. The senior members of Fitzwilliam in the matriculation photograph include N J G Pounds, W W Williams and W S Thatcher
-Lee Kuan Yew at his graduation in 1949, with his wife Kwa Geok Choo (Girton, 1947 – who also had achieved a First in Part II Law) and the Censor, W S Thatcher
-The Fitzwilliam College flag flying at half-mast in honour of Lee Kuan Yew on 23 March 2015
+
 
 EU dignitaries signing the condolence book in Singapore Embassy in Cairo
 Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Chief of Protocol, Arab Republic of Egypt
