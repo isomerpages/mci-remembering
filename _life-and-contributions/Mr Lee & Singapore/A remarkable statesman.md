@@ -4,7 +4,7 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/A-remarkable-statesman
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# A remarkable statesman #
+## A remarkable statesman ##
 
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Remarkable%20Stateman.jpg)
 
