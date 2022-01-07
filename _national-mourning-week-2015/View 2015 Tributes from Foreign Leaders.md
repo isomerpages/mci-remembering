@@ -25,7 +25,7 @@ For three decades, Lee Kuan Yew dedicated his life to the success of his country
 
 #### Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
 <table><tbody><tr>
-<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/Cambodian%20dignitaries1.png)" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
