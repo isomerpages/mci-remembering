@@ -4,7 +4,10 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Keeping-our-taps-running
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Keeping our taps running #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/keeping%20our%20taps%20running.jpg)
+<center>Top photo: Mr Lee at Marina Barrage’s Groundbreaking Ceremony in March 2005.</center>
+														
+### Keeping our taps running ###
 
 Singapore’s dependence on Malaysia for water was a profound existential matter.
 
