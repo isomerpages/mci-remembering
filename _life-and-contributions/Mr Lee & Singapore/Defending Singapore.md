@@ -8,6 +8,7 @@ third_nav_title: Mr Lee & Singapore
 <center>
 Mingling with national servicemen at a National Day appreciation dinner in 1970. Send-off dinners, gift packs and commemorative medallions were presented to enlistees in the early days of NS to thank them for their contributions.
 </center>
+
 ### Defending Singapore ###
 
 To safeguard Singapore’s sovereignty, its defence forces had to be built up. This need grew more urgent when the British suddenly announced they were withdrawing their forces from Singapore by 1971. 
