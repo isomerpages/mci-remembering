@@ -68,9 +68,9 @@ eygpt2
 <table><tbody><tr>
 <td> <img src="/images/Amb%20Ismail%20Mobarak.png" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/In%20memoriam3.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/In%20memoriam4.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+
 
 #### Former Military General of Indonesia, Prabowo Subianto
 “Mr Lee Kuan Yew was a towering figure in the history of Southeast Asia. For me personally and for younger generation Indonesians, we must learn from exemplary figures wherever they are from – more so if they come from our vicinity,”
