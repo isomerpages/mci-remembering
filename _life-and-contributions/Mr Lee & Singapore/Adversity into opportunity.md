@@ -4,7 +4,13 @@ permalink: /life-and-contributions/Mr-Lee-and-Singapore/Adversity-into-opportuni
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
-# Adversity into opportunity #
+![Alt text for image on Isomer site](/images/mr-lee-and-singapore/Adversity%20into%20opportunity.jpg)
+
+
+<center> (From left) President Yusof Ishak, Mr Lee, Economic Development Board Chairman Hon Sui Sen and Public Services Commission Chairman Dr Phay Seng Whatt surveying the site of the upcoming Jurong Industrial Estate from the top of Reservoir Hill on 10 May 1964. </center>
+                        
+
+### Adversity into opportunity ###
 
 Many saw a bleak future for Singapore, a nation of immigrants with neither natural resources nor a hinterland to count on.
 
