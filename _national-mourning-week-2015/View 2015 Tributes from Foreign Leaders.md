@@ -295,7 +295,7 @@ Minister of Education and Training Pham Vu Luan signing the condolence book
 Minister of Agriculture and Rural Development Cao Duc Phat signing the condolence book
 Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing the condolence book
 
-Vice-President of the United States, Joe Biden
+#### Vice-President of the United States, Joe Biden
 “One of my fondest and lasting memories was meeting with the prime minister in Singapore in 2014. We discussed the relative position and prospect of India, China, Russia and the United States – the breadth and depth of his understanding impressed me. My only regret was that I didn’t have a full week just to ask him questions regarding world affairs”
 
 “He spoke warmly of the friendship between our nations. He admired the virtues of America and the importance of the enduring US role in Asia Pacific. He made and had a profound impression on me. I’ll never forget, may he rest in peace.”
