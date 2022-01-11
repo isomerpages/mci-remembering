@@ -145,6 +145,7 @@ Dato’ Haji Ismail bin Karim
 	<img width="30" src="/images/State%20Minister%20of%20Cabinet%20Office%20Yasutoshi%20Nishimura.png"> 
   <img width="30" src="/images/Secretary-General%20Liberal%20Democratic%20Party%20Sadakazu%20Tanigaki.png">
 </p>
+
 #### Liberia President, Ellen Johnson Sirleaf
 President Sirleaf has sent a condolence message to the Government and People of the Republic of Singapore following the death of its former Prime Minister Lee Kuan Yew.In her message to His Excellency Dr. Tony Tan Keng Yam, President of the Republic of Singapore, President Sirleaf extended heartfelt condolences to the Government and People of Singapore, especially the bereaved family for the irreparable loss sustained on behalf of the Government and People of Liberia.
 
