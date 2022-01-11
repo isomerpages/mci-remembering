@@ -284,7 +284,7 @@ He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gop
 
 “The world had lost a great stateman,”
 
-Vietnam Leaders signing the condolence book at the Singapore Residence in Hanoi
+#### Vietnam Leaders signing the condolence book at the Singapore Residence in Hanoi
 Chairman of the Communist Party of Vietnam Commission for External Relations Hoang Binh Quan signing the condolence book
 Prime Minister Nguyen Tan Dung conveying his condolence on the passing of Mr Lee Kuan Yew to Ambassador Ng Teck Hean at the Singapore Residence
 Politburo member and Minister of Defence Phung Quang Thanh signing the condolence book on the passing of Mr Lee Kuan Yew
