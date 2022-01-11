@@ -149,8 +149,9 @@ President Sirleaf has sent a condolence message to the Government and People of 
 
 President Sirleaf added that former Prime Minister Lee Kuan Yew will be remembered for his numerous contributions and achievements especially as founding father of Singapore whose guidance led to its development into a modern state. The Liberian President recalled with satisfaction the visionary leadership of the Former Prime Minister whom she said led his country from its independence in 1965 and build it as one of the most prosperous nations in the world. President Sirleaf noted that the former Prime Minister was a devoted and exemplary public servant and a notable leader in the world; she prayed that God grants President courage and strength as the people of Singapore go through this period of national mourning.
 
-New Zealand DPM and MPs paid special tributes to Mr Lee Kuan Yew during a parliamentary session
-nz parl 1
+#### New Zealand DPM and MPs paid special tributes to Mr Lee Kuan Yew during a parliamentary session
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TouD4zCTjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
 Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. Read more.
