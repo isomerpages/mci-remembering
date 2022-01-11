@@ -217,7 +217,7 @@ Tony Abbott - Prime Minister of Australia Tony Abbott signing the condolence boo
 Tony Abbott - Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
 Tony Abbott - Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
 
-Prime Minister of Lao PDR, Thongsing Thammavog
+#### Prime Minister of Lao PDR, Thongsing Thammavog
 The demise of Mr Lee Kuan Yew caused the loss of an outstanding leader, a founder of modern prosperous Singapore who significantly contributed to the development of the country as well as the development of friendly ties and cooperation between Laos and Singapore, and among Asean countries.
 
 On behalf of the government and Lao people and on my own behalf, I would like to share this moment of sadness and sympathy with the government and people of Singapore as well as with your family and friends of the late leader Lee Kuan Yew.
