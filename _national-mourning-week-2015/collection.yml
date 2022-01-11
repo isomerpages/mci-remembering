@@ -2,6 +2,7 @@ collections:
   national-mourning-week-2015:
     output: true
     order:
+      - Example Title.md
       - View 2015 Tributes.md
       - View 2015 Tributes from the Ground.md
       - View 2015 Tributes from Foreign Leaders.md
