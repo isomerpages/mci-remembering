@@ -156,7 +156,7 @@ President Sirleaf added that former Prime Minister Lee Kuan Yew will be remember
 #### New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
 Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. Read more.
 
-President of France, Francois Hollande
+#### President of France, Francois Hollande
 “The President of the French Republic has learnt with great sadness of the demise of Mr Lee Kuan Yew, first Head of Government of Singapore. He honors the memory of this visionary statesman, who was able to guide the remarkable development of Singapore since its independence in 1965,” he said.
 
 “As Singapore and France mark the 50th anniversary of the establishment of their diplomatic relations this year, France has lost a friend who had strived to draw our two nations closer and deepen our cooperation in all fields.
@@ -181,7 +181,7 @@ Mr Putin expressed high praise for the socioeconomic advances and science and te
 
 Mr Putin also said in his message that Russia will remember Lee Kuan Yew as a consistent supporter of developing friendly relations between Russia and Singapore and a leader who made a great personal contribution to strengthening the two countries’ mutually advantageous bilateral cooperation.
 
-President of the European Council, Mr Donald Tusk
+#### President of the European Council, Mr Donald Tusk
 Dear Mr Prime Minister,
 Please accept my condolences on the sad occasion of the passing of Mr. Lee Kuan Yew.
 Lee Kuan Yew will be remembered for having inspired the astonishing growth and transformation of Singapore into the successful metropolis it is today. He helped to build strong relations between Singapore and the European Union so that today Singapore is the European Union’s largest trading partner in ASEAN.
@@ -206,10 +206,10 @@ H.E.
 
 习近平强调，中方高度重视发展中新友好合作关系，愿同新方一道，坚持和发展两国传统友谊，以今年中新建交25周年为契机，巩固睦邻友好，深化互利合作，更好造福两国和两国人民。
 
-President of the United States, Barack Obama
+#### President of the United States, Barack Obama
 Yesterday evening President Obama spoke with Singapore Prime Minister Lee Hsien Loong to express his and the First Lady’s condolences and the condolences of the American people on the death of founding Prime Minister Lee Kuan Yew. The President recognized founding Prime Minister Lee’s remarkable leadership and lasting contributions, not just to Singapore’s development, but also to the region’s dynamism. The President also conveyed his appreciation for founding Prime Minister Lee’s wise counsel and strong support for U.S.-Singapore relations.
 
-Prime Minister of Australia,Tony Abbott
+#### Prime Minister of Australia,Tony Abbott
 Tony Abbott – Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
 
 Tony Abbott - Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
@@ -222,7 +222,7 @@ The demise of Mr Lee Kuan Yew caused the loss of an outstanding leader, a founde
 
 On behalf of the government and Lao people and on my own behalf, I would like to share this moment of sadness and sympathy with the government and people of Singapore as well as with your family and friends of the late leader Lee Kuan Yew.
 
-Prime Minister of Malaysia, Najib Razak
+#### Prime Minister of Malaysia, Najib Razak
 Speaking to reporters outside Parliament House after the visit, Mr Najib said that the late Mr Lee was a “great man whose leadership, vision, fortitude and perseverance helped shaped Singapore to what it is today: An advanced economy and finding its own place in the world”.
 
 “All Singaporeans owe him a huge debt of gratitude,” he said.
@@ -239,7 +239,7 @@ Prime Minister Lee Hsien Loong and Prime Minister of Malaysia Najib Tun Razak at
 Prime Minister of Malaysia Najib Tun Razak signing condolences
 Prime Minister of Malaysia Najib Tun Razak and his spouse paying their respects
 
-Qatar Emir H H Sheikh Tamim bin Hamad Al Thani
+#### Qatar Emir H H Sheikh Tamim bin Hamad Al Thani
 Emir H H Sheikh Tamim bin Hamad Al Thani sent a cable of condolences to President of the Republic of Singapore Tony Tan Keng Yam on the death of the former prime minister Lee Kuan Yew.
 
 Emir also sent his condolences to Prime Minister Lee Hsien Loong on the death of the former prime minister Lee Kuan Yew.
@@ -248,7 +248,7 @@ Deputy Emir H H Sheikh Abdullah bin Hamad Al Thani sent cables of condolences to
 
 Prime Minister and Interior Minister H E Sheikh Abdullah bin Nasser bin Khalifa Al Thani also sent similar cables to Singapore condoling the death of former premier.
 
-Queen Elizabeth II of United Kingdom
+#### Queen Elizabeth II of United Kingdom
 Queen Elizabeth II of the United Kingdom sent her condolences after the passing of Singapore’s founding Prime Minister Lee Kuan Yew to both President Tony Tan and Prime Minister Lee Hsien Loong.
 
 Her letter to Dr Tan:
@@ -259,13 +259,13 @@ In a separate message to Prime Minister Lee:
 
 “Prince Philip and I were saddened to hear of the death of your father, Mr Lee Kuan Yew. His vision and dedication to the service of his country helped to make Singapore the successful country it is today. As Prime Minister he welcomed us to Singapore on two occasions, and we have fond memories of our visits and meetings with him elsewhere. Philip and I send you and your family our sincere condolences at this sad time.”
 
-Secretary-General of the United Nations, Ban Ki-Moon
+#### Secretary-General of the United Nations, Ban Ki-Moon
 Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision will guide Singapore and all of us toward a better and brighter future for all.”
 
-The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. In this image, the Secretary General makes a statement to the press. Photo from the United Nations Department of Public Information (DPI).
+#### The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. In this image, the Secretary General makes a statement to the press. Photo from the United Nations Department of Public Information (DPI).
 The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. Pictured with the Secretary General is the Permanent Representative of Singapore to the UN, Ambassador Karen Tan. Photo from the United Nations Department of Public Information (DPI).
 
-Thai dignitaries signing the condolence book at the Singapore Mission in Bangkok
+#### Thai dignitaries signing the condolence book at the Singapore Mission in Bangkok
 His Royal Highness Crown Prince Maha Vajiralongkorn has commanded me to convey his sympathy and condolences on the demise of Mr Lee Kuan Yew, Former Prime Minister of the Republic of Singapore.”  Chief, Private Secretary Office of HRH the Crown Prince of Thailand ACM Kasame Yoosooka, on 26 March.
 His Royal Highness Crown Prince Maha Vajiralongkorn has commanded me to convey his sympathy and condolences on the demise of Mr Lee Kuan Yew, Former Prime Minister of the Republic of Singapore.” Chief, Private Secretary Office of HRH the Crown Prince of Thailand ACM Kasame Yoosooka, on 26 March.
 He was the statesman, the legend and my true friend Without him, we don’t have Singapore.”   President of the Privy Council Gen Prem Tinsulanonda on 26 March.
