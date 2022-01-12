@@ -6,7 +6,7 @@ agency_name: MCI
 contacts:
   - content:
       - phone: ""
-      - email: ""
-      - other: "Email: RememberingLeeKuanYew rememberingleekuanyew@mci.gov.sg"
+      - email: rememberingleekuanyew@mci.gov.sg
+      - other: ""
     title: For enquiries
 ---
