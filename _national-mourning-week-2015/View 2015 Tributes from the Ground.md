@@ -166,7 +166,7 @@ Uncle Tony Coffeeshop at Sengkang CC provided free drinks to those at the Commun
           
 (Top: Photo courtesy of MediaCorp. Bottom: Photo courtesy of  Youth Corps Singapore)
  
-A Solemn Farewell to Our Founding Father
+#### A Solemn Farewell to Our Founding Father
 
 Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service (SFS). The cortege arrived at the University Cultural Centre at around 2pm, after winding through rain-soaked streets lined with tens of thousands calling out to Mr Lee, passing landmarks that are symbolic of Mr Lee’s accomplishments.
 Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service (SFS). The cortege arrived at the University Cultural Centre at around 2pm, after winding through rain-soaked streets lined with tens of thousands calling out to Mr Lee, passing landmarks that are symbolic of Mr Lee’s accomplishments.
