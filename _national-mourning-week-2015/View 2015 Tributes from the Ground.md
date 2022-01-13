@@ -111,7 +111,6 @@ Mr Lee Kuan Yew not only touched the lives of Singaporeans, but also the lives o
 </tr></tbody></table>
 
 
-
 Sometimes, pictures are just not enough to capture the emotions on the ground. We took the opportunity to do a “From the Ground” series capturing the raw emotions as the public brave queues to pay their last respects to Mr Lee.
 
 Find out what Singaporeans of all ages and walks of life have to say as we put them on camera.
@@ -128,9 +127,15 @@ Find out what Singaporeans of all ages and walks of life have to say as we put t
 Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From personal condolence notes, to entire organisations observing a minute of silence together, Singaporeans banded together to say their last goodbyes to the nation’s first Prime Minister.
  
  
+ <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu.jpg" alt="Drawing" style="width: 150px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu2.jpg" alt="Drawing" style="width: 350px;"> </td>
+</tr></tbody></table>
  
- 
- 
+  <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu.jpg" alt="Drawing" style="width: 150px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu2.jpg" alt="Drawing" style="width: 350px;"> </td>
+</tr></tbody></table>
 
 
 Pre-schoolers from Modern Montessori International (Bedok Reservoir) pen notes in tribute to the late Mr Lee Kuan Yew.
