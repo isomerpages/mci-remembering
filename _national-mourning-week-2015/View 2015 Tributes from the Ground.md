@@ -74,17 +74,17 @@ Companies also took the initiative to create their own tribute sites to honour t
 <td> <img src="/images/tributes-from-the-ground/employ4.jpg" alt="Drawing" style="width: 350px;"> 
 </tr></tbody></table>
 
-![Alt text for image on Isomer site](/images/tributes-from-the-ground/employ4.jpg)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/employ5.jpg)
  
  3rd : 
  <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/photo-6.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/photo-7.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/employ5.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/employ6.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 4th : 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/photo-6.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/employ8.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/tributes-from-the-ground/photo-7.png" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
  
