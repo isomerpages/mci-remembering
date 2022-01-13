@@ -264,7 +264,7 @@ The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile 
 
 
 
-A Final Send-off: Crowds Line State Funeral Procession Route
+#### A Final Send-off: Crowds Line State Funeral Procession Route
 The skies opened and heavy rain fell on the crowds lining the State Funeral procession route. However, they were not deterred and stayed put, determined to bid a final farewell to Mr Lee Kuan Yew. Heeding the calls to dress in either black or white, members of public at the Padang armed themselves with umbrellas and ponchos and waited patiently in the downpour for the departure of the gun carriage bearing Mr Lee’s casket from Parliament House. Thousands lined the streets from St Andrews Road to Shenton Way, Cantonment Road to Clementi Road, bearing the Singapore flag in an emotional send-off.
 Even as the rain poured, Singaporeans braved the elements, lining the streets to catch a glimpse of the funeral procession and gathering at various Community Tribute Sites with their fellow Singaporeans to witness the State Funeral Service for Mr Lee Kuan Yew.
 The mood was sombre as the cortege made its way to the University Cultural Centre, where 10 eulogies were delivered. Many could not hold back their tears as the nation bids its final farewell to the leader who built Singapore.
