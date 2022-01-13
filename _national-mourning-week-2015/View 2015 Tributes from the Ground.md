@@ -363,7 +363,9 @@ It was a heartfelt and meaningful event.
 Mr Lee fought for his fellow Singaporeans and gave his life so that we could dare to dream and hope for a better future, so that our children could have a better home and a better life.
  
 He may no longer be with us, but his light will continue shining brightly in Singapore.
-Businesses Suspend Operations on Sunday to Mark Mr Lee Kuan Yew’s Passing
+
+
+#### Businesses Suspend Operations on Sunday to Mark Mr Lee Kuan Yew’s Passing
 As a mark of respect to the passing of our nation’s founding father Mr Lee Kuan Yew, several businesses will be suspending business operations tomorrow (29 March, Sunday), the day of Mr Lee’s State Funeral. These include:
  
 Tangs and Metro department store outlets islandwide, as well as all Mothercare stores, will not be opening for business tomorrow.
