@@ -125,11 +125,11 @@ Find out what Singaporeans of all ages and walks of life have to say as we put t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PieUHdZEkns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From personal condolence notes, to entire organisations observing a minute of silence together, Singaporeans banded together to say their last goodbyes to the nation’s first Prime Minister.
- 
- 
+
+
  <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/tamilnadu.jpg" alt="Drawing" style="width: 150px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/tamilnadu2.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/PCF-01.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/MMI-Bedok-Resevoir-04.png" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
  
   <table><tbody><tr>
