@@ -28,8 +28,10 @@ Photo Credit: Mediacorp
 
  
 Maybank employees also contributed by  giving out more than 4,000 bottles of water. Vitagen also provided chilled drinks on Cavenagh Bridge to help the people in line cope with the heat while waiting in line. Staff from Tiong Bahru Bakery and BreadTalk helped relieve their hunger pangs.
- 
-Photo Credit: Mediacorp.
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-3.png)
+ <center> Photo Credit: Mediacorp.</center>
+
 Many other unsung heroes also helped ensure that the place remained clean. A member of public was seen voluntarily picking up litter at the Padang, an endeavour which Youth Corps Singapore’s volunteers also took on. Workers, such as staff from SMRT, technicians and cleaners from Hong Lim Park, also worked tirelessly through the night to help make the wait more comfortable.
  
 Photo Credit: MediaCorp
