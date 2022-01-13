@@ -70,6 +70,7 @@ Companies also took the initiative to create their own tribute sites to honour t
 
 
 They may have not experienced first-hand the trying times of Singapore’s building years. Yet they came to pay tribute to Mr Lee Kuan Yew.
+
 Across the island, young children have been visiting community sites to pen tribute messages for Mr Lee, a man they have only read about in books or heard about from their parents and teachers.
  
  
@@ -77,8 +78,12 @@ Across the island, young children have been visiting community sites to pen trib
 
 
 This young girl came with her parents to thank Mr Lee. When she arrived, observers saw her rush to the board and tip-toe to pick up a marker. Without hesitation, she proceeded to draw a circle bigger than her heart and penned a message to Mr Lee.
+
 This is what she said:
+
 “Dear Mr Lee, Thank you for everything I have today, my flat, my education, my famili/s (sic) peaceful times when everywhere in this world people worry about basic necessities. I am the first in my family to be able to complete my education and is the first graduate, to my parents who are near illiterate. Thank you for changing our lives.”
+
+
 Mr Lee Kuan Yew not only touched the lives of Singaporeans, but also the lives of many who came to work in Singapore. Upon hearing of Mr Lee’s passing, these former workers set up their own tribute site back in Tamil Nadu, India, to pay their respects.
  
  
@@ -86,10 +91,15 @@ Mr Lee Kuan Yew not only touched the lives of Singaporeans, but also the lives o
 
 
 Sometimes, pictures are just not enough to capture the emotions on the ground. We took the opportunity to do a “From the Ground” series capturing the raw emotions as the public brave queues to pay their last respects to Mr Lee.
+
 Find out what Singaporeans of all ages and walks of life have to say as we put them on camera.
-“Senior citizens, who lived through Singapore’s tumultuous times, braved the queue to pay their last respects.”
-“Some have made it a family affair to say their final goodbyes.”
-“Hear what the young ones are doing to pay tribute to the late Mr Lee Kuan Yew.”
+
+****“Senior citizens, who lived through Singapore’s tumultuous times, braved the queue to pay their last respects.”
+
+****“Some have made it a family affair to say their final goodbyes.”
+
+****“Hear what the young ones are doing to pay tribute to the late Mr Lee Kuan Yew.”
+
 Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From personal condolence notes, to entire organisations observing a minute of silence together, Singaporeans banded together to say their last goodbyes to the nation’s first Prime Minister.
  
  
@@ -121,6 +131,8 @@ Students from Connect And Be Inspired Now (C.A.B.I.N) conducted a mini tribute a
 
 
 Students of Mr Lee Kuan Yew’s alma matter, Raffles Institution, paid tribute to him in an observance ceremony. (Photo: MOE)
+
+
 Watch a video of students sharing their thoughts on the late Mr Lee here.
  
 Uniquely Singapore – Personal tributes to Mr Lee Kuan Yew
@@ -148,6 +160,7 @@ Uncle Tony Coffeeshop at Sengkang CC provided free drinks to those at the Commun
 (Top: Photo courtesy of MediaCorp. Bottom: Photo courtesy of  Youth Corps Singapore)
  
 A Solemn Farewell to Our Founding Father
+
 Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service (SFS). The cortege arrived at the University Cultural Centre at around 2pm, after winding through rain-soaked streets lined with tens of thousands calling out to Mr Lee, passing landmarks that are symbolic of Mr Lee’s accomplishments.
 Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service (SFS). The cortege arrived at the University Cultural Centre at around 2pm, after winding through rain-soaked streets lined with tens of thousands calling out to Mr Lee, passing landmarks that are symbolic of Mr Lee’s accomplishments.
  
