@@ -32,10 +32,10 @@ Maybank employees also contributed by  giving out more than 4,000 bottles of wat
  <center> Photo Credit: Mediacorp.</center>
 
 Many other unsung heroes also helped ensure that the place remained clean. A member of public was seen voluntarily picking up litter at the Padang, an endeavour which Youth Corps Singapore’s volunteers also took on. Workers, such as staff from SMRT, technicians and cleaners from Hong Lim Park, also worked tirelessly through the night to help make the wait more comfortable.
-
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-4.png)
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/mediacorp1.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="images/tributes-from-the-ground/photo-1.png" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
  
