@@ -211,12 +211,15 @@ Volunteers from Temasek loaned out more than 30,000 umbrellas people queuing in 
  
 Others helped to counter the blistering heat and quench thirst.
 Uncle Tony Coffeeshop at Sengkang CC provided free drinks to those at the Community Tribute Site in Sengkang;  Marigold deployed staff to hand out packet drinks; Bank of China staff distributed bottled water to those waiting to enter Parliament House; and Youth Corps Singapore started a movement to distribute water with over 100 volunteers from all walks of life.
-       
-			 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks2.jpg)
-			 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks3.jpg)
-			 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks4.jpg)
-			 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks5.jpg)
-			 
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks2.jpg) 
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks3.jpg)
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks4.jpg)
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/ks5.jpg)
+
           
 (Top: Photo courtesy of MediaCorp. Bottom: Photo courtesy of  Youth Corps Singapore)
  
