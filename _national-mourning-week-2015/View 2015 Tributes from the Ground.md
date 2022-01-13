@@ -140,11 +140,11 @@ Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From persona
 
 Pre-schoolers from Modern Montessori International (Bedok Reservoir) pen notes in tribute to the late Mr Lee Kuan Yew.
 
-![Alt text for image on Isomer site](/images/tributes-from-the-ground/PCF-01.jpg)
  
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/PCF-02.jpg)
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-02.jpg)
+  <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/PCF-01.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 350px;"> </td>
+</tr></tbody></table>
  
 Students from PCF Sparkletots Preschool at Cheng San-Seletar Blk 435 penned messages to Mr Lee Kuan Yew, and printed their fingerprints on the tribute board. The students, together with their parents and teachers also visited the community tribute site at Ang Mo Kio to present their message board and to pay their respects. (Photo: PCF Sparkletots Preschool)
  
