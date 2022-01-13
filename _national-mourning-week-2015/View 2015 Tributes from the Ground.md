@@ -88,10 +88,6 @@ Companies also took the initiative to create their own tribute sites to honour t
 They may have not experienced first-hand the trying times of Singapore’s building years. Yet they came to pay tribute to Mr Lee Kuan Yew.
 
 Across the island, young children have been visiting community sites to pen tribute messages for Mr Lee, a man they have only read about in books or heard about from their parents and teachers.
-
-![Alt text for image on Isomer site](/images/tributes-from-the-ground/child1.jpg)
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/child2.jpg)
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Child3.jpg)
  
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/child1.jpg" alt="Drawing" style="width: 350px;"> </td>
