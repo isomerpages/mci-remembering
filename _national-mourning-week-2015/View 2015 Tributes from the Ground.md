@@ -144,6 +144,8 @@ Pre-schoolers from Modern Montessori International (Bedok Reservoir) pen notes i
  
  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/PCF-02.jpg)
  
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-02.jpg)
+ 
 Students from PCF Sparkletots Preschool at Cheng San-Seletar Blk 435 penned messages to Mr Lee Kuan Yew, and printed their fingerprints on the tribute board. The students, together with their parents and teachers also visited the community tribute site at Ang Mo Kio to present their message board and to pay their respects. (Photo: PCF Sparkletots Preschool)
  
  
@@ -166,8 +168,8 @@ Students of Telok Kurau Primary School made paper flowers as a tribute to Mr Lee
 
 Students from Connect And Be Inspired Now (C.A.B.I.N) conducted a mini tribute at Northlight School and Balestier Hill Secondary to express their gratitude for the late Mr Lee Kuan Yew. (Photo: C.A.B.I.N)
  
- 
- 
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-04.jpg)
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-03.jpg)
 
 
 Students of Mr Lee Kuan Yew’s alma matter, Raffles Institution, paid tribute to him in an observance ceremony. (Photo: MOE)
