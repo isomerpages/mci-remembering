@@ -71,8 +71,10 @@ Companies also took the initiative to create their own tribute sites to honour t
 
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/employ7.jpg" alt="Drawing" style="width: 350px;"> 
-<td> <img src="/images/tributes-from-the-ground/employ8.jpg" alt="Drawing" style="width: 350px;"> 
+<td> <img src="/images/tributes-from-the-ground/employ4.jpg" alt="Drawing" style="width: 350px;"> 
 </tr></tbody></table>
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/employ4.jpg)
  
  3rd : 
  <table><tbody><tr>
