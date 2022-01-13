@@ -38,7 +38,7 @@ Many other unsung heroes also helped ensure that the place remained clean. A mem
 <td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
  
-Photo Credit: MediaCorp
+<center> Photo Credit: MediaCorp</center>
  
 
 
