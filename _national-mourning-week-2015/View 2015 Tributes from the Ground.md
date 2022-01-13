@@ -16,12 +16,10 @@ Residents at Yishun light candles as they pay tribute to the late Mr Lee Kuan Ye
 #### Acts of kindness: Community spirit continues to run high
 Singaporeans have continued to show their generosity and kindness throughout this mourning period for the late Mr Lee Kuan Yew.
 Mr Jasper Tan, YEO’s sales representative, made it a point to involve his children – 8-year-old Seth and 7-year-old Shain-ann – in the distribution of drinks and bottled water to those waiting in line on the third day of the Lying-in-State. Students from the Anglo-Chinese Junior College also did their part in handing out drinks and food at the Padang.
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/mediacorp1.png)
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-1.png)
+  
 <table><tbody><tr>
-<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/mediacorp1.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-1.png" alt="Drawing" style="width: 250px;"> </td>
 
 </tr></tbody></table>
  
