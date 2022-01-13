@@ -239,7 +239,9 @@ A well-wisher thanking the late Mr Lee for his devotion in building up the natio
 A child’s drawing as a tribute to the late Mr Lee Kuan Yew.
  
 A well-wisher thanking the late Mr Lee for building a strong education system.
-Paying Tribute to One Man in Diverse Ways
+
+
+#### Paying Tribute to One Man in Diverse Ways
 The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile has birthed car decals, badges, T-shirt logos, stickers and more. Created by Member of Parliament Alex Yam and his team, the logo was also printed on 1,000 customised balloons, produced by a group of Singaporeans and Singapore Permanent Residents who were brought together by a common sense of grief and a wish to honour the late Mr Lee. The passing of founding Prime Minister Mr Lee Kuan Yew saw a nation coming together to both honour and mourn, in a myriad of manner and form. It would not be possible to put together an exhaustive list of tributes conceptualised and paid; the following are but some of the highlights.
  
  
