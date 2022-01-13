@@ -213,7 +213,10 @@ New Shah Alam restaurant offering water and canned drinks to those in the queue
 Staff from Crazy Elephant placing iced water at a convenient spot for waiting in line
  
 Volunteers also distributed water in from of Fullerton Hotel and near UOB Plaza
-Community sites have been set up around Singapore for members of the public to pay tribute to Mr Lee Kuan Yew
+
+
+#### Community sites have been set up around Singapore for members of the public to pay tribute to Mr Lee Kuan Yew
+
 Apart from paying their respects at the Lying-In-State in Parliament House, Singaporeans have also been visiting their local community sites.
 In Tampines, MP Baey Yam Keng and his residents pen tribute messages for Mr Lee, with many leaving behind flowers and cards.
  
@@ -223,7 +226,7 @@ At the community tribute site in Marine Parade GRC, a man stood apart from the c
  
 At the community tribute site in Nee Soon, PCF and local kindergartens came to pay their final respects. Parliamentary Secretary Muhammad Faishal Ibrahim led them in a minute of silence.
  
-Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
+#### Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
 The High Street Building became a spontaneous tribute site for Singaporeans and well-wishers to share their thoughts and express their gratitude to the late Mr Lee Kuan Yew.
  
  A passerby stops to read some of the tributes at a spontaneous tribute site at High Street Building.
