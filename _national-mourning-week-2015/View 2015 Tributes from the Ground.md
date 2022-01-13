@@ -65,13 +65,13 @@ We manage to get some of the Vigil guards who are getting ready to relieve their
 Companies also took the initiative to create their own tribute sites to honour the late Mr Lee. Below are some pictures from these tribute sites.
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/employ1.jpg" alt="Drawing" style="width: 350px;">
-<td> <img src="/images/tributes-from-the-ground/employ2.jpg" alt="Drawing" style="width: 450px;">
+<td> <img src="/images/tributes-from-the-ground/employ1.jpg" alt="Drawing" style="width: 350px;"></td>
+<td> <img src="/images/tributes-from-the-ground/employ2.jpg" alt="Drawing" style="width: 450px;"></td>
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/employ7.jpg" alt="Drawing" style="width: 350px;"> 
-<td> <img src="/images/tributes-from-the-ground/employ4.jpg" alt="Drawing" style="width: 350px;"> 
+<td> <img src="/images/tributes-from-the-ground/employ7.jpg" alt="Drawing" style="width: 350px;"></td>
+<td> <img src="/images/tributes-from-the-ground/employ4.jpg" alt="Drawing" style="width: 350px;"></td>
 </tr></tbody></table>
 
  <table><tbody><tr>
