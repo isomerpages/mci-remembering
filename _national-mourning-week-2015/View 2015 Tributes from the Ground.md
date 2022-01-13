@@ -187,10 +187,12 @@ Watch a video of students sharing their thoughts on the late Mr Lee here.
 #### Uniquely Singapore – Personal tributes to Mr Lee Kuan Yew
 35-year-old local entrepreneur Alex Lim of Agraphix Large Format announced on Facebook that his company would print and provide free car decals to fellow Singaporeans, in order to provide other avenues for members of the public to pay tribute to Mr Lee Kuan Yew.
 
+
 When contacted, Mr Lim shared his plans to print 50,000 of such car decals, at an estimated cost of $10,000.  As at 26 Mar afternoon, approximately 10,000 decals had been given out.
+
  
 Jordan Chua, a Primary 2 student from Anderson Primary sealed this moment in history with a LEGO set-up of Mr Lee Kuan Yew’s cortege after seeing it on television.
- 
+  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/lego1.jpg)
  
 (Pic: @Christian Chua)
 
