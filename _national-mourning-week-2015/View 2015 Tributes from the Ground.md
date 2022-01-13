@@ -316,8 +316,11 @@ Singapore’s founding Prime Minister passed away on 23 March 2015. As the natio
 
 #### Religious and Community Groups Salute Mr Lee Kuan Yew
 Church Bells to Toll on Sunday, 29 March 2015
+
 As a mark of respect for the late Mr Lee Kuan Yew, bells of the Roman Catholic Churches throughout Singapore that do not have Masses in progress will toll at 12.30pm tomorrow when Mr Lee’s hearse leaves Parliament House to begin its journey to the University Cultural Centre (UCC). At 2pm, the bells of all Roman Catholic churches will toll in unison when the funeral service begins at UCC.
+
 Paying Tribute to Mr Lee Kuan Yew’s Role in Building a Harmonious Society
+
 While Mr Lee Kuan Yew was Lying-in-State, religious and community leaders came together to remember Mr Lee Kuan Yew’s legacy in promoting harmony between different races and faiths.
  
 Archbishop William Goh led a 5000-strong Catholic community in a mass at St. Joseph’s Church on Friday to pay tribute to Mr Lee Kuan Yew. Archbishop Goh noted that Mr Lee had a deep respect for people of all faiths and was a staunch advocate of inter-religious dialogue, although he professed himself an agnostic.
