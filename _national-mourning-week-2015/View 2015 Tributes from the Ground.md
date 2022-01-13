@@ -155,11 +155,13 @@ Students from PCF Sparkletots Preschool at Cheng San-Seletar Blk 435 penned mess
 </tr></tbody></table>
  
 
-
 Students of Telok Kurau Primary School made paper flowers as a tribute to Mr Lee Kuan Yew. Mr Lee was a student in this school back in the 1930s, when it was known as Telok Kurau English School. (Photo: MOE)
  
  
-
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-01.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-03.png" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
 
 Students from Connect And Be Inspired Now (C.A.B.I.N) conducted a mini tribute at Northlight School and Balestier Hill Secondary to express their gratitude for the late Mr Lee Kuan Yew. (Photo: C.A.B.I.N)
  
