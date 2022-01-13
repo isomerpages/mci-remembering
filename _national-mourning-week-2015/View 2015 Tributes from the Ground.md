@@ -101,6 +101,7 @@ Find out what Singaporeans of all ages and walks of life have to say as we put t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TyM0m6AGG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **“Hear what the young ones are doing to pay tribute to the late Mr Lee Kuan Yew.”**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PieUHdZEkns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From personal condolence notes, to entire organisations observing a minute of silence together, Singaporeans banded together to say their last goodbyes to the nation’s first Prime Minister.
  
