@@ -140,23 +140,27 @@ Watch a video of students sharing their thoughts on the late Mr Lee here.
  
 #### Uniquely Singapore – Personal tributes to Mr Lee Kuan Yew
 35-year-old local entrepreneur Alex Lim of Agraphix Large Format announced on Facebook that his company would print and provide free car decals to fellow Singaporeans, in order to provide other avenues for members of the public to pay tribute to Mr Lee Kuan Yew.
+
 When contacted, Mr Lim shared his plans to print 50,000 of such car decals, at an estimated cost of $10,000.  As at 26 Mar afternoon, approximately 10,000 decals had been given out.
  
 Jordan Chua, a Primary 2 student from Anderson Primary sealed this moment in history with a LEGO set-up of Mr Lee Kuan Yew’s cortege after seeing it on television.
  
  
 (Pic: @Christian Chua)
+
 Ten volunteers from social enterprise Castle Beach devoted over eight hours to create this large sand sculpture on the beaches of East Coast Park as a creative tribute to the founding father of Singapore. The volunteer crew reportedly ranged from aged 20 to 67.
  
  
 (Picture by @Edmond Wong)
+
 Acts of Kindness: Keeping the “Kampung Spirit” Alive
 On the second day of Lying-in-State, the community continued to rally round with gestures of support for the thousands who stood in line to pay their last respects to Mr Lee Kuan Yew at Parliament House.
  
 Volunteers from Temasek loaned out more than 30,000 umbrellas people queuing in the blazing sun. Ponchos and biscuits were also given out.
  
  (Photo courtesy of MediaCorp)
- Others helped to counter the blistering heat and quench thirst.
+ 
+Others helped to counter the blistering heat and quench thirst.
 Uncle Tony Coffeeshop at Sengkang CC provided free drinks to those at the Community Tribute Site in Sengkang;  Marigold deployed staff to hand out packet drinks; Bank of China staff distributed bottled water to those waiting to enter Parliament House; and Youth Corps Singapore started a movement to distribute water with over 100 volunteers from all walks of life.
        
           
