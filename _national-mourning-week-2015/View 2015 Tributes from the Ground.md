@@ -227,6 +227,7 @@ At the community tribute site in Marine Parade GRC, a man stood apart from the c
 At the community tribute site in Nee Soon, PCF and local kindergartens came to pay their final respects. Parliamentary Secretary Muhammad Faishal Ibrahim led them in a minute of silence.
  
 #### Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmjjJdqB4o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The High Street Building became a spontaneous tribute site for Singaporeans and well-wishers to share their thoughts and express their gratitude to the late Mr Lee Kuan Yew.
  
  A passerby stops to read some of the tributes at a spontaneous tribute site at High Street Building.
