@@ -10,12 +10,8 @@ The Funeral Service for Singapore’s Founding Prime Minister was held at the Na
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Mw3AD7tb0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Remembering Lee Kuan Yew – The Nation’s Farewell
-The Funeral Service for Singapore’s Founding Prime Minister was held at the National University of Singapore’s University Cultural Centre on 29 Mar 2015. The nation came together as one to say its final goodbye to Mr Lee Kuan Yew.
-
-
 Residents at Yishun light candles as they pay tribute to the late Mr Lee Kuan Yew. In the background, a bagpipe performer plays a rendition of “Auld Lang Syne”.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfvaen8Aahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Acts of kindness: Community spirit continues to run high
 Singaporeans have continued to show their generosity and kindness throughout this mourning period for the late Mr Lee Kuan Yew.
