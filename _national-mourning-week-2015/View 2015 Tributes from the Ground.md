@@ -39,14 +39,10 @@ Many other unsung heroes also helped ensure that the place remained clean. A mem
 </tr></tbody></table>
  
 <center> Photo Credit: MediaCorp</center>
- 
-
-
- 
- 
+  
 If you know of any other similar stories, please share them on the RememberingLeeKuanYew Facebook page.
 
-****Businesses are also doing their part.
+**Businesses are also doing their part.**
 
 As a tribute to our nation’s founding father and “in loving memory of his lifelong dedication towards the development of Singapore”, Grabtaxi is donating $1 for every ride completed with the code, “thankyouLKY” throughout this period of national mourning.  According to GrabTaxi’s Facebook posting, the donations will go to the MOE’s Education Fund and NTUC-U CareFund. Local entrepreneurs are also exercising their creativity and providing members of public with various ways in which they can pay tribute to Mr Lee Kuan Yew.
  
