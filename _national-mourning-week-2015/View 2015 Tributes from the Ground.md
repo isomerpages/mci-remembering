@@ -3,11 +3,12 @@ title: View 2015 Tributes from the Ground
 permalink: /national-mourning-week-2015/view-2015-tributes-from-the-ground
 description: ""
 ---
-
-
-
+#### View 2015 Tributes from the Ground
+##### Remembering Lee Kuan Yew – The Nation’s Farewell
 
 Residents at Yishun light candles as they pay tribute to the late Mr Lee Kuan Yew. In the background, a bagpipe performer plays a rendition of “Auld Lang Syne”.
+
+
 Remembering Lee Kuan Yew – The Nation’s Farewell
 The Funeral Service for Singapore’s Founding Prime Minister was held at the National University of Singapore’s University Cultural Centre on 29 Mar 2015. The nation came together as one to say its final goodbye to Mr Lee Kuan Yew.
 Acts of kindness: Community spirit continues to run high
