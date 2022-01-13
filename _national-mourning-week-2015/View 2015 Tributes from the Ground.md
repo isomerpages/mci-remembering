@@ -189,7 +189,7 @@ Watch a video of students sharing their thoughts on the late Mr Lee here.
 
 
 When contacted, Mr Lim shared his plans to print 50,000 of such car decals, at an estimated cost of $10,000.  As at 26 Mar afternoon, approximately 10,000 decals had been given out.
-
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/LEGO.png)
  
 Jordan Chua, a Primary 2 student from Anderson Primary sealed this moment in history with a LEGO set-up of Mr Lee Kuan Yew’s cortege after seeing it on television.
   ![Alt text for image on Isomer site](/images/tributes-from-the-ground/lego1.jpg)
