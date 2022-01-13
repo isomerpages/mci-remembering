@@ -95,6 +95,7 @@ Sometimes, pictures are just not enough to capture the emotions on the ground. W
 Find out what Singaporeans of all ages and walks of life have to say as we put them on camera.
 
 ****“Senior citizens, who lived through Singapore’s tumultuous times, braved the queue to pay their last respects.”
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8I_4dCyaXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ****“Some have made it a family affair to say their final goodbyes.”
 
