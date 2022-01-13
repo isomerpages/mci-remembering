@@ -46,9 +46,14 @@ If you know of any other similar stories, please share them on the RememberingLe
 
 As a tribute to our nation’s founding father and “in loving memory of his lifelong dedication towards the development of Singapore”, Grabtaxi is donating $1 for every ride completed with the code, “thankyouLKY” throughout this period of national mourning.  According to GrabTaxi’s Facebook posting, the donations will go to the MOE’s Education Fund and NTUC-U CareFund. Local entrepreneurs are also exercising their creativity and providing members of public with various ways in which they can pay tribute to Mr Lee Kuan Yew.
  
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-6.png)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-7.png)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-8.png)
  
- 
-
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/photo-6.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
 
  
  
