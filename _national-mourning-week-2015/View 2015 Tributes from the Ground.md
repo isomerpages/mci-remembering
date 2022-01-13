@@ -103,9 +103,13 @@ This is what she said:
 
 
 Mr Lee Kuan Yew not only touched the lives of Singaporeans, but also the lives of many who came to work in Singapore. Upon hearing of Mr Lee’s passing, these former workers set up their own tribute site back in Tamil Nadu, India, to pay their respects.
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tamilnadu3.jpg)
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tamilnadu2.jpg)
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu.jpg" alt="Drawing" style="width: 150px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/tamilnadu2.jpg" alt="Drawing" style="width: 350px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/tamilnadu3.jpg" alt="Drawing" style="width: 350px;"> </td>
+</tr></tbody></table>
+
 
 
 Sometimes, pictures are just not enough to capture the emotions on the ground. We took the opportunity to do a “From the Ground” series capturing the raw emotions as the public brave queues to pay their last respects to Mr Lee.
