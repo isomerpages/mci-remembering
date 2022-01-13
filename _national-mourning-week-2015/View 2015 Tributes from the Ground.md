@@ -141,7 +141,7 @@ Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From persona
 Pre-schoolers from Modern Montessori International (Bedok Reservoir) pen notes in tribute to the late Mr Lee Kuan Yew.
 
  
-  <table><tbody><tr>
+<table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/PCF-01.jpg" alt="Drawing" style="width: 350px;"> </td>
 <td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
