@@ -94,9 +94,9 @@ Across the island, young children have been visiting community sites to pen trib
  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Child3.jpg)
  
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/employ8.jpg" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/employ3.jpg" alt="Drawing" style="width: 350px;"> </td>
-	<td> <img src="/images/tributes-from-the-ground/employ3.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/child1.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/child2.jpg" alt="Drawing" style="width: 350px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/Child3.jpg" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
 
 This young girl came with her parents to thank Mr Lee. When she arrived, observers saw her rush to the board and tip-toe to pick up a marker. Without hesitation, she proceeded to draw a circle bigger than her heart and penned a message to Mr Lee.
