@@ -52,7 +52,9 @@ As a tribute to our nation’s founding father and “in loving memory of his li
  
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/photo-6.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/photo-7.png" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/photo-8.png" alt="Drawing" style="width: 250px;"> </td>
+	
 </tr></tbody></table>
 
  
