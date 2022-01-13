@@ -205,6 +205,7 @@ Ten volunteers from social enterprise Castle Beach devoted over eight hours to c
 On the second day of Lying-in-State, the community continued to rally round with gestures of support for the thousands who stood in line to pay their last respects to Mr Lee Kuan Yew at Parliament House.
  
 Volunteers from Temasek loaned out more than 30,000 umbrellas people queuing in the blazing sun. Ponchos and biscuits were also given out.
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/KS1.jpg)
  
  (Photo courtesy of MediaCorp)
  
