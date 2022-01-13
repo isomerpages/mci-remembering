@@ -197,7 +197,7 @@ Jordan Chua, a Primary 2 student from Anderson Primary sealed this moment in his
 (Pic: @Christian Chua)
 
 Ten volunteers from social enterprise Castle Beach devoted over eight hours to create this large sand sculpture on the beaches of East Coast Park as a creative tribute to the founding father of Singapore. The volunteer crew reportedly ranged from aged 20 to 67.
- 
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/IMG_3170.jpg)
  
 (Picture by @Edmond Wong)
 
