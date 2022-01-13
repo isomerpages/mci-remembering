@@ -47,8 +47,11 @@ As a tribute to our nation’s founding father and “in loving memory of his li
  
 The vigil guards is the nation’s highest form of respect given to the deceased. It is made up of uniformed officers from the Army, Navy, Air Force and Police. They will stand  solemnly in formation – four on each corner of the casket, and one senior officer at the head of it facing inwards.
 They will stand guard round the clock  as the late Mr Lee Kuan Yew lies in state at the Parliament House,  their heads slightly bowed, making no eye contact with anyone,  their swords inverted.
+
 Every 30 minutes, the four guards near the casket will change shifts. There are 60 vigil guards in total.
 We manage to get some of the Vigil guards who are getting ready to relieve their colleagues to share with us their emotional experience.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/frH-flZdu08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Companies also took the initiative to create their own tribute sites to honour the late Mr Lee. Below are some pictures from these tribute sites.
  
  
