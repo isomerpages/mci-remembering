@@ -146,13 +146,12 @@ Pre-schoolers from Modern Montessori International (Bedok Reservoir) pen notes i
  
 Students from PCF Sparkletots Preschool at Cheng San-Seletar Blk 435 penned messages to Mr Lee Kuan Yew, and printed their fingerprints on the tribute board. The students, together with their parents and teachers also visited the community tribute site at Ang Mo Kio to present their message board and to pay their respects. (Photo: PCF Sparkletots Preschool)
  
-
  
  <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-01.png" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-03.png" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-04.png" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="images/tributes-from-the-ground/PCF-03.png" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-01.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-03.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/Telok-Kurau-04.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="images/tributes-from-the-ground/PCF-03.png" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
  
 
