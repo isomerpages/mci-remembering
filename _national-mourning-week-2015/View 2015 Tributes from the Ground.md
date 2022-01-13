@@ -347,11 +347,13 @@ Nee Soon lit up in memory of Mr Lee Kuan Yew last night (27 March, Friday).
 In a special memorial event, more than 15,000 people from all walks of life, from all over Singapore, including Minister K Shanmugam and fellow Nee Soon MPs, paid tribute to our founding father.
  
 They came, they said their thanks, they cried.
+
 Some wore their hearts on their sleeves. Others kept a brave and stoic front. But it was clear that Mr Lee touched the lives of all who came.
  
 Candles were lit to form a picture of our island, with a portrait of Mr Lee in the middle. Each candle signified the gratitude that some found hard to articulate, and their love for a country which they call home.
  
 It was a heartfelt and meaningful event.
+
 Mr Lee fought for his fellow Singaporeans and gave his life so that we could dare to dream and hope for a better future, so that our children could have a better home and a better life.
  
 He may no longer be with us, but his light will continue shining brightly in Singapore.
