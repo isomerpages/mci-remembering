@@ -98,6 +98,7 @@ Find out what Singaporeans of all ages and walks of life have to say as we put t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8I_4dCyaXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ****“Some have made it a family affair to say their final goodbyes.”
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TyM0m6AGG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ****“Hear what the young ones are doing to pay tribute to the late Mr Lee Kuan Yew.”
 
