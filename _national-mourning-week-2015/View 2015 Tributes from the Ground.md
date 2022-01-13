@@ -79,10 +79,9 @@ Companies also took the initiative to create their own tribute sites to honour t
 <td> <img src="/images/tributes-from-the-ground/employ6.jpg" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
 
-4th : 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/employ8.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/photo-7.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/employ8.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/employ3.jpg" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
  
 
