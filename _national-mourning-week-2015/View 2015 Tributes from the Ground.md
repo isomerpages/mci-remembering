@@ -131,8 +131,7 @@ Schools and offices are paying tribute to the late Mr Lee Kuan Yew. From persona
 <td> <img src="/images/tributes-from-the-ground/MMI-Bedok-Resevoir-04.png" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
 
- 
- <table><tbody><tr>
+  <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/MMI-Bedok-Resevoir-03.png" alt="Drawing" style="width: 350px;"> </td>
 <td> <img src="images/tributes-from-the-ground/MMI-Bedok-Resevoir-02.png" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
@@ -169,9 +168,13 @@ Students of Telok Kurau Primary School made paper flowers as a tribute to Mr Lee
 </tr></tbody></table>
 
 Students from Connect And Be Inspired Now (C.A.B.I.N) conducted a mini tribute at Northlight School and Balestier Hill Secondary to express their gratitude for the late Mr Lee Kuan Yew. (Photo: C.A.B.I.N)
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-04.jpg)
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/RI-03.jpg)
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
+
 
 
 Students of Mr Lee Kuan Yew’s alma matter, Raffles Institution, paid tribute to him in an observance ceremony. (Photo: MOE)
