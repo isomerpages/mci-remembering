@@ -324,6 +324,7 @@ A passerby stops to read some of the tributes at a spontaneous tribute site at H
  
 Among the tributes, a small collage of the late Mr Lee Kuan Yew and his wife, the late Mdm Kwa Geok Choo.
  
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/img-3.png)
 A well-wisher thanking the late Mr Lee for his devotion in building up the nation.
  
 A child’s drawing as a tribute to the late Mr Lee Kuan Yew.
