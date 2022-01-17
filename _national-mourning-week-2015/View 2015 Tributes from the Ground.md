@@ -378,6 +378,20 @@ Tributes continued to flow in even during the final moments.
 The week of national mourning saw Singaporeans across all ages and races, and from all walks of life come together to celebrate Mr Lee’s lifetime of achievements, grieve for his passing and relive moments of our history.
 In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As Singaporeans joined our voices to recite the pledge and sing the national anthem, it is clear that we are more determined than ever to safeguard the legacy that he has left behind.
 (Photo Credits: MediaCorp)
+
+//row 1
+
+//ow 2
+
+//rtpw 3
+
+
+//row 4
+
+//row 5
+
+//row 6
+
  
  
 There has been an outpouring of tributes from Singaporeans to Mr Lee Kuan Yew since his passing on 23 March 2015.
