@@ -470,6 +470,8 @@ Candles were lit to form a picture of our island, with a portrait of Mr Lee in t
 It was a heartfelt and meaningful event.
 
 Mr Lee fought for his fellow Singaporeans and gave his life so that we could dare to dream and hope for a better future, so that our children could have a better home and a better life.
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/neesoon4.png)
  
 He may no longer be with us, but his light will continue shining brightly in Singapore.
 
