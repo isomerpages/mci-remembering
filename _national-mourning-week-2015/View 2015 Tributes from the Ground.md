@@ -365,20 +365,6 @@ The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile 
 
 
 
- 
- 
- 
-
-
- 
- 
- 
-
-
- 
- 
- 
-
 
 
 #### A Final Send-off: Crowds Line State Funeral Procession Route
