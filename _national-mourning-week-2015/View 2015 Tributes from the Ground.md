@@ -385,27 +385,18 @@ From young children who drew up beautiful cards expressing their gratitude and a
  
 
 
+ <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/end-10.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-11.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
  
  
  
- 
-
-
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
-
- 
- 
- 
+At the Pasir Ris Punggol Community Tribute Site, one senior who had never had the benefit of a formal education, asked a young volunteer to help her write down her thoughts before she could sign it off. It was a heartfelt tribute to Mr Lee.  Parents encouraged their children to leave words of appreciation, knowing that they would understand the poignancy of Mr Lee’s passing and his immense contributions to Singapore, in time to come.
+ <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/end-10.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-11.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
  
 
 
