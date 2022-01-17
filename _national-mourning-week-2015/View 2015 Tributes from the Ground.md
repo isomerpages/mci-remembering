@@ -320,6 +320,7 @@ Volunteers also distributed water in from of Fullerton Hotel and near UOB Plaza
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/IMG-1.png)
 
 A passerby stops to read some of the tributes at a spontaneous tribute site at High Street Building.
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/IMG-2.png)
  
 Among the tributes, a small collage of the late Mr Lee Kuan Yew and his wife, the late Mdm Kwa Geok Choo.
  
