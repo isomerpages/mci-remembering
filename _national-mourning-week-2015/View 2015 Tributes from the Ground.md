@@ -415,7 +415,7 @@ In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As 
 #### A Nation Mourns
 Singapore’s founding Prime Minister passed away on 23 March 2015. As the nation mourns, an unprecedented number of people turned up to say their final goodbyes personally to Mr Lee as he lies in state at the Parliament House before the funeral procession.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzmhxy1BGaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Religious and Community Groups Salute Mr Lee Kuan Yew
 Church Bells to Toll on Sunday, 29 March 2015
@@ -427,6 +427,8 @@ Paying Tribute to Mr Lee Kuan Yew’s Role in Building a Harmonious Society
 While Mr Lee Kuan Yew was Lying-in-State, religious and community leaders came together to remember Mr Lee Kuan Yew’s legacy in promoting harmony between different races and faiths.
  
 Archbishop William Goh led a 5000-strong Catholic community in a mass at St. Joseph’s Church on Friday to pay tribute to Mr Lee Kuan Yew. Archbishop Goh noted that Mr Lee had a deep respect for people of all faiths and was a staunch advocate of inter-religious dialogue, although he professed himself an agnostic.
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-11.png)
  
 In his Friday sermon at Muhajirin Mosque, Uztaz Irwan Hadi Md Shuhaimy said that Mr Lee Kuan Yew and his team worked hard to develop Singapore into a prosperous country. This was achieved through the harmonious relationship between people of different races, economic development and an excellent education system.
  
