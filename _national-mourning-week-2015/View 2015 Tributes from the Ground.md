@@ -336,9 +336,7 @@ A well-wisher thanking the late Mr Lee for building a strong education system.
 #### Paying Tribute to One Man in Diverse Ways
 The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile has birthed car decals, badges, T-shirt logos, stickers and more. Created by Member of Parliament Alex Yam and his team, the logo was also printed on 1,000 customised balloons, produced by a group of Singaporeans and Singapore Permanent Residents who were brought together by a common sense of grief and a wish to honour the late Mr Lee. The passing of founding Prime Minister Mr Lee Kuan Yew saw a nation coming together to both honour and mourn, in a myriad of manner and form. It would not be possible to put together an exhaustive list of tributes conceptualised and paid; the following are but some of the highlights.
  
- 
- 
-//row 1
+
 
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/end-1.jpg" alt="Drawing" style="width: 250px;"> </td>
@@ -346,19 +344,16 @@ The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile 
 <td> <img src="images/tributes-from-the-ground/end-3.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
-
-//row 2
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/end-4.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/end-5.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/end-6.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-5.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-6.jpg" alt="Drawing" style="width: 350px;"> </td>
 </tr></tbody></table>
 
-//row 3
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
 
