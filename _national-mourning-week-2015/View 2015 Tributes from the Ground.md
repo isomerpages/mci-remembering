@@ -434,10 +434,10 @@ In his Friday sermon at Muhajirin Mosque, Uztaz Irwan Hadi Md Shuhaimy said that
  
 Minister for Communications and Information Dr Yaacob Ibrahim, who was also at the mosque for the Friday prayers, said that Mr Lee was always very concerned about what was happening with the Malay-Muslim community and would always ask “What more can be done?”
 Over 2000 worshippers took part in a prayer session organised by the Singapore Buddhist Federation at the Kong Meng San Phor Kark See Monastery on Thursday.
- 
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Photo-2.png)
  
 Over at the San Qing Gong Temple, the Taoist Federation led more than 300 followers in paying tribute to Mr Lee Kuan Yew. Taoist Federation Chairman, Mr Tan Thiam Lye and the founding Chairman, Master Tan Kok Hian, offered fresh flowers as a mark of respect. A minute’s silence was also observed by those present in memory of Mr Lee.
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Photo-2.png)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-31.png)
  
 More than 2000 representatives from eight community organisations paid tribute to Mr Lee Kuan Yew at the Kallang Theatre on Friday night. Leaders from the Malay, Eurasian, Indian and Chinese communities thanked Mr Lee for uniting Singaporeans while recognising the importance of maintaining one’s heritage. Speaking at the event, DPM Teo Chee Hean said that Mr Lee and his team were determined to build Singapore with multi-racialism as its foundation.
  
