@@ -303,6 +303,12 @@ The National Taxi Association gave out bottle of water to those in line
 
 Japanese restaurant Takumen, along Circular Road offering free iced water to members of public in queue. Its owner, Mr Hiroshi Ichiki is a Singapore Permanent Resident and had spent his childhood in Singapore
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Pic-from-the-ground-2.jpg)
+
+New Shah Alam restaurant offering water and canned drinks to those in the queue
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/Pic-from-the-ground-4.jpg)
+
+Staff from Crazy Elephant placing iced water at a convenient spot for waiting in line
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/Pic-from-the-ground-5.jpg)
  
 #### Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmjjJdqB4o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
