@@ -328,6 +328,7 @@ Among the tributes, a small collage of the late Mr Lee Kuan Yew and his wife, th
 A well-wisher thanking the late Mr Lee for his devotion in building up the nation.
  
 A child’s drawing as a tribute to the late Mr Lee Kuan Yew.
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/img-4.png)
  
 A well-wisher thanking the late Mr Lee for building a strong education system.
 
