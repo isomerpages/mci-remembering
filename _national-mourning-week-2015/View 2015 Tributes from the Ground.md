@@ -351,9 +351,9 @@ The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile 
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 450px;"> </td>
-<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/end-7.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-8.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="images/tributes-from-the-ground/end-9.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
 
