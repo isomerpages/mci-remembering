@@ -277,6 +277,7 @@ Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service 
 #### Acts of Kindness: Community Comes Together in Show of Support
 The community stepped forward to show support with gestures of kindness while thousands turned up on the first day of Lying-in-State to pay their last respects to the late Mr Lee Kuan Yew:
  
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tampines.png)
 (All photos and videos courtesy of MediaCorp)
  
 The National Taxi Association gave out bottle of water to those in line
