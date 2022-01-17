@@ -255,9 +255,9 @@ Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service 
 
 
 <table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/last-10.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="/images/tributes-from-the-ground/last-11.jpg" alt="Drawing" style="width: 450px;"> </td>
-<td> <img src="/images/tributes-from-the-ground/last-12.jpg" alt="Drawing" style="width: 450px;"> </td>
-	<td> <img src="/images/tributes-from-the-ground/last-17.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/last-12.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
 //row 5
