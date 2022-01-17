@@ -454,8 +454,10 @@ At the Pasir Ris Punggol Community Tribute Site, one senior who had never had th
 
  
 As our nation grieves, each and every written tribute bears testimonial to how Mr Lee has touched our lives and built an extraordinary country, a legacy that would be honoured by generations to come.
+
 Nee Soon lit up in memory of Mr Lee Kuan Yew last night (27 March, Friday).
 In a special memorial event, more than 15,000 people from all walks of life, from all over Singapore, including Minister K Shanmugam and fellow Nee Soon MPs, paid tribute to our founding father.
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/neesoon1.png)
  
 They came, they said their thanks, they cried.
 
