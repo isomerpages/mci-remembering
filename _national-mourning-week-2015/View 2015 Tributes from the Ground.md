@@ -274,28 +274,13 @@ Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service 
 
 
 
-#### Acts of Kindness: Community Comes Together in Show of Support
-The community stepped forward to show support with gestures of kindness while thousands turned up on the first day of Lying-in-State to pay their last respects to the late Mr Lee Kuan Yew:
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tampines.png)
-(All photos and videos courtesy of MediaCorp)
- 
-The National Taxi Association gave out bottle of water to those in line
- 
-Japanese restaurant Takumen, along Circular Road offering free iced water to members of public in queue. Its owner, Mr Hiroshi Ichiki is a Singapore Permanent Resident and had spent his childhood in Singapore
- 
-New Shah Alam restaurant offering water and canned drinks to those in the queue
- 
-Staff from Crazy Elephant placing iced water at a convenient spot for waiting in line
- 
-Volunteers also distributed water in from of Fullerton Hotel and near UOB Plaza
-
 
 #### Community sites have been set up around Singapore for members of the public to pay tribute to Mr Lee Kuan Yew
 
 Apart from paying their respects at the Lying-In-State in Parliament House, Singaporeans have also been visiting their local community sites.
 In Tampines, MP Baey Yam Keng and his residents pen tribute messages for Mr Lee, with many leaving behind flowers and cards.
  
+  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tampines.png)
 Staff and volunteers brought seniors from a nearby Home who had requested to pay tribute to Mr Lee to the Nee Soon community tribute site. Many of them were emotional and sat in silence for minutes as they recalled their growing up years and the Singapore we have today.
  
 At the community tribute site in Marine Parade GRC, a man stood apart from the crowd as he observed a moment of silence and mourned the passing of Mr Lee and all that he had contributed to Singapore.
