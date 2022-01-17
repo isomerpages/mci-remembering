@@ -462,6 +462,7 @@ In a special memorial event, more than 15,000 people from all walks of life, fro
 They came, they said their thanks, they cried.
 
 Some wore their hearts on their sleeves. Others kept a brave and stoic front. But it was clear that Mr Lee touched the lives of all who came.
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/neesoon2.png)
  
 Candles were lit to form a picture of our island, with a portrait of Mr Lee in the middle. Each candle signified the gratitude that some found hard to articulate, and their love for a country which they call home.
  
