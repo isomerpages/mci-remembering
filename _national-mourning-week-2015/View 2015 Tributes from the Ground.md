@@ -515,7 +515,9 @@ As a mark of respect to the passing of our nation’s founding father Mr Lee Kua
  
 Tangs and Metro department store outlets islandwide, as well as all Mothercare stores, will not be opening for business tomorrow.
  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/metro_tangs.png)
+ 
 All Singapore Pool branches, authorised retail outlets and Livewire venues will be closed on Sunday. (Photo credit: Singapore Pools)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/sgpools.png)
  
 Ya Kun Kaya Toast Coffeestall would be ceasing operations at most of their outlets between 2pm and 4pm, while the State Funeral Service (SFS) is in progress. Customers can remain in the outlets and view the live streaming of the SFS on their electronic devices.
 
