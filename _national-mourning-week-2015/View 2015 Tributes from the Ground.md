@@ -514,9 +514,10 @@ He may no longer be with us, but his light will continue shining brightly in Sin
 As a mark of respect to the passing of our nation’s founding father Mr Lee Kuan Yew, several businesses will be suspending business operations tomorrow (29 March, Sunday), the day of Mr Lee’s State Funeral. These include:
  
 Tangs and Metro department store outlets islandwide, as well as all Mothercare stores, will not be opening for business tomorrow.
- 
+ ![Alt text for image on Isomer site](/images/tributes-from-the-ground/metro_tangs.png)
 All Singapore Pool branches, authorised retail outlets and Livewire venues will be closed on Sunday. (Photo credit: Singapore Pools)
  
 Ya Kun Kaya Toast Coffeestall would be ceasing operations at most of their outlets between 2pm and 4pm, while the State Funeral Service (SFS) is in progress. Customers can remain in the outlets and view the live streaming of the SFS on their electronic devices.
+
  
 Dancepointe Academy and Kindermusick studio will be cancelling all classes tomorrow, while Real Yoga studio will be closed from 3pm.
