@@ -384,6 +384,7 @@ In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As 
 <td> <img src="/images/tributes-from-the-ground/send-off-1.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="images/tributes-from-the-ground/send-off-2.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="images/tributes-from-the-ground/send-off-3.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="images/tributes-from-the-ground/send-off-5.png" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
 //ow 2
