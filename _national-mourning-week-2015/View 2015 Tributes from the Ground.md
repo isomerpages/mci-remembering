@@ -465,6 +465,7 @@ Some wore their hearts on their sleeves. Others kept a brave and stoic front. Bu
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/neesoon2.png)
  
 Candles were lit to form a picture of our island, with a portrait of Mr Lee in the middle. Each candle signified the gratitude that some found hard to articulate, and their love for a country which they call home.
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/neesoon3.png)
  
 It was a heartfelt and meaningful event.
 
