@@ -380,7 +380,8 @@ In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As 
 (Photo Credits: MediaCorp)
  
  
- 
+There has been an outpouring of tributes from Singaporeans to Mr Lee Kuan Yew since his passing on 23 March 2015.
+From young children who drew up beautiful cards expressing their gratitude and affection for Mr Lee, to adults who left sincere accolades, Singaporeans of all ages and from different walks of life gathered at Community Tribute Sites to pay homage to a respected and beloved leader.
  
 
 
