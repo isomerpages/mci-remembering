@@ -338,6 +338,37 @@ The widely-familiar image of a black ribbon framing Mr Lee Kuan Yew’s profile 
  
  
  
+//row 1
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+
+//row 2
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+//row 3
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+
+//row 4
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/photo-4.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="images/tributes-from-the-ground/photo-5.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
 
 
  
