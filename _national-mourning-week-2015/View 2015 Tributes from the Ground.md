@@ -309,6 +309,8 @@ New Shah Alam restaurant offering water and canned drinks to those in the queue
 
 Staff from Crazy Elephant placing iced water at a convenient spot for waiting in line
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/Pic-from-the-ground-5.jpg)
+Volunteers also distributed water in from of Fullerton Hotel and near UOB Plaza
+
  
 #### Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmjjJdqB4o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
