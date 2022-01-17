@@ -245,7 +245,6 @@ Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service 
 	<td> <img src="/images/tributes-from-the-ground/last-6.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
-//row 3
 
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/last-7.jpg" alt="Drawing" style="width: 450px;"> </td>
@@ -440,6 +439,7 @@ Over at the San Qing Gong Temple, the Taoist Federation led more than 300 follow
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-31.png)
  
 More than 2000 representatives from eight community organisations paid tribute to Mr Lee Kuan Yew at the Kallang Theatre on Friday night. Leaders from the Malay, Eurasian, Indian and Chinese communities thanked Mr Lee for uniting Singaporeans while recognising the importance of maintaining one’s heritage. Speaking at the event, DPM Teo Chee Hean said that Mr Lee and his team were determined to build Singapore with multi-racialism as its foundation.
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/photo-41.png)
  
 There has been an outpouring of tributes from Singaporeans to Mr Lee Kuan Yew since his passing on 23 March 2015.
 From young children who drew up beautiful cards expressing their gratitude and affection for Mr Lee, to adults who left sincere accolades, Singaporeans of all ages and from different walks of life gathered at Community Tribute Sites to pay homage to a respected and beloved leader.
