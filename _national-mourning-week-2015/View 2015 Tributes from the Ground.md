@@ -316,8 +316,10 @@ Volunteers also distributed water in from of Fullerton Hotel and near UOB Plaza
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmjjJdqB4o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### The High Street Building became a spontaneous tribute site for Singaporeans and well-wishers to share their thoughts and express their gratitude to the late Mr Lee Kuan Yew.
- 
- A passerby stops to read some of the tributes at a spontaneous tribute site at High Street Building.
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/IMG-1.png)
+
+A passerby stops to read some of the tributes at a spontaneous tribute site at High Street Building.
  
 Among the tributes, a small collage of the late Mr Lee Kuan Yew and his wife, the late Mdm Kwa Geok Choo.
  
