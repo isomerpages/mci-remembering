@@ -516,15 +516,17 @@ As a mark of respect to the passing of our nation’s founding father Mr Lee Kua
 Tangs and Metro department store outlets islandwide, as well as all Mothercare stores, will not be opening for business tomorrow.
  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/metro_tangs.png)
  
-All Singapore Pool branches, authorised retail outlets and Livewire venues will be closed on Sunday. (Photo credit: Singapore Pools)
+
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/sgpools.png)
+ All Singapore Pool branches, authorised retail outlets and Livewire venues will be closed on Sunday. (Photo credit: Singapore Pools)
  
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/yakun.png)
 Ya Kun Kaya Toast Coffeestall would be ceasing operations at most of their outlets between 2pm and 4pm, while the State Funeral Service (SFS) is in progress. Customers can remain in the outlets and view the live streaming of the SFS on their electronic devices.
 
- 
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/studios.png) 
 Dancepointe Academy and Kindermusick studio will be cancelling all classes tomorrow, while Real Yoga studio will be closed from 3pm.
-
-
 
 ![Alt text for image on Isomer site](/images/tributes-from-the-ground/casino.png)
 The casinos of Resorts World Sentosa (RWS) and Marina Bay Sands (MBS) will be closed from 2pm to 6pm on Sunday. MBS is also cancelling its light and water show for a week, while RWS will be cancelling its nightly shows – Crane Dance and Lake of Dreams – from 23 to 31 March.
