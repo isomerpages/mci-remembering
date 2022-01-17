@@ -283,10 +283,11 @@ In Tampines, MP Baey Yam Keng and his residents pen tribute messages for Mr Lee,
   ![Alt text for image on Isomer site](/images/tributes-from-the-ground/tampines.png)
 	
 Staff and volunteers brought seniors from a nearby Home who had requested to pay tribute to Mr Lee to the Nee Soon community tribute site. Many of them were emotional and sat in silence for minutes as they recalled their growing up years and the Singapore we have today.
- 
- ![Alt text for image on Isomer site](/images/tributes-from-the-ground/marineparade.png)
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/nee-soon.png)
 At the community tribute site in Marine Parade GRC, a man stood apart from the crowd as he observed a moment of silence and mourned the passing of Mr Lee and all that he had contributed to Singapore.
  
+  ![Alt text for image on Isomer site](/images/tributes-from-the-ground/marineparade.png)
+	
 At the community tribute site in Nee Soon, PCF and local kindergartens came to pay their final respects. Parliamentary Secretary Muhammad Faishal Ibrahim led them in a minute of silence.
  
 #### Emotions ran high as Singaporeans paid their final respects to the late Mr Lee Kuan Yew at the Parliament House
