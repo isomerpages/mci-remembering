@@ -379,7 +379,6 @@ The week of national mourning saw Singaporeans across all ages and races, and fr
 In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As Singaporeans joined our voices to recite the pledge and sing the national anthem, it is clear that we are more determined than ever to safeguard the legacy that he has left behind.
 (Photo Credits: MediaCorp)
 
-//row 1
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/send-off-1.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="images/tributes-from-the-ground/send-off-2.jpg" alt="Drawing" style="width: 450px;"> </td>
@@ -387,7 +386,6 @@ In his passing, Mr Lee Kuan Yew once again united the nation as only he can. As 
 <td> <img src="images/tributes-from-the-ground/send-off-5.png" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
-//ow 2
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-the-ground/send-off-4.png" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="images/tributes-from-the-ground/send-off-6.jpg" alt="Drawing" style="width: 350px;"> </td>
