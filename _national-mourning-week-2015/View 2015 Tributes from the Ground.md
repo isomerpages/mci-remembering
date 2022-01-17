@@ -386,8 +386,8 @@ From young children who drew up beautiful cards expressing their gratitude and a
 
 
  <table><tbody><tr>
-<td> <img src="/images/tributes-from-the-ground/end-10.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="images/tributes-from-the-ground/end-11.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/malay-1.jpg" alt="Drawing" style="width: 150px;"> </td>
+<td> <img src="images/tributes-from-the-ground/malay-2.jpg" alt="Drawing" style="width: 150px;"> </td>
 </tr></tbody></table>
  
  
