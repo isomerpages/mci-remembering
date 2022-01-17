@@ -523,3 +523,8 @@ Ya Kun Kaya Toast Coffeestall would be ceasing operations at most of their outle
 
  
 Dancepointe Academy and Kindermusick studio will be cancelling all classes tomorrow, while Real Yoga studio will be closed from 3pm.
+
+
+
+![Alt text for image on Isomer site](/images/tributes-from-the-ground/casino.png)
+The casinos of Resorts World Sentosa (RWS) and Marina Bay Sands (MBS) will be closed from 2pm to 6pm on Sunday. MBS is also cancelling its light and water show for a week, while RWS will be cancelling its nightly shows – Crane Dance and Lake of Dreams – from 23 to 31 March.
