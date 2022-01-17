@@ -230,8 +230,52 @@ Singapore bade a final farewell to Mr Lee Kuan Yew at the State Funeral Service 
  
  
  
+//row 1
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
 
 
+//row 2
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
+
+//row 3
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
+
+//row 4
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
+
+//row 5
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+	<td> <img src="/images/tributes-from-the-ground/RI-03.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
+
+//row 6 
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-the-ground/RI-02.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/tributes-from-the-ground/RI-04.jpg" alt="Drawing" style="width: 450px;"> </td>
+</tr></tbody></table>
  
  
  
