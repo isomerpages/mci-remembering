@@ -34,3 +34,10 @@ description: ""
 <td> <img src="/images/photographs/KEN_0278r.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+<table><tbody><tr>
+<td> <img src="/images/photographs//KEN_0290r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0192r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0278r.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
