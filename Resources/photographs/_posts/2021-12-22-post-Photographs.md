@@ -5,6 +5,7 @@ date: 2021-12-22
 layout: post
 description: ""
 ---
+
 <table><tbody><tr>
 <td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/NG__1859.jpg" alt="Drawing" style="width: 250px;"> </td>
@@ -60,6 +61,6 @@ description: ""
 <td> <img src="/images/photographs//KEN_7823.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_8374.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/GOH_8283.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/NG__0402.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
