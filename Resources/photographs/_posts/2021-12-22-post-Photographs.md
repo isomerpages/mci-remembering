@@ -103,6 +103,7 @@ description: ""
 <table><tbody><tr>
 <td> <img src="/images/photographs//sps10.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/sps11.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/sps1-copy.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/sps1-Copy.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/lying6.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
