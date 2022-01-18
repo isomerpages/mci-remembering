@@ -143,7 +143,7 @@ description: ""
 <td> <img src="/images/photographs/TTAN9647.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/TTAN9613.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/TTAN9601.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/TTAN9585.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/TTAN9585.jpg" alt="Drawing" style="width: 150px;"> </td>
 </tr></tbody></table>
 
 <table><tbody><tr>
