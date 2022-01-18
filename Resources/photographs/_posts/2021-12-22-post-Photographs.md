@@ -87,8 +87,8 @@ description: ""
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/photographs//sps21.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/sps22.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/sps23.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/sps20.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs//sps2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/sps19.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/sps18.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/sps17.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
