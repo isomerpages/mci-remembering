@@ -63,10 +63,11 @@ description: ""
 	<td> <img src="/images/photographs/NG__0402.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
+
 <table><tbody><tr>
 <td> <img src="/images/photographs/sps7.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/sps9.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/GOH_8283.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/NG__0402.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/sps6.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/sps4.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
