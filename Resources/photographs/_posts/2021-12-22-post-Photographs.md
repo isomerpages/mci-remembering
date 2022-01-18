@@ -43,8 +43,15 @@ description: ""
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/photographs//KEN_0290r.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/KEN_0192r.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/KEN_0243r.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/KEN_0235r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs//KEN_0147_r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0153r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0186r.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/KEN_0312r.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+<table><tbody><tr>
+<td> <img src="/images/photographs//KEN_0312r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0336r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/KEN_0340r.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/KEN_0312r.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
