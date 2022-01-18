@@ -59,6 +59,6 @@ description: ""
 <table><tbody><tr>
 <td> <img src="/images/photographs//KEN_7823.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_8874.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/KEN_0340r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/GOH_8283.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
