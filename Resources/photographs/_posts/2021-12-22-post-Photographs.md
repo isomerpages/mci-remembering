@@ -53,5 +53,5 @@ description: ""
 <td> <img src="/images/photographs//KEN_0312r.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_0336r.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_0340r.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/KEN_0312r.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/KEN_7731.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
