@@ -242,5 +242,5 @@ description: ""
 <td> <img src="/images/photographs/20150323_MCI_img003_PM_addreses_nationR.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20150323_MCI_img002_PM_addreses_nation.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20150323_MCI_img001_PM_addreses_nation.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Batch5_TTTL8831.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/201404image1.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
