@@ -291,8 +291,8 @@ description: ""
 
 
 <table><tbody><tr>
-<td> <img src="/images/photographs/Batch-4_NG__0889.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Batch-4_NG__0860.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Batch-4_NG__0815.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Batch-4_NG__0843.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Andrea-Ling-Min-SCGS-1.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Andrea-Ling-Min-SCGS-2.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Andrea-Ling-Min-SCGS-3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/27032015-1337-NG__3669.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
