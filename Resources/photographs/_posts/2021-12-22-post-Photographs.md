@@ -277,7 +277,7 @@ description: ""
 <td> <img src="/images/photographs/Batch-4_NG__0889.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/Batch-4_NG__0860.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/Batch-4_NG__0815.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/Batch-4_NG__0843.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0843.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 
@@ -286,4 +286,13 @@ description: ""
 <td> <img src="/images/photographs/Batch-4_NG__0852.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/Batch-4_GOH_7954.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/Anthony-Lam-Art-Director.png" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/Batch-4_NG__0889.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0860.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0815.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0843.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
