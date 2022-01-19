@@ -217,5 +217,5 @@ description: ""
 <td> <img src="/images/photographs/KEN_8423.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_8418.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/KEN_8388.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/TTTL9312.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/KEN_8374.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
