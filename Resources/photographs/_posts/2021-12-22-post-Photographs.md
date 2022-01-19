@@ -143,7 +143,7 @@ description: ""
 <td> <img src="/images/photographs/TTAN9647.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/TTAN9613.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/TTAN9601.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/TTAN9585.jpg" alt="Drawing" style="width: 150px;"> </td>
+	<td> <img src="/images/photographs/PA_250315_BotanicGardens_1_Former-Commissioner-of-Parks-and-Recreation-Department-Dr-Chua-Sian-Eng.jpg" alt="Drawing" style="width: 150px;"> </td>
 </tr></tbody></table>
 
 <table><tbody><tr>
@@ -159,4 +159,3 @@ description: ""
 <td> <img src="/images/photographs/PA_250315_CCK_71.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/PA_250315_CCK_13.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
-
