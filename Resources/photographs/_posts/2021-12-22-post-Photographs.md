@@ -184,57 +184,11 @@ description: ""
 <td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2329.jpg"> </td>
 </tr></tbody></table>
 
+
+
 <table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2326.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2326.jpg">  </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2319.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2199.jpg"> </td>
-<td> <img style="width: 250px;" src="/images/photographs/MP4_6561.jpg” alt="> 
-</td>
-</tr></tbody></table>
-
-<table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/MP3_2445.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/MP3_2413.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/MP3_2406.jpg"> </td>
-<td> <img style="width: 250px;" src="/images/photographs/Li-Jia-Bao.png” alt="> 
-</td>
-</tr></tbody></table>
-
-<table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Lachelle-Loh-Ning-Xuan-2.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Lachelle-Loh-Ning-Xuan-1.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/KEN_8451.jpg"> </td>
-<td> <img style="width: 250px;" src="/images/photographs/KEN_8440.jpg” alt=">
-</td>
-</tr></tbody></table>
-
-
-
-<table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/KEN_8423.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/KEN_8418.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/KEN_8388.jpg"> </td>
-<td> <img style="width: 250px;" src="/images/photographs/KEN_8374.jpg” alt="> </td>
-</tr></tbody></table>
-
-
-<table><tbody><tr>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Jeffrey-Ng.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Jaclyn-Wong.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/GOH_8172.jpg"> </td>
-</tr></tbody></table>
-
-<table><tbody><tr>
-<td> <img style="src="> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/GOH_8099.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/GOH_7851r.jpg"> </td>
-</tr></tbody></table>
-
-
-
-<table><tbody><tr>
-<td> <img style="src="> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Davilia-and-Jaymus.jpg"> </td>
-<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/Ben-Puah.png"> </td>
-<td> <img style="width: 250px;" src="/images/photographs/Batch5_TTTL8831.jpg">  </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/PA250315BishanTPToaPayohCentralCC10amStaffofKwongWaiShiuHospitalKWSHpaytheirrespectsatToaPayohCentra.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/photographs/NG__2329.jpg"> </td>
 </tr></tbody></table>
