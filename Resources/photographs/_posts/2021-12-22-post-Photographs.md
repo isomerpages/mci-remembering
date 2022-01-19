@@ -270,3 +270,12 @@ description: ""
 <td> <img src="/images/photographs/20152603MCI_img0011.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/20152603MCI_img0012.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/Batch-4_NG__0889.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0860.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch-4_NG__0815.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/Batch-4_NG__0843.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
