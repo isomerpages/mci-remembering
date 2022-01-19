@@ -251,7 +251,14 @@ description: ""
 <td> <img src="/images/photographs/20150327222202.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20152603MCI_img0002.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20152603MCI_img0003.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/
-20152603MCI_img0004.jpg
-" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/20152603MCI_img0004.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/20152603MCI_img0005.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0006.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0007.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/20152603MCI_img0008.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
