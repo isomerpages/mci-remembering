@@ -304,3 +304,12 @@ description: ""
 <td> <img src="/images/photographs/27032015-1330-KEN_0291.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/27032015-1330-KEN_0301.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/27032015-1330-KEN_0314.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/27032015-1330-KEN_0261.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/27032015-1330-KEN_0241.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/27032015-1330-KEN_0232.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
