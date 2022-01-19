@@ -251,5 +251,7 @@ description: ""
 <td> <img src="/images/photographs/20150327222202.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20152603MCI_img0002.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/20152603MCI_img0003.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/Batch5_TTTL8831.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/
+20152603MCI_img0004.jpg
+" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
