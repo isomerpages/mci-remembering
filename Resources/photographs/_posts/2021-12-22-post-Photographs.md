@@ -165,6 +165,6 @@ description: ""
 <table><tbody><tr>
 <td> <img src="/images/photographs/PA_240315_Tampines_6.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/PA_240315_Sengkang_1.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/PA_250315_CCK_71.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/PA_240315_PAHQ_1.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/PA_250315_CCK_13.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
