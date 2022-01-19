@@ -168,3 +168,12 @@ description: ""
 <td> <img src="/images/photographs/PA_240315_East-Coast_1059_A-resident-grieves-Mr-Lee.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/PA_240315_East-Coast_1050_Residents-penning-their-thoughts-and-condolences.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/PA_240315_East-Coast_1042_Residents-paying-their-respect.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/PA_240315_East-Coast_1015_Parents-brought-their-children-to-honour-Mr-Lee.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/PA_240315_CCK_9.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/PA_240315_CCK_4.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+	
