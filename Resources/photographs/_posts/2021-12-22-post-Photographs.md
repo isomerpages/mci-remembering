@@ -318,5 +318,5 @@ description: ""
 <td> <img src="/images/photographs/27032015-1330-KEN_0314.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/27032015-1337-NG__3718.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/27032015-1337-NG__3630.jpg"alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/27032015-1330-NG__3625.jpg" alt="Drawing" style="width: 250px;"> </td>
-</tr></tbody></table>
+<td> 
+	<img src="/images/ph
