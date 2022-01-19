@@ -166,5 +166,5 @@ description: ""
 <td> <img src="/images/photographs/PA_240315_Tampines_6.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/PA_240315_Sengkang_1.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/PA_240315_East-Coast_1059_A-resident-grieves-Mr-Lee.jpg" alt="Drawing" style="width: 250px;"> </td>
-	<td> <img src="/images/photographs/PA_250315_CCK_13.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/PA_240315_East-Coast_1050_Residents-penning-their-thoughts-and-condolences.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
