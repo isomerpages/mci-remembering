@@ -249,8 +249,7 @@ description: ""
 
 <table><tbody><tr>
 <td> <img src="/images/photographs/20150327222202.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Davilia-and-Jaymus.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/photographs/Ben-Puah.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0002.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0003.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/Batch5_TTTL8831.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
-
