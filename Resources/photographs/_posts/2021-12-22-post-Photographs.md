@@ -262,3 +262,11 @@ description: ""
 <td> <img src="/images/photographs/20152603MCI_img0007.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/20152603MCI_img0008.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
+
+
+<table><tbody><tr>
+<td> <img src="/images/photographs/20152603MCI_img0009.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0010.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/20152603MCI_img0011.jpg" alt="Drawing" style="width: 250px;"> </td>
+	<td> <img src="/images/photographs/20152603MCI_img0012.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
