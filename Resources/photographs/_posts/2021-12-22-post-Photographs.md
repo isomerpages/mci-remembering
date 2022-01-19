@@ -234,4 +234,13 @@ description: ""
 <td> <img src="/images/photographs/Davilia-and-Jaymus.jpg" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/photographs/Ben-Puah.png" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/Batch5_TTTL8831.jpg" alt="Drawing" style="width: 250px;"> </td>
-</tr></tbody></table
+</tr></tbody></table>
+	
+	
+	
+<table><tbody><tr>
+<td> <img src="/images/photographs/GOH_7851r.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Davilia-and-Jaymus.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Ben-Puah.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/photographs/Batch5_TTTL8831.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
