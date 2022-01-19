@@ -168,5 +168,3 @@ description: ""
 <td> <img src="/images/photographs/PA_250315_CCK_71.jpg" alt="Drawing" style="width: 250px;"> </td>
 	<td> <img src="/images/photographs/PA_250315_CCK_13.jpg" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
-
-
