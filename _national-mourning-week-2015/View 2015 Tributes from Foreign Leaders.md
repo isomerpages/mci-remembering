@@ -309,6 +309,7 @@ He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gop
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi2.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi3.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi4.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi5.jfif"> </td>	<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi6.jfif"> </td>
 	
 </tr></tbody></table>
 
