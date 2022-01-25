@@ -233,7 +233,7 @@ Speaking to reporters outside Parliament House after the visit, Mr Najib said th
 
 “I’d like to thank him for strengthening bilateral ties between Malaysia and Singapore.”
 
-See his video[here](https://www.facebook.com/ChannelNewsAsia/videos/859038370785508/)
+See his video [here](https://www.facebook.com/ChannelNewsAsia/videos/859038370785508/)
 
 
 <table><tbody><tr>
