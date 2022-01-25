@@ -12,18 +12,18 @@ In his letter, Minh described Lee Kuan Yew as “a great statesman who had built
 For three decades, Lee Kuan Yew dedicated his life to the success of his country and is widely recognised as the architect of Singapore’s transformation from a small port town 50 years ago to one of the world’s wealthiest countries. Secretary-General Minh noted that the late Prime Minister “has left a lasting legacy not only for Singapore but also for ASEAN and he will be greatly missed.”
 
 <table><tbody><tr>
-<td> <img src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/ASEAN%20SecretaryGeneralLe%20Luong%20Minh1.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh2.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg"> </td>
 </tr></tbody></table>
 
 #### Cambodian dignitaries signing the condolence book at the Singapore Embassy in Phnom Penh
 <table><tbody><tr>
-<td> <img src="/images/Cambodian%20dignitaries1.png" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/Cambodian%20dignitaries2.jpg" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/Cambodian%20dignitaries3.jpg" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/Cambodian%20dignitaries4.jpg" alt="Drawing" style="width: 350px;"> </td>
-<td> <img src="/images/Cambodian%20dignitaries5.jpg" alt="Drawing" style="width: 350px;"> </td>
+<td> <img style="width: 350px;" alt="Drawing" src="/images/Cambodian%20dignitaries1.png"> </td>
+<td> <img style="width: 350px;" alt="Drawing" src="/images/Cambodian%20dignitaries2.jpg"> </td>
+<td> <img style="width: 350px;" alt="Drawing" src="/images/Cambodian%20dignitaries3.jpg"> </td>
+<td> <img style="width: 350px;" alt="Drawing" src="/images/Cambodian%20dignitaries4.jpg"> </td>
+<td> <img style="width: 350px;" alt="Drawing" src="/images/Cambodian%20dignitaries5.jpg"> </td>
 </tr></tbody></table>
 
 
@@ -40,7 +40,7 @@ General (Retired) Ryamizard likened his discussions with Mr Lee to those between
 
 
 #### EU Ambassador to Singapore, Dr Michael Pulch
-p>I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
+p&gt;I wish to express my heartfelt sympathy to his family and the people of Singapore for the passing away of Mr Lee Kuan Yew.
 
 He was an inspiring statesman whose vision of an independent and prosperous Singapore became the foundation of its lasting success.
 
@@ -64,18 +64,18 @@ Amb Ismail Mobarak Former Assistant Foreign Minister for European Affairs and Ch
 eygpt2
 
 <table><tbody><tr>
-<td> <img src="/images/Amb%20Ismail%20Mobarak.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Amb%20Ismail%20Mobarak.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Tribute%20from%20Amb%20Ismail%20Mobarak.jpg"> </td>
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/HE%20Berik%20Aryan%20Ambassador%20of%20the%20Republic%20of%20Kazakhstan.jpg" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/HE%20Archol%20Dzuliashvili%20Ambassador%20of%20Georgia.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/HE%20Berik%20Aryan%20Ambassador%20of%20the%20Republic%20of%20Kazakhstan.jpg"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/HE%20Archol%20Dzuliashvili%20Ambassador%20of%20Georgia.png"> </td>
 </tr></tbody></table>
 
 <table><tbody><tr>
-<td> <img src="/images/HE%20Cornet%20Alecse%20Ambassador%20%20of%20Romania.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/HE%20Geiman%20Espinoza%20Ambassador%20of%20the%20Republic%20of%20Ecuador.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/HE%20Cornet%20Alecse%20Ambassador%20%20of%20Romania.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/HE%20Geiman%20Espinoza%20Ambassador%20of%20the%20Republic%20of%20Ecuador.png"> </td>
 </tr></tbody></table>
 
 
@@ -140,11 +140,12 @@ With deepest sympathies
 Dato’ Haji Ismail bin Karim
 
 #### Key dignitaries signing the condolence book at the Singapore Mission in Tokyo
-<p>
-  <img width="30"  src="/images/Chief%20of%20Staff%20Katsutoshi%20Kawano.png">
-	<img width="30" src="/images/State%20Minister%20of%20Cabinet%20Office%20Yasutoshi%20Nishimura.png"> 
-  <img width="30" src="/images/Secretary-General%20Liberal%20Democratic%20Party%20Sadakazu%20Tanigaki.png">
-</p>
+
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Chief%20of%20Staff%20Katsutoshi%20Kawano.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/State%20Minister%20of%20Cabinet%20Office%20Yasutoshi%20Nishimura.png"> </td>
+<td> <img style="width:250px;" alt="Drawing" src="/images/Secretary-General%20Liberal%20Democratic%20Party%20Sadakazu%20Tanigaki.png">
+</td></tr></tbody></table>
 
 #### Liberia President, Ellen Johnson Sirleaf
 President Sirleaf has sent a condolence message to the Government and People of the Republic of Singapore following the death of its former Prime Minister Lee Kuan Yew.In her message to His Excellency Dr. Tony Tan Keng Yam, President of the Republic of Singapore, President Sirleaf extended heartfelt condolences to the Government and People of Singapore, especially the bereaved family for the irreparable loss sustained on behalf of the Government and People of Liberia.
@@ -153,7 +154,7 @@ President Sirleaf added that former Prime Minister Lee Kuan Yew will be remember
 
 #### New Zealand DPM and MPs paid special tributes to Mr Lee Kuan Yew during a parliamentary session
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TouD4zCTjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TouD4zCTjH0" height="315" width="560"></iframe>
 
 #### New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
 Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. .
@@ -237,11 +238,11 @@ See his video [here](https://www.facebook.com/ChannelNewsAsia/videos/85903837078
 
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-foreign-leaders/razak1.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/razak2.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/Najib%20Razak3.png" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/razak4.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/Najib%20Razak6.png" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/razak1.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/razak2.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/Najib%20Razak3.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/razak4.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/Najib%20Razak6.png"> </td>
 </tr></tbody></table>
 
 
@@ -269,8 +270,8 @@ In a separate message to Prime Minister Lee:
 Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision will guide Singapore and all of us toward a better and brighter future for all.”
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-foreign-leaders/bankimoon1.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/bankimoon2.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/bankimoon1.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/bankimoon2.jfif"> </td>
 </tr></tbody></table>
 
 
@@ -285,8 +286,8 @@ He was the statesman, the legend and my true friend Without him, we don’t have
 
 
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-foreign-leaders/thai1.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/thai2.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/thai1.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/thai2.jfif"> </td>
 </tr></tbody></table>
 
 #### Sultan of Perak, Sultan Nazrin Muizzuddin Shah
