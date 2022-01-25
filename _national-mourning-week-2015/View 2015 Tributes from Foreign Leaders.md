@@ -1079,4 +1079,4 @@ I belong to the generation that got to enjoy the luxury of everything that you d
 
 Writing this is the only thing that I can do to show how much I really appreciate as a Singaporean. There is nothing that we can do to be worth comparing to everything that you’ve given up for us. It is not even comparable to 0.01% of what you did for us. We’re eternally grateful and we’ll never be able to repay what you’ve done. It is only apt that we follow your values, pass it on and keep Singapore going. Because that’s the only thing that we can do and we’ll still be indebted to you.
 
-There’re still so much more I needed to learn about Singapore’s history. I never had been through what my 
+There’re still so much more I needed to learn about Singapore’s history. I never had been through what my
