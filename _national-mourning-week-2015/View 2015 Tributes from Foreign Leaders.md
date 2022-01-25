@@ -268,6 +268,14 @@ In a separate message to Prime Minister Lee:
 #### Secretary-General of the United Nations, Ban Ki-Moon
 Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision will guide Singapore and all of us toward a better and brighter future for all.”
 
+
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-foreign-leaders/razak1.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-foreign-leaders/razak2.jfif" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
+
+
 #### The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. In this image, the Secretary General makes a statement to the press. Photo from the United Nations Department of Public Information (DPI).
 The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. Pictured with the Secretary General is the Permanent Representative of Singapore to the UN, Ambassador Karen Tan. Photo from the United Nations Department of Public Information (DPI).
 
