@@ -337,45 +337,7 @@ In your passing, I give thanks to you and your team for laying the foundation of
 
 In education, many have been uplifted out of poverty. Education is key to the thinking man. Without the capacity to read and learn, a man is doomed to ignorance. The key to controlling a population is depriving them of education, but you have done the opposite. You have given the populace the key to free themselves, opening up for many to have good jobs and exploring the world. The critics of today is also a product of this education. Without education, many would never even learn to question.
 
-In housing, the modest HDB flat is testimony of good public housing. Many have benefited from a roof over the head, electricity, sanitation and clean water. Many of us take these comforts for granted, failing to acknowledge that these are the results of good governance.
-
-No critic can take away the fact that Singapore is what it is today because of you and your team. You have made Singapore bigger than what it seems.
-
-Thank you, Mr Lee, and may the republic lives on.
-
-Lor
-
-“ Dear Sir,
-
-
-We are really thankful to you for what you have done for this country. We are enjoying the fruits of your hard work. Your life will always remain inspiration for generations to come.
-We will progress and preserve what you have given to us.
-
-Thanks from bottom of our heart. Rest in peace. You will always remain in our hearts.
-Medha
-
-Dearest Mr Lee,
-
-
-Thank you for the numerous contributions and decisions which made Singapore leaped from a 3rd world country to a 1st world country. During this week of mourning, TV has been showing the past Mr Lee Kuan Yew success, it 
-
-I was overwhelmed with emotions and unspeakable gratitude towards you, as I walked with thousands of grieving citizens to pay our final respects. I was born in during the period of time when the Mass Rapid Transit project was built, according to my mother. Even though I was not in the era when there was social turbulence, unrest and the implementation of contentious policies, and how things slowly settled down, I was able to witness how the town I am living in, slowly rose into a busy urban site from bare empty grass lands.
-
-Sir, you have spent the entire life, crafting this powerful nation, and upon your passing, brought all Singaporeans closer together. A visionary statesman you are, with powerful instinct, foresight, impeccable ideals and planning, intelligence and wisdom, leading Singapore to the state she is now, and your sacrifices enabled all of us to enjoy the fruits of your labour.
-
-Countless of “”Thank you”” will never be enough to express our gratitude towards what you have done. May Singapore continue to strive, together with us, Singaporeans. Have a rest well deserved, Sir. Rest in peace. We will continue to do you proud.
-Aerieath Seng
-
-I am truly blessed and proud to be a Singaporean.
-As a youth, I’d only appreciated being a Singaporean as much as my cognition takes me. My pride as a Singaporean was derived from the text in Civics Education. My pride was cognitive.
-
-
-As a working adult and having worked overseas, appreciation and pride grew from cognition to affection. The appreciation of what I used to take for granted, the law and order, the stability, the development and foresight of our leaders. The praises my foreign friends and associates sing of Singapore elevated my pride. My pride was affective.
-
-As a Singaporean, this week, with the passing of Mr Lee Kuan Yew, the term ‘Singaporean’ took on a different meaning. What we are known for : disciplined, hardworking, uncorrupt, etc, were not incidental. These traits were the results of well-planned and thoroughly thought through policies.
-
-This week, Singaporeans showed togetherness, appreciation, gratitude, respect, civic-mindedness.
-My pride as a Singaporean was emotive.
+In housing, the modest HDB flat is testim
 
 As an educator, I will strive impart values to nurture good and useful citizens, to inculate the national identity, to carry on the legacy and to continue to make Singapore a better home. My purpose is clear.
 
@@ -414,36 +376,7 @@ Thank you very much for all these, I am deeply grateful.
 
 You left. I wet my eyes almost everyday. We no longer can see you LIVE on TV. We lost our precious Great man. No word can express the pain deep in me for losing you, our Singapore Father, Mr Lee KY.
 
-Please take a higher rebirth, Mr Lee.
-Amituofo
-Ang Ping Ping
-
-Dear Mr Lee Kuan Yew,
-
-
-Thank you so much for building this home for us known as Singapore. Without your limitless love, effort and even spending your whole life building it, we won’t be able to live and stay peacefully in such prosperous country and built our lovely home. No matter where I go or where I am, it always made me proud being born and raised as a Singaporean.
-
-Thank you always, as you took great care to all of us liked your children and paved road for us to walk on comfortably. There were too many things to thank you about and too many things that you had delivered to us making what we are today.
-
-We will always remember you in our hearts and love this Singapore which you had spent your whole life building for us. Rest in peace, Mr Lee.
-With love and gratitude, Ray Wong & family, 28 March’15
-
-No words can describe and no actions can express my gratitude towards you. Thank you for being a respectable and loving father to all of us Singaporeans. You have contributed a lot and dedicate your life in building Singapore from a mudflat to a metropolis. Your struggles and relentless efforts is what made us who we are today. Your willingness and unconditional love for Singapore has made us one of the most successful countries, transforming us to a first-world country from a third-world country.
-
-
-Your vision and foresight transformed Singapore to a global metropolis , therefore I feel blessed to be a Singaporean, blessed to be a part of a country full of prosperity, peace and harmony. This is why I’m always proud to call Singapore my home, a place of comfort and joy. No other place in the world can make me feel safer.
-
-Your courage and strong determination always inspires me. There was always an answer to a solution when it comes to you. No matter how daunting the task is, it never seem impossible due to your persistence and hard will. You may be gone however, your memories and laurels lives on. And Singapore is a living proof. You are a fair, righteous, selfless leader, an examplary model for many world leaders.
-
-You will be dearly missed not only by me and my fellow Singaporeans but also by everyone around the world who recognizes you as a visionary and great leader. Your legacy will live on for generations to come.
-Namirah Sumardi
-
-It is 4.30am Thursday 26 March 2015 as I am penning this down. This is my personal tribute to Mr. Lee Kuan Yew who passed away peacefully on March 23 2015. I have always told my wife, why does anyone pen down a tribute – who reads it anyway! But here I am writing this, with the hope that in another 50 years time, if I am lucky, I get to re-read this note on how I am feeling during this period of national mourning.
-
-
-Together with my wife and sister-in-laws, we have just paid our respects to Mr. Lee in Parliament House. The mood as we entered the hall was somber. I was nervous, as I didn’t know what sort of emotions would come over me. A big picture of his was in-front of the casket. I moved along the line, stopped and bowed three times. I was straining my neck to try to catch a glimpse of him at peace. I was half hoping that he would get up and start scolding us – “Why are you wasting time queuing? You don’t have to work tomorrow??!!!” My imagination was punctured by a quiet but fast sobbing of an elderly woman who had to be consoled by her daughter. Despite the men in green trying to move the line out as quickly as possible, I slowed down my pace and tried to linger as long as I could near the casket. This was my only and last chance to be close to a great leader and gladiator of Singapore.
-
-I was probably too young to see or understand the changes that Mr. Lee made to Singapore from the late 1950s. I never lived through the Japanese occupation, the uncertain times when the British pulled out of Singapore, the threat of the communist insurgents or the racial and student riots. I don’t know what it is like to live in slumps or the joy of moving to high-rise flats from these slumps. I have never experienced water rationing or the uncertainty of mass unemployment. Hence I must admit, my feeling of sadness is not at the same level as that of my Father and our Pioneer Generation when the news of Mr. Lee’s passing broke on the wee hours of Monday morning. However, I greatly admire and respect Mr. Lee for his values, passion, single-mindedness, intellect and resolve. As with most Singaporeans, I am grateful to Mr. Lee for dedicating his life to Singapore, without which I am not sure we can enjoy the kind of life that we have right now.
+Please take a higher rebirth, Mr Lee.the joy of moving to high-rise flats from these slumps. I have never experienced water rationing or the uncertainty of mass unemployment. Hence I must admit, my feeling of sadness is not at the same level as that of my Father and our Pioneer Generation when the news of Mr. Lee’s passing broke on the wee hours of Monday morning. However, I greatly admire and respect Mr. Lee for his values, passion, single-mindedness, intellect and resolve. As with most Singaporeans, I am grateful to Mr. Lee for dedicating his life to Singapore, without which I am not sure we can enjoy the kind of life that we have right now.
 Mr. Lee’s values of hard work, integrity, perseverance, and resilience are even more relevant now in this increasingly uncertain world. Many may not have agreed with his knuckle buster and tough love approach to nation building, but it is something befitting of for that period of time. How Mr. Lee came out of his moment of anguish with greater resolve and then went on to achieve greater things is something I am learning with my own moments of anguish. Mr. Lee’s oratory skills is second to none. His speeches were robust and fiery. I remembered watching all of Mr. Lee’s speeches on the internet whilst preparing for a speech examination for a Business Communications module in university. I even tried to learn his habit of pulling his pants up while trying to make a major point!
 
 On our journey back home from Parliament House, we discussed about the future of Singapore after Mr. Lee. My sister in laws felt uncertain at how Singapore will cope should there be a serious crisis. Will our youths have the toughness, guts and gumption to stand up and be counted? Will Singapore have a soul? I don’t think any of us will have the answer. But I think a good start is to make sure that we never forget the Lee Kuan Yew story and that our youths understand what he stands for and what he had had gone through to make Singapore it is today.
