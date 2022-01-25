@@ -156,7 +156,7 @@ President Sirleaf added that former Prime Minister Lee Kuan Yew will be remember
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TouD4zCTjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### New Zealand Flags to be lowered to half-mast this Sunday 29 March 2015
-Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. Read more.
+Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the Minister for Arts, Culture and Heritage, Hon Maggie Barry ONZM, hereby gives notice that the New Zealand Flag is to be half-masted on all Government and public buildings on Sunday 29 March 2015 to mark the funeral of the late Mr Lee Kuan Yew, Singapore’s first Prime Minister. .
 
 #### President of France, Francois Hollande
 “The President of the French Republic has learnt with great sadness of the demise of Mr Lee Kuan Yew, first Head of Government of Singapore. He honors the memory of this visionary statesman, who was able to guide the remarkable development of Singapore since its independence in 1965,” he said.
