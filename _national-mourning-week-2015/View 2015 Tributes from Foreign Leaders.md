@@ -163,9 +163,9 @@ Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the 
 
 “As Singapore and France mark the 50th anniversary of the establishment of their diplomatic relations this year, France has lost a friend who had strived to draw our two nations closer and deepen our cooperation in all fields.
 
-“In these moments of mourning of the entire nation, the Head of State addresses his sincere condolences to the loved ones of Mr Lee Kuan Yew and to the people of Singapore.”
+“In these moments of mourning of the entire nation, the Head of State addresses his sincere condolences to the loved ones of MrLee Kuan Yew and to the people of Singapore.
 
-President of Indonesia, Joko Widodo
+#### President of Indonesia, Joko Widodo
 “The government and people of Indonesia wish to convey their deep sorrow over the passing of former PM Lee Kuan Yew on Monday, 3.18am.
 
 “The late former prime minister is a close friend of Indonesia, and known as the founding father of modern Singapore. As a leader and a great statesman who loved his people, he was also one of the most influential politicians in Asia.
@@ -299,4 +299,3 @@ Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing t
 “One of my fondest and lasting memories was meeting with the prime minister in Singapore in 2014. We discussed the relative position and prospect of India, China, Russia and the United States – the breadth and depth of his understanding impressed me. My only regret was that I didn’t have a full week just to ask him questions regarding world affairs”
 
 “He spoke warmly of the friendship between our nations. He admired the virtues of America and the importance of the enduring US role in Asia Pacific. He made and had a profound impression on me. I’ll never forget, may he rest in peace.”
-
