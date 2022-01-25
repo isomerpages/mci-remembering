@@ -300,44 +300,8 @@ Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing t
 
 “He spoke warmly of the friendship between our nations. He admired the virtues of America and the importance of the enduring US role in Asia Pacific. He made and had a profound impression on me. I’ll never forget, may he rest in peace.”
 
-today if we are not given this chance to enter into Singapore.
 
-There are lots more to talk about when it comes to his hardwork and contribution to not only Singapore, but to the Chinese in Malaysia, and the world. Looking at our region and countries around us, if there is no Singapore, no one will know Malaysia, no one will know us, but because of Mr Lee, we are well-known to the world.
-
-Today, we are his grandsons and granddaughters, here in Singapore and Malaysia enjoys the fruit of his hard work and we are thankful to him. Today also he will meet St John Paul II in heaven enjoy the gift from God for his great work and contribution! Mr Lee Kuan Yew, we love you! and you will be remembered.
-Yours faithfully,
-Luke Lee.
-
-Dear Mr Lee Kuan Yew,
-Shakespeare once said, “”Some are born great, some achieve greatness, some have greatness thrust upon them””. Without a doubt, Mr Lee, you were born great, and went on to achieve greatness! You showed the world what a little red dot like us can and has achieved under your great leadership. You were an ingenious visionary!
-
-
-As residents in the Tanjong Pagar constituency for 3 generations, we had the privilege of having you as our MP. No words can describe our gratitude to you for all the things you have done for us, and for Singapore. A very big THANK YOU to you from the bottom of our hearts.
-
-Time has come for us to bid you farewell. We will always remember you. Rest in peace, Mr Lee, Singapore is in good hands.
-Chin Sook Yean & family
-28 March 2015
-
-PS. Our deepest condolences to Prime Minister Lee Hsien Loong and his family on the demise of Mr Lee Kuan Yew.
-God bless,
-
-Forever and always, I will always be grateful to Mr Lee Kuan Yew for what he has done for Singapore. It is not easy to have given up his life for Singapore but yet, that was what he did. He gave his all to build up Singapore to where she is today. I am thankful to be a Singaporean, to be living in a clean and green state, to have a shelter over my head, to experience quality education and to have all our basic needs met and more.
-
-
-In a short span of 50 years, he has achieved so much for Singapore. Singapore is nowhere near how it was 50 years ago. It has grown exponentially into the first world country we are all privileged to live in today. This, I attribute it to Mr Lee, who had the foresight and more importantly, the strong determination to develop Singapore. He never gave up despite the odds. He could have but he did not and all his life, he gave his all to Singapore. It is also inspiring how he never gave up learning even when times were bad and uncertain. He is an amazing and inspirational man and no amount of words can express the gratitude I have for Mr Lee, our founding father. There are times when I wished I had the opportunity to say a simple ‘thank you’ to him when he was living.
-
-The love story between Mr and Mrs Lee has also touched my heart greatly. Their love for one another is like none other. Photos of their younger days actually placed a smile on my face for I am glad that they had each other in their lives. But tears sprung to my eyes when I read about how Mr Lee was dealing with the passing of Mrs Lee. It was an unimaginable period for Mr Lee then. I sincerely hope that they are finally reunited now.
-
-Mr Lee Kuan Yew, you have made an impact in the lives of so many people. Though you are no longer here with us, one thing is for sure, you will never be forgotten. I will always remember you and continue to share your stories with future generations to come. We are here because of you, because you held on and never gave up.
-
-Thank you, Mr Lee Kuan Yew. May you rest in peace now.
-Adwyna
-
-Dear Sir
-I write this message with a heavy heart mixed with a satisfaction that you have lived a full life.
-
-
-The world will not see another leader as strong & powerful as you. What you have left behind for us is uncountable. A Corruption free nation, a red passport that requires minimum visas across the world, a country that is safe for a girl to be out at 2am, a very clean & green nation, roof over our heads, ensuring the needies are taken care, etc. the list can go on….. All these are not possible without your guidance & excellent leaders.
+uncountable. A Corruption free nation, a red passport that requires minimum visas across the world, a country that is safe for a girl to be out at 2am, a very clean & green nation, roof over our heads, ensuring the needies are taken care, etc. the list can go on….. All these are not possible without your guidance & excellent leaders.
 
 We will not despair but will celebrate your legacy. Your leadership will be carried on by your ministers. You are a Good Samaritan & we will be your shadow in this Nation.
 
