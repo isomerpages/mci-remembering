@@ -875,79 +875,7 @@ Kevin
 Dear beloved Mr Lee Kuan Yew,
 
 
-I regret that I only get to know so much more about your sacrifices, thoughts and concerns for Singapore after your passing.
-
-Your passion, tenacity and decisive actions have helped Singapore overcome its darkest moments and challenges through the last 50 years. Your farsightedness has given us a stable and able government; a capable team of younger leaders to carry us through the next chapter of the Singapore story.
-
-No amount of words or actions can fully express my heartfelt gratitude. Please accept this as a small token of my appreciation. Your fearless fighting spirit will continue to live on.
-
-Rest in peace Mr Lee.
-Danny Kwok Wai Chung
-
-Dear Mr Lee Kuan Yew,
-
-
-We have been truly blessed as a nation to have benefited from your strong foresight, leadership and governance. You shouldered tremendous responsibility in steering Singapore to economic excellence and gave us all a sustainable home. My generation has been so fortunate – we did not live through the tumultuous times, but the lessons learnt will be deeply etched in my mind and for this I am eternally grateful.
-
-We will continue to champion your spirit of excellence and make you proud of us for generations to come. I am so proud to call myself a Singaporean and I will tell my future children all about what you have done for Singapore. Thank you for first believing in us. God bless you and your family.
-Kong Yi Ling
-
-Dear Sir,
-It is with a heavy heart that I am writing this. I have not had the chance to meet you in person. The closest distance between us was when I paid my final respect to you at the Parliament House.
-
-
-Our founding father, I would like to say “Thank You, Sir” from the bottom of my heart for dedicating your life to Singapore. From a third world country to the first, those tough decision and leadership that you have to make, our clean water, garden city, home ownership, and many more… Without your dedication to build this little red dot, Singapore will not be what it is today. You have definitely made a huge impact not only to all Singaporean but to the world. We are blessed to have you as our leader. I am proud to be a Singaporean and we will unite to continue your legacy.
-
-I am also deeply moved by your love for Mrs Lee and am glad that you now can now be reunited with her.
-
-Rest in peace, Mr Lee Kuan Yew. We will miss you deeply and you will live on, deep in our hearts always.
-Elaine Tang
-
-Dear Mr Lee,
-I thank God as He has blessed Singapore with a visionary leader that love this country and willing to give his whole life to build this a better place for generation after generation. As I travel very often, Singapore is always the only place I feel like home. Even as I’m married to a British person, and grant me a good opportunity to change my citizenship but this has never been my thoughts as I’m proud to be a Singaporean.
-
-
-It is definitely our great loss of your departure but we can see that your final days, you had brought the entire Nation closely together as one Singapore. In addition, we can see publicly declare your contributions via social media were overwhelming and once again remember your contributions to this country.
-
-May the comfort and peace of God with Your family and once again I thank you for what you had done and I had been so much interested in Singapore history because of you.
-Serene Lee
-
-Farewell, Mr Lee Kuan Yew
-
-…… The Founding Father of our Nation;
-
-….. the Founding Partner of our Firm.
-
-+++
-
-We join the multitudes to mourn the physical loss of your comforting presence.
-
-You gave your best to lead us to achieve so much in your illustrious and long life. Your eminence as the guiding light and moving inspiration was not just for our nation but also the international and global stage!
-
-Your exemplary, indomitable and sacrificial spirit in demanding excellence first from yourself, even as you lead and demand from others around you, has galvanized and made Singapore to what it is. You gave your life… but the past few days have shown that even in death, your spirit lives on to galvanize and move the multitudes for good!
-
-We are proud that the same spirit of excellence and integrity by which you established Lee & Lee with your fellow founding partners, has been entrenched through the past 60 years into our hearts, our hopes, and our aims.
-
-No one like you shall pass our way again… but we shall be forever grateful and humbled that we are direct beneficiaries of your legacy as our rich heritage.
-
-On our part, we shall persevere with dedication, inspired by all that you are and have left for us.
-
-Rest in Peace… Mr Lee Kuan Yew
-
-The Partners, Lawyers and Staff of Lee & Lee
-
-“Though nothing can bring back the hour of splendor in the grass, glory in the flower, we will grieve not; rather find strength in what remains behind.” – William Wordsworth
-
-Dear Mr Lee Kuan Yew,
-Me and my family was deeply saddened when we hear about the news on Monday of you passing away. We offer our deepest condolences to Mr Lee’s family as losing a family member is never easy. 50 years ago you have cried for our country and all of us, now we will mourn and cry for you as we have lost one of the best leader of Singapore. We have always been thankful that we lived in Singapore as it has been a safe and clean country and it is all thanks to you that our country has been in this way.
-
-Many thanks to Mr Lee for giving all of your entire life into building Singapore up from a 3rd world country which was a village to a 1st world country which is now a Metropolis City. It is because of your all your blood, sweat and tears that everyone in Singapore gets to live a enjoyable life with all the necessities required.
-
-Singapore is a miracle that you have created. You have created a place whereby many of us can live peacefully. Thanks to your leadership and all of your efforts that all of this is possible for all of us. I am sure that every Singaporeans will be very proud for having Singapore as their home and having you as our founding father of our home. Even though Singapore does not have any natural resources to build up, we have one good leader that lead us and stand up for our country and this is even better than having those natural resources.
-
-Many new generations will not know how much sacrifices you have made to build this country to where it is now. One of the world wealthiest and most developed countries. They also wont know what is it like to live in a 3rd world country and the sufferings. Many of us take things for granted and only express our thoughts when it is too late. But Mr Lee, thanks to you that the new generations won’t have to go through those sufferings.
-
-No words can ever express our gratitude to you for everything that you have given up for our country and for all fellow Singaporeans. We are blessed to live in Singapore, the fruits of your labour. Your legacy will be carried on by all Singaporeans and the memory of you will continue to live and be respected in our hearts. Let Singapore be all Singaporeans burden from now on and we will shoulder it and continue to bring the country to greater heights. May you rest in peace and God bless you.
+I regret that I only get to know so much m
 
 With Love and Gratitude,
 Lee Toh Sin
@@ -990,7 +918,6 @@ Receiving the Prime Minister’s Book Prize in 1984 was one of the high points (
 It is often said that we must give our children both roots and wings. In a way, that is what bilingualism has done for Singaporeans. Our mother tongue keeps us rooted in our culture, while English serves as a portal to the wider world – in effect, giving us wings. I look back in wonder and respect as this was just one of many things he set in motion with his astounding foresight.
 
 Anyone can dream, but it takes someone special, with extraordinary courage and determination, to translate that dream into a vision, and galvanise an entire nation to march with him to realise that vision. That march, though glorious, has undoubtedly been a long and difficult one.
-
 Rest in peace, Sir.
 
 With deep and abiding respect
