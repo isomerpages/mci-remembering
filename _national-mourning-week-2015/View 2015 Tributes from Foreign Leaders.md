@@ -234,9 +234,7 @@ Speaking to reporters outside Parliament House after the visit, Mr Najib said th
 “I’d like to thank him for strengthening bilateral ties between Malaysia and Singapore.”
 
 See his video here
-
-![Alt text for image on Isomer site](/images/tributes-from-foreign-leaders/Najib%20Razak3.png)
-
+![Alt text for image on Isomer site](/images/tributes-from-foreign-leaders/Najib%20Razak6.png)
 
 <table><tbody><tr>
 <td> <img src="/images/tributes-from-foreign-leaders/razak1.jfif" alt="Drawing" style="width: 250px;"> </td>
