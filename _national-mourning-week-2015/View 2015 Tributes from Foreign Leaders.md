@@ -283,7 +283,7 @@ His Royal Highness Crown Prince Maha Vajiralongkorn has commanded me to convey h
 He was the statesman, the legend and my true friend Without him, we don’t have Singapore.”   President of the Privy Council Gen Prem Tinsulanonda on 26 March.
 He was the statesman, the legend and my true friend Without him, we don’t have Singapore.” President of the Privy Council Gen Prem Tinsulanonda on 26 March.
 
-Sultan of Perak, Sultan Nazrin Muizzuddin Shah
+#### Sultan of Perak, Sultan Nazrin Muizzuddin Shah
 Sultan of Perak Sultan Nazrin Muizzuddin Shah signed the condolence book for the late Lee Kuan Yew at the Singapore High Commission in Kuala Lumpur.
 
 He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gopala Menon.
