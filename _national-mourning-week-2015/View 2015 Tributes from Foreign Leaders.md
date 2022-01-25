@@ -268,11 +268,9 @@ In a separate message to Prime Minister Lee:
 #### Secretary-General of the United Nations, Ban Ki-Moon
 Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision will guide Singapore and all of us toward a better and brighter future for all.”
 
-
-
 <table><tbody><tr>
-<td> <img src="/images/tributes-from-foreign-leaders/razak1.jfif" alt="Drawing" style="width: 250px;"> </td>
-<td> <img src="/images/tributes-from-foreign-leaders/razak2.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-foreign-leaders/bankimoon1.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-foreign-leaders/bankimoon2.jfif" alt="Drawing" style="width: 250px;"> </td>
 </tr></tbody></table>
 
 
