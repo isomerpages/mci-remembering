@@ -309,11 +309,15 @@ He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gop
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi2.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi3.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi4.jfif"> </td>
+</tr></tbody></table>
+
+<table><body><tr>
+
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi5.jfif"> </td>	<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi6.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi7.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi8.jfif"> </td>
-	
 </tr></tbody></table>
+
 
 #### Vice-President of the United States, Joe Biden
 “One of my fondest and lasting memories was meeting with the prime minister in Singapore in 2014. We discussed the relative position and prospect of India, China, Russia and the United States – the breadth and depth of his understanding impressed me. My only regret was that I didn’t have a full week just to ask him questions regarding world affairs”
