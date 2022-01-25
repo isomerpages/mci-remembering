@@ -300,22 +300,3 @@ Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing t
 
 “He spoke warmly of the friendship between our nations. He admired the virtues of America and the importance of the enduring US role in Asia Pacific. He made and had a profound impression on me. I’ll never forget, may he rest in peace.”
 
-
-I will remember your fighting spirit, treasure the legacy you left us and play my part as a Singapore citizen to build upon this legacy to make Singapore even a better home in many generations to come.
-
-You will be dearly missed and remembered in our heart always. You worked very hard your entire life for us, Singaporean, for a better life, please rest well now and may you rest in peace.
-
-Thanks again.
-Niqii
-
-Dear Mr Lee,
-
-
-I would like to thank you for all that you have done for us, Singaporean. Your big vision, wisdom, determination and perseverance bring good life to Singaporean. It is fortunate to be born in this safe, clean and comfortable Singapore and I am always so proud to be a Singaporean. Without you, all these wouldn’t have been possible.
-
-I will remember your fighting spirit, treasure the legacy you left us and play my part as a Singapore citizen to build upon this legacy to make Singapore even a better home in many generations to come.
-
-You will be dearly missed and remembered in our heart always. You worked very hard your entire life for us, Singaporean, for a better life, please rest well now and may you rest in peace.
-
-Thanks again.
-Niqii
