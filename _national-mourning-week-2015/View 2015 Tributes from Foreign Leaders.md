@@ -301,92 +301,6 @@ Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing t
 “He spoke warmly of the friendship between our nations. He admired the virtues of America and the importance of the enduring US role in Asia Pacific. He made and had a profound impression on me. I’ll never forget, may he rest in peace.”
 
 
-Few have such a strong mind. Mr Lee took punches from the very people he cared for and work so hard to provide for. But Mr Lee stayed firm in his belief and for that, we are now the Singapore that we are.
-
-Deeply saddened, eternally grateful. We have no fear knowing this day has come and you are no longer physically with us for you have thought us to be strong individuals, with integrity and confidence, we are ready to take on new challenges the world will continue to face.
-
-Deepest condolences to your family, especially to Mr Lee Hsien Long, who despite his grief, has to carry out his duties as a Prime Minister. Just like you would have done so.
-
-Rest now and be assured that Singapore will sail forth with pride and confidence.
-
-Thank you, Mr Lee Kuan Yew.
-
-A proud Singaporean, Grace ..
-Grace Ang
-
-A everlasting tribute to our Singapore’s legendary founder and 1st Prime Minister.
-
-
-
-
-Thank you for all your hard work building this nation. I never knew the amount of dedication you put in and the hardships you went through until I saw the tributes and documentaries after your passing.
-
-From the number of people who turned up to pay their respects to the foreign VIPs who flew in, there’s no doubt you have touched their lives in one way or another. May present and future generation continue to honor you and build on the foundation that you and your team have laid.
-
-Once again thank you and may God continue to bless your family.
-
-Bernard Tham
-
-Dear Mr Lee
-
-
-Thank you for all that you have done for Singapore. You have developed Singapore, putting in so much hard work for the nation. You helped us create reservoirs so that we have sufficient water every day. You provided us with good and proper education.
-You did not give up on Singapore despite challenges, instead you continued to figure out better ways to develop Singapore. Thank you for having the perseverance. You made sure Singapore did not have riots and also built HDB flats for us to live in because you were worried about our safety. You maintained the clean policy of Singapore, by taking the initiative to sweep the floors.
-Words cannot describe my gratitude for what you have done for us.
-Cheng Zhi Tong
-
-Tribute to Mr Lee Kuan Yew
-
-
-When I was a boy, I was suddenly ushered out of the cinema midway through a movie. Outside, I saw police waving batons moving the people away to go home. Curfew followed shortly due to a racial riot between Malays and Chinese.
-
-I experienced two occasions of massive flooding in the ‘60s. I was living on the ground floor of a shop house. People waded in dirty floodwaters above their knees.
-
-These are images of Singapore in the past. We no longer have to struggle through such unpleasant times. Thanks to the strong, dedicated and visionary leadership of Mr Lee Kuan Yew and the efforts of his team. In a short period of just 50 years, Singapore has been transformed. We enjoy racial harmony; we have active, beautiful and clean waterways, and greenery around our ever dense but pleasant built-up and buzzing urban landscape.
-
-I am deeply saddened at the death of our founding father, Mr Lee Kuan Yew. Mr Lee has left behind a large legacy for us. He has dedicated his life to make Singapore what it is today. In fact, watching and reading the tributes and condolence messages penned by world leaders, my heart is overwhelmed with pride that his influence and contributions have gone far beyond the shores of Singapore, the little red dot. I am proud that he is more than equal among the great leaders of the modern world. His worldview and the philosophy that he embraced and shared have benefited many world leaders and their countries too.
-
-I have fond memory of my only encounter with Mr Lee, then Prime Minister. I met him in person when I was a young architect in PWD working on the refurbishment of the City Hall building in 1988. He dropped in unannounced to look at the project. He came alone (no big party accompanying) and I was alone too as my senior architect could not arrive in time. I showed him around some of the work in progress. He surprised me with his great attention to details, asking questions about the building materials used, their origin and costs.
-
-His passing is a great loss to Singapore, but we have much to gain from him. He has made us proud to be Singaporeans. We have a beautiful and safe place to call home. I am grateful for his selfless dedication for Singapore. Most grateful is that he instituted a system of peaceful and smooth succession of political leadership. It can ensure that what he tirelessly built will last. It gives us a strong resolve to continue his values and aspirations for an even better Singapore.
-
-Thank you most deeply, Mr Lee Kuan Yew.
-
-Dear PM Lee Hsien Loong,
-My deepest condolences to you and your family. My prayers are with you and your family members. I thank God for giving us such an honourable man of great intellect and astute leadership, and yet humble and personable, at a time when Singapore needed most. May God grant you peace and comfort during this time of bereavement and continue to bless you and your team with strength and wisdom as you lead Singapore beyond SG50.
-Yip Kim Seng
-
-Dear Mr Lee,
-I have read all your books and was always intrigued by your work for Singapore, but never in my 38 years have I felt this way as I do now having to immerse myself into your world with the flood of TV recordings, speeches and photographs. What struck me was a devotion and discipline to family and nation that provides the deep foundation that drives you. I have been privileged in my career to have met and worked with some esteemed men this world has seen. I have been inspired by some of them no less share some of the traits I see in you as well.
-
-
-This week, you have provided me a valuable lesson in life. This week, I have begun to cherish my family and nation in a very different but assuring way. This week, I have through your passing become inspired to not just think about our country but what I can do for it. The noise and sound this week are but noise and whilst I know many of us appreciate and are grateful to you, I hope that this does change the complacency I see and allow us not to forget the true cause of your work.
-
-You have loved this country so much because we call this home. We face no suppression today, only our own, in such shallow thoughts when I want an equally good opportunity for my children. And I care too much as you did for your fellow citizens.
-
-Sir, thank you for what you have done. You have laid the foundation and conditions for many of us to continue the flame of hardworking, diligent, thoughtful and passionate spirit and I hope I will be able to do my small part in making you equally proud of us all.
-
-Gratefully and respectfully, Adrian
-
-Mr Lee Kuan Yew,
-
-
-Thank you for all that you have done for Singapore. We would not be where we are today without your leadership, perseverance and foresight. The whole of Singapore as one, mourns for your passing on, but the whole of Singapore as one, also celebrates your life.
-
-At last year’s national day when I saw you for a brief moment on national television, my heart filled with so much thankfulness and respect for you, and I stood up and clapped for you, the one who gave your entire life for this nation of Singapore. You looked like you aged a lot and I remember telling my family that I hoped so much that you would be able to witness Singapore’s 50th birthday this August. When I heard news that you passed away, my heart was very saddened. This year’s national day (and the rest to come) wouldn’t ever be the same again without your presence.
-
-I feel also very sad that I am overseas now and unable to physically be with my fellow Singaporeans in Singapore during this significant time in the history of Singapore. I wish I was now in Singapore, watching Singapore news and flipping through the newspapers reading stories about your life, and paying my last respects to you. Being away from Singapore at this time makes me realise how much Singapore means to me, as my home and my country, and how much I respect you for all that you have done. My friends and family back home have been sending me short clips of the state funeral and pictures of newspaper articles of how Singapore is remembering you during this time. As I looked through the videos and newspapers, I am heartened to see how Singaporeans have put aside all their differences and have united as one to mourn for your passing.
-
-I’m penning this e-tribute for you, from the land of Nepal, to say thank you. I would not be where I am today if not for your love and dedication to our nation.
-
-You will always be remembered, by me, by Singapore, by the world.
-Sherlyn Ang
-
-Dear Mr Lee,
-
-
-I would like to thank you for all that you have done for us, Singaporean. Your big vision, wisdom, determination and perseverance bring good life to Singaporean. It is fortunate to be born in this safe, clean and comfortable Singapore and I am always so proud to be a Singaporean. Without you, all these wouldn’t have been possible.
-
 I will remember your fighting spirit, treasure the legacy you left us and play my part as a Singapore citizen to build upon this legacy to make Singapore even a better home in many generations to come.
 
 You will be dearly missed and remembered in our heart always. You worked very hard your entire life for us, Singaporean, for a better life, please rest well now and may you rest in peace.
@@ -443,38 +357,7 @@ Medha
 Dearest Mr Lee,
 
 
-Thank you for the numerous contributions and decisions which made Singapore leaped from a 3rd world country to a 1st world country. During this week of mourning, TV has been showing the past Mr Lee Kuan Yew success, it was good for the young generations as they were not born at the time when Singapore has fought for it’s independence. It was then also made known to me that Mr Lee’s contribution and his vision foresight were very accurate and was at all best interest for Singapore. Without fighting independence (Merdeka) in 1965, Singapore will not be a country of itself.
-Now, Singapore is no longer a small dot, it is a country full of hopes and I am proud to call it home. This 50 years of transformation made Singapore bloom into a 1st world country where it is clean and green.
-No words can express my gratitude, respect, appreciation for you, Mr Lee. Without you, there will never be a Singapore like today.
-Thank you Mr Lee for everything.
-
-Prayers to PM Lee and his family,
-May Mr Lee Kuan Yew rest in peace.
-Alvin
-
-Singapore is my home and forever will be. I’m proud to be called Singaporean. I served my country with all my pride and give my all to this country. Why? Cause of you Sir.
-
-
-You have made Singapore your life and you made Singapore what it is today. Without your hard work, vision and undying love to unite the people of Singapore, it will be a very different Singapore. As the pledge goes, regardless of race, language or religion, no country comes close to Singapore in terms of living harmoniously and cohesively despite our differences. People can wander in the street late at night and not worrying about their safety. And among your endless and unspoken contributions to Singapore, i truly am grateful for the safe, peaceful, corruption free, well maintained, beautiful garden city that i call Home. No matter how long i am posted overseas for work, i still miss Singapore. Thank you Mr Lee Kuan Yew for everything.
-
-May you Rest in Peace knowing that you have done everything that you could for us.
-Lots of Love, Airil, Shereen & Audrina Seet
-
-Dear Mr Lee,
-
-
-I can never thank you enough for giving us a wonderful Home.. A place that is safe and loving … A place where we are given the opportunity to be educated, to learn and to be ourselves.,, Most importantly, a place to call our own..
-
-Without your unwavering and unconditional efforts and contributions, this wouldn’t be possible.., I’m really ever grateful from deep inside me for all the things you have done for us. Instead of enjoying the fruits of your labour with us, you left us ….there’s no Home without you. You are the Father of this Home you have built. Like any Father, you are always here to protect and shield us from any harm and danger…
-
-It’s sad to say goodbye…your presence will be dearly missed.. You’ll always stay in our hearts and memories… May you rest in peace, Founding Father.,,,
-
-您辛苦了，一路走好，安息吧！
-永远怀念您！
-With respect, Fong 28 March 2015
-
-Dear Sir,
-
+Thank you for the numerous contributions and decisions which made Singapore leaped from a 3rd world country to a 1st world country. During this week of mourning, TV has been showing the past Mr Lee Kuan Yew success, it 
 
 I was overwhelmed with emotions and unspeakable gratitude towards you, as I walked with thousands of grieving citizens to pay our final respects. I was born in during the period of time when the Mass Rapid Transit project was built, according to my mother. Even though I was not in the era when there was social turbulence, unrest and the implementation of contentious policies, and how things slowly settled down, I was able to witness how the town I am living in, slowly rose into a busy urban site from bare empty grass lands.
 
