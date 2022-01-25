@@ -303,15 +303,14 @@ He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gop
 “The world had lost a great stateman,”
 
 #### Vietnam Leaders signing the condolence book at the Singapore Residence in Hanoi
-Chairman of the Communist Party of Vietnam Commission for External Relations Hoang Binh Quan signing the condolence book
-Prime Minister Nguyen Tan Dung conveying his condolence on the passing of Mr Lee Kuan Yew to Ambassador Ng Teck Hean at the Singapore Residence
-Politburo member and Minister of Defence Phung Quang Thanh signing the condolence book on the passing of Mr Lee Kuan Yew
-Politburo member and National Assembly Vice President Nguyen Thi Kim Ngan signing the condolence book at the Singapore Residence
 
-Minister of Planning and Investment Bui Quang Vinh and his staff paying their respects to Mr Lee Kuan Yew at the Singapore Residence
-Minister of Education and Training Pham Vu Luan signing the condolence book
-Minister of Agriculture and Rural Development Cao Duc Phat signing the condolence book
-Prosecutor General of the Supreme People’s Procuracy Nguyen Hoa Binh signing the condolence book
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi1.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi2.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi3.jfif"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi4.jfif"> </td>
+	
+</tr></tbody></table>
 
 #### Vice-President of the United States, Joe Biden
 “One of my fondest and lasting memories was meeting with the prime minister in Singapore in 2014. We discussed the relative position and prospect of India, China, Russia and the United States – the breadth and depth of his understanding impressed me. My only regret was that I didn’t have a full week just to ask him questions regarding world affairs”
