@@ -278,8 +278,6 @@ Mr Ban penned his condolence message to Mr Lee, saying: “I hope his vision wil
 </tr></tbody></table>
 
 
-#### The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. In this image, the Secretary General makes a statement to the press. Photo from the United Nations Department of Public Information (DPI).
-The Secretary General of the United Nations signs a Condolence Book for Mr Lee Kuan Yew, the first Prime Minister of Singapore at the Permanent Mission of Singapore to the UN. Pictured with the Secretary General is the Permanent Representative of Singapore to the UN, Ambassador Karen Tan. Photo from the United Nations Department of Public Information (DPI).
 
 #### Thai dignitaries signing the condolence book at the Singapore Mission in Bangkok
 His Royal Highness Crown Prince Maha Vajiralongkorn has commanded me to convey his sympathy and condolences on the demise of Mr Lee Kuan Yew, Former Prime Minister of the Republic of Singapore.”  Chief, Private Secretary Office of HRH the Crown Prince of Thailand ACM Kasame Yoosooka, on 26 March.
