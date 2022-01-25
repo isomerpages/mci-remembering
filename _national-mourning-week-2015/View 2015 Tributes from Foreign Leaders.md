@@ -215,10 +215,13 @@ Yesterday evening President Obama spoke with Singapore Prime Minister Lee Hsien 
 #### Prime Minister of Australia,Tony Abbott
 Tony Abbott – Prime Minister of Australia Tony Abbott signing the condolence book at the Singapore High Commission in Canberra on March 24, 2015.
 
-![Alt text for image on Isomer site](/images/Tony%20Abott%201.png)
-![Alt text for image on Isomer site](/images/Tony%20Abott%202.png)
-![Alt text for image on Isomer site](/images/Tony%20Abott3.png)
-![Alt text for image on Isomer site](/images/Tony%20Abott%204.png)
+
+<table><tbody><tr>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Tony%20Abott%201.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Tony%20Abott%202.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Tony%20Abott3.png"> </td>
+<td> <img style="width: 250px;" alt="Drawing" src="/images/Tony%20Abott%204.png"> </td>
+</tr></tbody></table>
 
 #### Prime Minister of Lao PDR, Thongsing Thammavog
 The demise of Mr Lee Kuan Yew caused the loss of an outstanding leader, a founder of modern prosperous Singapore who significantly contributed to the development of the country as well as the development of friendly ties and cooperation between Laos and Singapore, and among Asean countries.
