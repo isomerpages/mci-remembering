@@ -667,7 +667,7 @@ Saraspathy Menon
 Dearest Mr Lee,
 You are a remarkable and respectable leader that made a difference during tumultuous times. We are glad and grateful that we have you as our founding father. Your dreams, convictions, dedicated lifelong service had changed an unsightly fish village into a pleasant, safe and peaceful country, a bustling and cosmopolitan city where we are proud to call home.
 
-Under your remarkable leadership with you team, leading a group of elite and hardworking fellow mates, people of young generations are the beneficiaries of the fruit of your labour. Without you making a difference during the tumultuous times, travelling to different destinations, Singapore won’t be what it is today.
+Undr your remarkable leadership with you team, leading a group of elite and hardworking fellow mates, people of young generations are the beneficiaries of the fruit of your labour. Without you making a difference during the tumultuous times, travelling to different destinations, Singapore won’t be what it is today.
 
 Although you have left us, your legacy, passion and perseverance will live on forever. We are grateful and honoured to be part of the generations where we witnessed your remarkable leadership. Though you won’t be able to witness the changes with us, we know that you are watching over us at your new home with Mrs. Lee.
 
