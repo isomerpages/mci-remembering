@@ -176,7 +176,7 @@ Pursuant to section 10(1) of Flags, Emblems, and Names Protection Act 1981, the 
 
 “The Government and people of Indonesia believe that Singapore would be able to pull through this difficult time and develop according to the aspirations of the people.”
 
-President of Russia, Vladimir Putin
+#### President of Russia, Vladimir Putin
 Vladimir Putin sent his condolences to President of Singapore Tony Tan Keng Yam following the death Lee Kuan Yew, Singapore’s longstanding former prime minister and one of the patriarchs of international politics.
 
 Mr Putin expressed high praise for the socioeconomic advances and science and technology progress that Singapore achieved under Lee Kuan Yew. “Over his decades of work as Prime Minister and in other high government posts, he earned his compatriots’ sincere love and respect and won the highest international influence,” the President noted.
