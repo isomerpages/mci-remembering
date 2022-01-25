@@ -233,7 +233,12 @@ Speaking to reporters outside Parliament House after the visit, Mr Najib said th
 
 “I’d like to thank him for strengthening bilateral ties between Malaysia and Singapore.”
 
-See his video [here](https://www.facebook.com/ChannelNewsAsia/videos/859038370785508/)
+
+<table><tbody><tr>
+<td> <img src="/images/tributes-from-foreign-leaders/razak1.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/tributes-from-foreign-leaders/razak2.jfif" alt="Drawing" style="width: 250px;"> </td>
+<td> <img src="/images/ASEAN%20Secretary-GeneralLe%20Luong%20Minh3.jpg" alt="Drawing" style="width: 250px;"> </td>
+</tr></tbody></table>
 
 Prime Minister Lee Hsien Loong and Prime Minister of Malaysia Najib Tun Razak at the lying in state
 Prime Minister Lee Hsien Loong speaking to Prime Minister of Malaysia Najib Tun Razak
