@@ -242,15 +242,8 @@ See his video [here](https://www.facebook.com/ChannelNewsAsia/videos/85903837078
 <td> <img src="/images/tributes-from-foreign-leaders/Najib%20Razak3.png" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/tributes-from-foreign-leaders/razak4.jfif" alt="Drawing" style="width: 250px;"> </td>
 <td> <img src="/images/tributes-from-foreign-leaders/Najib%20Razak6.png" alt="Drawing" style="width: 250px;"> </td>
-
 </tr></tbody></table>
 
-
-Prime Minister Lee Hsien Loong and Prime Minister of Malaysia Najib Tun Razak at the lying in state
-Prime Minister Lee Hsien Loong speaking to Prime Minister of Malaysia Najib Tun Razak
-Prime Minister Lee Hsien Loong and Prime Minister of Malaysia Najib Tun Razak at the lying in state
-Prime Minister of Malaysia Najib Tun Razak signing condolences
-Prime Minister of Malaysia Najib Tun Razak and his spouse paying their respects
 
 #### Qatar Emir H H Sheikh Tamim bin Hamad Al Thani
 Emir H H Sheikh Tamim bin Hamad Al Thani sent a cable of condolences to President of the Republic of Singapore Tony Tan Keng Yam on the death of the former prime minister Lee Kuan Yew.
