@@ -312,11 +312,11 @@ He was received upon arrival by Singapore High Commissioner to Malaysia Vanu Gop
 </tr></tbody></table>
 
 <table><body><tr>
-
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi5.jfif"> </td>	<td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi6.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi7.jfif"> </td>
 <td> <img style="width: 250px;" alt="Drawing" src="/images/tributes-from-foreign-leaders/hanoi8.jfif"> </td>
 </tr></tbody></table>
+
 
 
 #### Vice-President of the United States, Joe Biden
