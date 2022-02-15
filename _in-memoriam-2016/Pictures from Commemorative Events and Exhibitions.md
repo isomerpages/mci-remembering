@@ -18,4 +18,3 @@ description: ""
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/observing.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
 
-![](/images/%20Comm%20Events%20&%20Exhibitions/observing.jpg)
