@@ -134,7 +134,7 @@ description: ""
 
 <table><tbody><tr>
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/observing4.jpg" alt="Drawing" style="width: 450px;"> </td>
-<td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/famlitcand.jpg" alt="Drawing" style="width: 550px;"> </td>
+<td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/posing.jpg" alt="Drawing" style="width: 550px;"> </td>
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/girl-observing.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/manobserving.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
