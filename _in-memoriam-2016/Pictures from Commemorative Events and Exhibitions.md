@@ -136,5 +136,5 @@ description: ""
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/observing4.jpg" alt="Drawing" style="width: 450px;"> </td>
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/posing.jpg" alt="Drawing" style="width: 550px;"> </td>
 <td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/reading.jpg" alt="Drawing" style="width: 450px;"> </td>
-<td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/manobserving.jpg" alt="Drawing" style="width: 450px;"> </td>
+<td> <img src="/images/%20Comm%20Events%20&%20Exhibitions/wallmsg.jpg" alt="Drawing" style="width: 450px;"> </td>
 </tr></tbody></table>
