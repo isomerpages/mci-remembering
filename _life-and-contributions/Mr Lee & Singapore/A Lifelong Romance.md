@@ -1,11 +1,11 @@
 ---
 title: A Lifelong Romance
 permalink: /mrleeandsingapore
-date: 2021-12-21
-layout: post
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---
+
+
 ![Alt text for image on Isomer site](/images/mr-lee-and-singapore/mrandmrslee.png)
 
 With Mdm Kwa at the Bridge of Sighs in St John's College at Cambridge on (from top)
