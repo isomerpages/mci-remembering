@@ -1,6 +1,6 @@
 ---
 title: Condolence Boards Outside The Istana And Parliament House
-permalink: /Resources/press-releases/Condolence-boards-outside-the-istana-and-parliment-hse
+permalink: /resources/press-releases/condolence-boards-outside-the-istana-and-parliment-hse/
 date: 2021-12-22
 layout: post
 description: ""

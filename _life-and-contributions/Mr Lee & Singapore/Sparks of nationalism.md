@@ -1,6 +1,6 @@
 ---
 title: Sparks of nationalism
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Sparks-of-nationalism
+permalink: /life-and-contributions/mr-lee-and-singapore/sparks-of-nationalism/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

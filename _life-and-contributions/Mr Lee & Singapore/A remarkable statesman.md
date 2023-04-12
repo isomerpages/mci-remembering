@@ -1,6 +1,6 @@
 ---
 title: A remarkable statesman
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/A-remarkable-statesman
+permalink: /life-and-contributions/mr-lee-and-singapore/a-remarkable-statesman/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

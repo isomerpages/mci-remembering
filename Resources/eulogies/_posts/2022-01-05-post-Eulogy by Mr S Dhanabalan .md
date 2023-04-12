@@ -1,6 +1,6 @@
 ---
 title: "Eulogy by Mr S Dhanabalan "
-permalink: /Resources/eulogies/Eulogy-by-Mr-S-Dhanabalan
+permalink: /resources/eulogies/eulogy-by-mr-s-dhanabalan/
 date: 2022-01-05
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: S Rajaratnam Lecture
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/S-Rajaratnam-Lecture
+permalink: /life-and-contributions/mr-lee-and-singapore/s-rajaratnam-lecture/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

@@ -1,6 +1,6 @@
 ---
 title: Special Parliament Sitting on 26 March
-permalink: /Resources/press-releases/Special-Parliament-Sitting-on-26-March
+permalink: /resources/press-releases/special-parliament-sitting-on-26-march/
 date: 2022-01-05
 layout: post
 description: ""

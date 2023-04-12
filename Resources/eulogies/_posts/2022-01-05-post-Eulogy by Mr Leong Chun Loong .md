@@ -1,6 +1,6 @@
 ---
 title: "Eulogy by Mr Leong Chun Loong "
-permalink: /Resources/eulogies/Eulogy-by-Mr-Leong-Chun-Loong
+permalink: /resources/eulogies/eulogy-by-mr-leong-chun-loong/
 date: 2022-01-05
 layout: post
 description: ""

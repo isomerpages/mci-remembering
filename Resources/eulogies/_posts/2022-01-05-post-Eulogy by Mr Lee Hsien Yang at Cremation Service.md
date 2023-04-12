@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Mr Lee Hsien Yang at Cremation Service
-permalink: /Resources/eulogies/Eulogy-by-Mr-Lee-Hsien-Yang-at-Cremation-Service
+permalink: /resources/eulogies/eulogy-by-mr-lee-hsien-yang-at-cremation-service/
 date: 2022-01-05
 layout: post
 description: ""

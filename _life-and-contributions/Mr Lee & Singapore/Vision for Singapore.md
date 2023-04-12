@@ -1,6 +1,6 @@
 ---
 title: Vision for Singapore
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Vision-for-Singapore
+permalink: /life-and-contributions/mr-lee-and-singapore/vision-for-singapore/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

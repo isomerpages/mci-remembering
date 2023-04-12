@@ -1,6 +1,6 @@
 ---
 title: Singapore Chief Gardener
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Singapore-Chief-Gardener
+permalink: /life-and-contributions/mr-lee-and-singapore/singapore-chief-gardener/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

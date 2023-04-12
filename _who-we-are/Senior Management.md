@@ -1,6 +1,6 @@
 ---
 title: Senior Management
-permalink: /who-we-are/senior-management
+permalink: /who-we-are/senior-management/
 description: ""
 ---
 #### <center>Senior Management</center>

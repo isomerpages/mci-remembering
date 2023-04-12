@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Dr Lee Wei Ling at Cremation Service
-permalink: /Resources/eulogies/Eulogy-by-Dr-Lee-Wei-Ling-at-Cremation-Service
+permalink: /resources/eulogies/eulogy-by-dr-lee-wei-ling-at-cremation-service/
 date: 2022-01-05
 layout: post
 description: ""

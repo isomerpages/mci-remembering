@@ -1,6 +1,6 @@
 ---
 title: Political Office Holders
-permalink: /who-we-are/political-office-holders
+permalink: /who-we-are/political-office-holders/
 description: ""
 ---
 #### <center>Political Offiice Holders</center>

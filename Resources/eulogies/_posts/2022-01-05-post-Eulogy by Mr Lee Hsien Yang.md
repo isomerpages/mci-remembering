@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Mr Lee Hsien Yang
-permalink: /Resources/eulogies/Eulogy-by-Mr-Lee-Hsien-Yang
+permalink: /resources/eulogies/eulogy-by-mr-lee-hsien-yang/
 date: 2022-01-05
 layout: post
 description: ""

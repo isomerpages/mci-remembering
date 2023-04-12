@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Mr Ong Pang Boon
-permalink: /Resources/eulogies/Eulogy-by-Mr-Ong-Pang-Boon
+permalink: /resources/eulogies/eulogy-by-mr-ong-pang-boon/
 date: 2022-01-05
 layout: post
 description: ""

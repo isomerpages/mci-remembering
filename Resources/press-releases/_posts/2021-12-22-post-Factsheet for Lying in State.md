@@ -1,6 +1,6 @@
 ---
 title: Factsheet for Lying in State
-permalink: /Resources/press-releases/factsheet-for-lying-in-state
+permalink: /resources/press-releases/factsheet-for-lying-in-state/
 date: 2021-12-22
 layout: post
 description: ""

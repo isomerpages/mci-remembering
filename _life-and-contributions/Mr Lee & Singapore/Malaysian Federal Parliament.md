@@ -1,6 +1,6 @@
 ---
 title: Malaysian Federal Parliament
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Malaysian-Federal-Parliament
+permalink: /life-and-contributions/mr-lee-and-singapore/malaysian-federal-parliament/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

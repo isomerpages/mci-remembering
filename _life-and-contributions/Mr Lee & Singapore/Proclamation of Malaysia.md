@@ -1,6 +1,6 @@
 ---
 title: Proclamation of Malaysia
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Proclamation-of-Malaysia
+permalink: /life-and-contributions/mr-lee-and-singapore/proclamation-of-malaysia/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

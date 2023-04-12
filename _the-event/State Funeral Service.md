@@ -1,6 +1,6 @@
 ---
 title: State Funeral Service
-permalink: /the-event/state-funeral-service
+permalink: /the-event/state-funeral-service/
 description: ""
 ---
 #### <center>State Funeral Service</center>

@@ -1,6 +1,6 @@
 ---
 title: Calls for a Malaysian Malaysia
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Calls-for-a-Malaysian-Malaysia
+permalink: /life-and-contributions/mr-lee-and-singapore/calls-for-a-malaysian-malaysia/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

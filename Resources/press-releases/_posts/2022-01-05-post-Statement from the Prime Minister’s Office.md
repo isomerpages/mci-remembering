@@ -1,6 +1,6 @@
 ---
 title: Statement from the Prime Minister’s Office
-permalink: /Resources/press-releases/Statement-from-the-Prime-Minister-Office
+permalink: /resources/press-releases/statement-from-the-prime-minister-office/
 date: 2022-01-05
 layout: post
 description: ""

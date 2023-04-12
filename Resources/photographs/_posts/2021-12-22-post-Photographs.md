@@ -1,6 +1,6 @@
 ---
 title: Photographs
-permalink: /Resources/photographs/permalink
+permalink: /resources/photographs/permalink/
 date: 2021-12-22
 layout: post
 description: ""

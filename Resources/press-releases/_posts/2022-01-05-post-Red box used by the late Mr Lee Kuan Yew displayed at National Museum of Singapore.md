@@ -1,7 +1,7 @@
 ---
 title: Red box used by the late Mr Lee Kuan Yew displayed at National Museum of
   Singapore
-permalink: /Resources/press-releases/Red-box-used-by-the-late-Mr-Lee-Kuan-Yew
+permalink: /resources/press-releases/red-box-used-by-the-late-mr-lee-kuan-yew/
 date: 2022-01-05
 layout: post
 description: ""

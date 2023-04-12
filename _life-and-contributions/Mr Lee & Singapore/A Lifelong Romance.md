@@ -1,6 +1,6 @@
 ---
 title: A Lifelong Romance
-permalink: /mrleeandsingapore
+permalink: /mrleeandsingapore/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

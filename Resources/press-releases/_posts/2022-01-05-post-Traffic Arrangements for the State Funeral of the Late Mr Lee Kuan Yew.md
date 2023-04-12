@@ -1,6 +1,6 @@
 ---
 title: Traffic Arrangements for the State Funeral of the Late Mr Lee Kuan Yew
-permalink: /Resources/press-releases/Traffic-Arrangements-for-the-State-Funeral-of-the-Late-Mr-Lee-Kuan-Yew
+permalink: /resources/press-releases/traffic-arrangements-for-the-state-funeral-of-the-late-mr-lee-kuan-yew/
 date: 2022-01-05
 layout: post
 description: ""

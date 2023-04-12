@@ -1,6 +1,6 @@
 ---
 title: Videos
-permalink: /Resources/videos/
+permalink: /resources/videos/
 date: 2021-12-22
 layout: post
 description: ""

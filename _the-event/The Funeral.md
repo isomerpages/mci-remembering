@@ -1,6 +1,6 @@
 ---
 title: The Funeral
-permalink: /the-event/the-funeral
+permalink: /the-event/the-funeral/
 description: ""
 ---
 #### <center>The Funeral</center>
