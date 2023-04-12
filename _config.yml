@@ -50,6 +50,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mci-remembering-staging.netlify.app
-prod: https://mci-remembering-prod.netlify.app
+staging: https://staging.dmi15e2ipdeqq.amplifyapp.com/
+prod: https://master.dmi15e2ipdeqq.amplifyapp.com/
 is_government: true
