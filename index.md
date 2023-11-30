@@ -24,7 +24,7 @@ sections:
       title: Our Tribute
       subtitle: Focus
       description: Remembering.sg serves as a memorial for our founding Prime
-        Minister, Lee Kuan Yew.We aim to provide the public with insights on his
+        Minister, Lee Kuan Yew. We aim to provide the public with insights on his
         Life & Contributions.
       button: learn more
       url: /mrleeandsingapore
