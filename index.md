@@ -4,7 +4,7 @@ title: Remembering.sg
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification:
 sections:
   - hero:
       subtitle: Remembering Lee Kuan Yew (1923-2015)
