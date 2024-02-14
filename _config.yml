@@ -1,5 +1,5 @@
 title: Remembering.sg
-url: ""
+url: https://www.remembering.gov.sg
 favicon: /images/coatofarms.png
 colors:
   primary-color: "#5a5656"
@@ -53,3 +53,7 @@ plugins:
 staging: https://staging.dmi15e2ipdeqq.amplifyapp.com/
 prod: https://master.dmi15e2ipdeqq.amplifyapp.com/
 is_government: true
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: ""
+linkedin-insights: ""
