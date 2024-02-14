@@ -1,6 +1,6 @@
 ---
 title: Update on Queue Entry Points for Lying In State At Parliament House
-permalink: /Resources/press-releases/Update-on-Queue-Entry-Points-for-Lying-In-State-At-Parliament-House
+permalink: /resources/press-releases/update-on-queue-entry-points-for-lying-in-state-at-parliament-house/
 date: 2022-01-05
 layout: post
 description: ""

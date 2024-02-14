@@ -1,6 +1,6 @@
 ---
 title: Enter the PAP
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Enter-the-PAP
+permalink: /life-and-contributions/mr-lee-and-singapore/enter-the-pap/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

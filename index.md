@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Remembering.sg
-description: Brief site description here
+title: Remembering.gov.sg
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: null
 sections:
   - hero:
       subtitle: Remembering Lee Kuan Yew (1923-2015)
@@ -24,8 +24,8 @@ sections:
       title: Our Tribute
       subtitle: Focus
       description: Remembering.sg serves as a memorial for our founding Prime
-        Minister, Lee Kuan Yew.We aim to provide the public with insights on his
-        Life & Contributions.
+        Minister, Lee Kuan Yew. We aim to provide the public with insights into
+        his Life & Contributions.
       button: learn more
       url: /mrleeandsingapore
   - resources:

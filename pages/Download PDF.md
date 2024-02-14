@@ -1,6 +1,6 @@
 ---
 title: Download PDF
-permalink: /download-pdf
+permalink: /download-pdf/
 date: 2022-01-05
 layout: post
 description: ""

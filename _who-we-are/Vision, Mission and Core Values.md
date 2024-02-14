@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission and Core Values
-permalink: /who-we-are/vision-mission-and-core-values
+permalink: /who-we-are/vision-mission-and-core-values/
 description: ""
 ---
 #### <center> Vision, Mission and Core Values</center>

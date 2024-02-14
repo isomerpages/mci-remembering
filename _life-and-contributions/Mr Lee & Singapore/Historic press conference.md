@@ -1,6 +1,6 @@
 ---
 title: Historic press conference
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Historic-press-conference
+permalink: /life-and-contributions/mr-lee-and-singapore/historic-press-conference/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

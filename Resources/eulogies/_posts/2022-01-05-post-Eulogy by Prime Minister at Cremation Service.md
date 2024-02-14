@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Prime Minister at Cremation Service
-permalink: /Resources/eulogies/Eulogy-by-Prime-Minister-at-Cremation-Service
+permalink: /resources/eulogies/eulogy-by-prime-minister-at-cremation-service/
 date: 2022-01-05
 layout: post
 description: ""

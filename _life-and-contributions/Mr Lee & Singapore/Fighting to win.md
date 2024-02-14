@@ -1,6 +1,6 @@
 ---
 title: Fighting to win
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Fighting-to-win
+permalink: /life-and-contributions/mr-lee-and-singapore/fighting-to-win/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

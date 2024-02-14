@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Prime Minister
-permalink: /Resources/eulogies/Eulogy-by-Prime-Minister
+permalink: /resources/eulogies/eulogy-by-prime-minister/
 date: 2022-01-05
 layout: post
 description: ""

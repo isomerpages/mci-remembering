@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Ms Cassandra Chew
-permalink: /Resources/eulogies/Eulogy-by-Ms-Cassandra-Chew
+permalink: /resources/eulogies/eulogy-by-ms-cassandra-chew/
 date: 2022-01-05
 layout: post
 description: ""

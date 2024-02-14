@@ -1,6 +1,6 @@
 ---
 title: Back from Cambridge
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Back-from-Cambridge
+permalink: /life-and-contributions/mr-lee-and-singapore/back-from-cambridge/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

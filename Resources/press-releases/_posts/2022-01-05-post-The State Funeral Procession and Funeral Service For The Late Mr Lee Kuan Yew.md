@@ -1,6 +1,6 @@
 ---
 title: The State Funeral Procession and Funeral Service For The Late Mr Lee Kuan Yew
-permalink: /Resources/press-releases/The-State-Funeral-Procession-For-The-Late-Mr-Lee-Kuan-Yew
+permalink: /resources/press-releases/the-state-funeral-procession-for-the-late-mr-lee-kuan-yew/
 date: 2022-01-05
 layout: post
 description: ""

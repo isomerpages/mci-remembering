@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Mr Li Hongyi at Cremation Service
-permalink: /Resources/eulogies/Eulogy-by-Mr-Li-Hongyi-at-Cremation-Service
+permalink: /resources/eulogies/eulogy-by-mr-li-hongyi-at-cremation-service/
 date: 2022-01-05
 layout: post
 description: ""

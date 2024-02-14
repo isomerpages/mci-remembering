@@ -1,6 +1,6 @@
 ---
 title: Eulogy by Mr G Muthukumarasamy
-permalink: /Resources/eulogies/Eulogy-by-Mr-G-Muthukumarasamy
+permalink: /resources/eulogies/eulogy-by-mr-g-muthukumarasamy/
 date: 2022-01-05
 layout: post
 description: ""

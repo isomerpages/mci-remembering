@@ -1,6 +1,6 @@
 ---
 title: Lying in State Vigil Guards and Groups
-permalink: /Lying-in-State-Vigil-Guards-and-Groups
+permalink: /lying-in-state-vigil-guards-and-groups/
 date: 2021-12-28
 layout: post
 description: ""

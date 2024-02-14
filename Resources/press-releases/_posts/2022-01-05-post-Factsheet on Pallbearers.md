@@ -1,6 +1,6 @@
 ---
 title: Factsheet on Pallbearers
-permalink: /Resources/press-releases/Factsheet-on-Pallbearers
+permalink: /resources/press-releases/factsheet-on-pallbearers/
 date: 2022-01-05
 layout: post
 description: ""

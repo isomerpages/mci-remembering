@@ -1,6 +1,6 @@
 ---
 title: "Eulogy by Mr Sidek Saniff "
-permalink: /Resources/eulogies/Eulogy-by-Mr-Sidek-Saniff
+permalink: /resources/eulogies/eulogy-by-mr-sidek-saniff/
 date: 2022-01-05
 layout: post
 description: ""

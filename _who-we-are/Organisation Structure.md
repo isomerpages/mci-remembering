@@ -1,6 +1,6 @@
 ---
 title: Organisation Structure
-permalink: /who-we-are/organisation-structure
+permalink: /who-we-are/organisation-structure/
 description: ""
 ---
 #### <center>Organisation Structure</center>

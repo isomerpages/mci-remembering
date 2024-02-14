@@ -1,6 +1,6 @@
 ---
 title: "Eulogy by ESM Goh Chok Tong "
-permalink: /Resources/eulogies/Eulogy-by-ESM-Goh-Chok-Tong
+permalink: /resources/eulogies/eulogy-by-esm-goh-chok-tong/
 date: 2022-01-05
 layout: post
 description: ""

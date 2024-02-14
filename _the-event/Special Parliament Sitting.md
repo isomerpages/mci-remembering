@@ -1,6 +1,6 @@
 ---
 title: Special Parliament Sitting
-permalink: /the-event/special-parliament-sitting
+permalink: /the-event/special-parliament-sitting/
 description: ""
 ---
 #### <center> Special Parliament Sitting</center>

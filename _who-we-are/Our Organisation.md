@@ -1,6 +1,6 @@
 ---
 title: Our Organisation
-permalink: /who-we-are/our-organisation
+permalink: /who-we-are/our-organisation/
 date: 2021-12-15
 layout: post
 description: ""

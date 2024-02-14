@@ -1,6 +1,6 @@
 ---
 title: Opening his first
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Opening-his-first
+permalink: /life-and-contributions/mr-lee-and-singapore/opening-his-first/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

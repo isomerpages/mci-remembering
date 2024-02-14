@@ -1,6 +1,6 @@
 ---
 title: Love everlasting
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Love-everlasting
+permalink: /life-and-contributions/mr-lee-and-singapore/love-everlasting/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eulogy by President Tony Tan
-permalink: /Resources/eulogies/Eulogy-by-President-Tony-Tan
+permalink: /resources/eulogies/eulogy-by-president-tony-tan/
 date: 2022-01-05
 layout: post
 description: ""

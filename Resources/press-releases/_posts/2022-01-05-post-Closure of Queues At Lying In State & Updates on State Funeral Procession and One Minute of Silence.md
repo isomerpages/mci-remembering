@@ -1,7 +1,7 @@
 ---
 title: Closure of Queues At Lying In State & Updates on State Funeral Procession
   and One Minute of Silence
-permalink: /Resources/press-releases/Closure-of-Queues-At-Lying-In-State
+permalink: /resources/press-releases/closure-of-queues-at-lying-in-state/
 date: 2022-01-05
 layout: post
 description: ""

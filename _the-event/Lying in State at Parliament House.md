@@ -1,6 +1,6 @@
 ---
 title: Lying in State at Parliament House
-permalink: /the-event/lying-in-state-at-parliament-house
+permalink: /the-event/lying-in-state-at-parliament-house/
 description: ""
 ---
 #### <center> Lying in State at Parliament House </center>

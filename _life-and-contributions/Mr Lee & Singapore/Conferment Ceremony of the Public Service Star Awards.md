@@ -1,6 +1,6 @@
 ---
 title: Conferment Ceremony of the Public Service Star Awards
-permalink: /life-and-contributions/Mr-Lee-and-Singapore/Conferment-Ceremony-of-the-Public-Service-Star-Awards
+permalink: /life-and-contributions/mr-lee-and-singapore/conferment-ceremony-of-the-public-service-star-awards/
 description: ""
 third_nav_title: Mr Lee & Singapore
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fact Sheet: Funeral Procession From Istana To Parliament House 25 March 2015"
-permalink: /Resources/press-releases/Fact-sheet-funeral-procession-from-istana-to-parliment-hse
+permalink: /resources/press-releases/fact-sheet-funeral-procession-from-istana-to-parliment-hse/
 date: 2021-12-22
 layout: post
 description: ""
