@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Remembering.sg
+title: Remembering.gov.sg
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
