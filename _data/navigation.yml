@@ -1,0 +1,19 @@
+logo: /images/Rememberingsg%20icon.png
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: The Events
+    collection: the-event
+  - title: Life & Contributions
+    collection: life-and-contributions
+  - title: National Mourning Week 2015
+    collection: national-mourning-week-2015
+  - title: Media
+    resource_room: true
+  - title: In Memoriam 2016
+    collection: in-memoriam-2016
+  - title: E-book
+    url: /permalink
+    sublinks:
+      - title: Download PDF
+        url: /download-PDF

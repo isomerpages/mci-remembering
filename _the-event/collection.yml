@@ -1,0 +1,8 @@
+collections:
+  the-event:
+    output: true
+    order:
+      - The Funeral.md
+      - Lying in State at Parliament House.md
+      - State Funeral Service.md
+      - Special Parliament Sitting.md

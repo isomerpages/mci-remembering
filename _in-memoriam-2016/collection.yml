@@ -1,0 +1,7 @@
+collections:
+  in-memoriam-2016:
+    output: true
+    order:
+      - Tributes to Mr Lee 1 Year On.md
+      - Pictures from Commemorative Events and Exhibitions.md
+      - Community Commemorative Events and Exhibitions.md

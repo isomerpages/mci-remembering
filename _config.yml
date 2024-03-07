@@ -1,0 +1,59 @@
+title: Remembering.gov.sg
+url: https://www.remembering.gov.sg
+favicon: /images/coatofarms.png
+colors:
+  primary-color: "#5a5656"
+  secondary-color: "#000000"
+  media-colors:
+    - title: media-color-one
+      color: "#3c4555"
+    - title: media-color-two
+      color: "#59696b"
+    - title: media-color-three
+      color: "#445146"
+    - title: media-color-four
+      color: "#554b51"
+    - title: media-color-five
+      color: "#505261"
+resources_name: Resources
+description: An Isomer site of the Singapore Government
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.dmi15e2ipdeqq.amplifyapp.com/
+prod: https://master.dmi15e2ipdeqq.amplifyapp.com/
+is_government: true
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: ""
+linkedin-insights: ""
