@@ -4,7 +4,9 @@ title: Remembering.gov.sg
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure.
 sections:
   - hero:
       subtitle: Remembering Lee Kuan Yew (1923-2015)
