@@ -22,6 +22,7 @@ sections:
         - title: Eulogies
           description: ""
           url: /resources/eulogies
+      variant: center
   - infobar:
       title: Our Tribute
       subtitle: Focus
