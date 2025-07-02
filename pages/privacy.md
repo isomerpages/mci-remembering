@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 ### **Government Agency Privacy Statement**
 
@@ -12,6 +13,6 @@ Government of Singapore Privacy Statement
 5. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us with the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
 6. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
 7. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-8. Please contact MCI_Connects@mci.gov.sg if you: 
+8. Please contact MDDI_Connects@mddi.gov.sg if you: 
 (a) have any enquires or feedback on our data protection policies and procedures, 
 (b) need more information on or access to data which you have provided to us in the past

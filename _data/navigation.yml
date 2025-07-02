@@ -10,8 +10,3 @@ links:
     resource_room: true
   - title: In Memoriam 2016
     collection: in-memoriam-2016
-  - title: E-book
-    url: /permalink
-    sublinks:
-      - title: Download PDF
-        url: /download-PDF

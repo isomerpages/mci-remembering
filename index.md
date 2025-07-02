@@ -16,9 +16,6 @@ sections:
         - title: Life & Events
           description: ""
           url: /mrleeandsingapore
-        - title: Our Organisation
-          description: ""
-          url: who-we-are/our-organisation
         - title: Eulogies
           description: ""
           url: /resources/eulogies
