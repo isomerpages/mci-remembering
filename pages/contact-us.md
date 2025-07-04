@@ -6,7 +6,7 @@ agency_name: MDDI
 contacts:
   - content:
       - phone: ""
-      - email: rememberingleekuanyew@mci.gov.sg
+      - email: queries@mddi.gov.sg
       - other: ""
     title: For enquiries
 feedback: ""
